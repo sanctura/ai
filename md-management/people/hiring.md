@@ -2,31 +2,22 @@
 
 ## Open Positions
 
-### [Role Title]
-- **Priority**: High/Medium/Low
-- **Backfill or New**: [Backfill for X / New headcount]
-- **Hiring Manager**: [Name]
-- **Target Start**: [Date/Month]
-- **Status**: [Just Opened/Actively Recruiting/Offer Stage/etc.]
-- **Budget Approved**: Yes/No
+### Founders Associate
+- **Priority**: [High/Medium/Low - To be determined]
+- **Backfill or New**: New headcount (position exists on org chart)
+- **Hiring Manager**: Grant Merwitz (MD)
+- **Target Start**: [Date/Month - To be determined]
+- **Status**: Position open - Not yet actively recruiting
+- **Budget Approved**: [To be confirmed]
 - **Pipeline**:
-  - Active candidates: [Number]
-  - Interview stage: [Number]
-  - Offer stage: [Number]
-- **Blockers**: [Any issues preventing progress]
-
-### [Role Title]
-- **Priority**: High/Medium/Low
-- **Backfill or New**: [Backfill for X / New headcount]
-- **Hiring Manager**: [Name]
-- **Target Start**: [Date/Month]
-- **Status**: [Status]
-- **Budget Approved**: Yes/No
-- **Pipeline**:
-  - Active candidates: [Number]
-  - Interview stage: [Number]
-  - Offer stage: [Number]
-- **Blockers**: [Any issues]
+  - Active candidates: 0
+  - Interview stage: 0
+  - Offer stage: 0
+- **Blockers**:
+  - Job description needs to be defined
+  - Responsibilities and scope need clarification
+  - Currently 4 staff reporting to this vacant position (Wendy Denning - Consultant, Amanda Ross - Practice Manager, Lexee Duval - Receptionist, Elly Moore - Receptionist) requiring interim management
+- **Notes**: Critical to define role scope and interim management structure for the 4 staff currently mapped to this position
 
 ## Recruiting Metrics
 
@@ -48,4 +39,4 @@
 
 ---
 
-*Last Updated: [Date]*
+*Last Updated: 2026-01-13*
