@@ -13,18 +13,14 @@
 - 60-minute session: R1,194.95
 - 90-minute session: R1,792.42
 
-Cost including VAT (15%)
+**Cost including VAT (15%)**
 
-45 minutes: R1,030.64
+- 45 minutes: R1,030.64
+- 60 minutes: R1,374.19
+- 90 minutes: R2,061.28
 
-60 minutes: R1,374.19
+**Proposed pricing – cost plus 60% markup (inclusive of VAT)**
 
-90 minutes: R2,061.28
-
-Proposed pricing – cost plus 60% markup (inclusive of VAT)
-
-45-minute session: R1,649.02
-
-60-minute session: R2,198.70
-
-90-minute session: R3,298.05
+- 45-minute session: R1,649.02
+- 60-minute session: R2,198.70
+- 90-minute session: R3,298.05
