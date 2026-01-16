@@ -10,7 +10,7 @@
 ### MONDAY - MD DAY 🎯
 | Time | Meeting | Attendee | Frequency |
 |------|---------|----------|-----------|
-| 9:00-9:30 | Practice Operations | Kyle Bennet | Weekly |
+| 9:00-9:30 | Practice Operations | Kyle Bennett | Weekly |
 | 10:00-10:30 | Finance Review | Alida Wiese | Weekly |
 | 11:00-17:00 | **MD Deep Work** | - | Protected |
 
@@ -104,7 +104,7 @@
 ## 📋 Meeting Roster Quick List
 
 ### Weekly (Every Week)
-- ✅ Kyle Bennet - Monday 9am
+- ✅ Kyle Bennett - Monday 9am
 - ✅ Alida Wiese - Monday 10am
 - ✅ Yaseen Harneker - Tuesday 9am
 - ✅ Amanda Ross - Wednesday 11am

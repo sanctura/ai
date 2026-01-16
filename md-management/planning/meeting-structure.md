@@ -18,7 +18,7 @@
 ### Monday - MD Day: Operations & Management (1 hour meetings)
 **Purpose**: Set the week, operational coordination, full MD focus
 
-- **9:00-9:30** - 1:1 with Kyle Bennet (Practice Manager) (30min) - **WEEKLY**
+- **9:00-9:30** - 1:1 with Kyle Bennett (Practice Manager) (30min) - **WEEKLY**
   - *Role: MD*
   - *Purpose*: Reception/facilities operations, patient experience, team performance
   - *Why weekly*: Runs own practice, needs regular operational check-ins

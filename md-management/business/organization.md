@@ -27,7 +27,7 @@
       - Candice Henri - Registered Nurse
       - Carel Louw - Nurse
 
-  - **Kyle Bennet** - Practice Manager
+  - **Kyle Bennett** - Practice Manager
     - Janine Nathan - Receptionist
     - Nuhaa Peterson - Receptionist
     - Sweetness Twalo - House Keeping

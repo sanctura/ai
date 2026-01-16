@@ -30,12 +30,13 @@ Foundational strategic information that informs all decision-making:
 Team oversight and performance tracking:
 - `team-roster.md` - All direct reports (6), extended team (18 indirect reports), 1:1 schedule, and team health indicators
 - `hiring.md` - Open positions (Founders Associate), recruiting pipeline, and future hiring needs
+- `google-drive-structure.md` - Reference for MD Google Drive folder structure with sharing permissions
 
 **Individual Performance Tracking** (`/people/performance/`):
 - `TEMPLATE.md` - Template for creating new performance files
 - `elena-hilton.md` - Dr Elena Hilton (Medical Officer, Cape Town)
 - `ismaeel-ebrahim.md` - Dr Ismaeel Ebrahim (Medical Officer, London)
-- `kyle-bennet.md` - Kyle Bennet (Practice Manager)
+- `kyle-bennett.md` - Kyle Bennett (Practice Manager)
 - `yaseen-harneker.md` - Yaseen Harneker (COO)
 - `alida-wiese.md` - Alida Wiese (Finance Manager)
 
@@ -63,14 +64,22 @@ Weekly execution, meeting structure, and decision tracking:
 - `MEETING-SCHEDULE-SUMMARY.md` - One-page quick reference of weekly schedule, 4-week cycle pattern, meeting roster
 
 **Weekly Planning System:**
-- `weekly-template.md` - Blank template to copy each Monday for the week ahead
-- `current-week.md` - This week's plan: top 3 priorities, meetings, focus blocks, decisions needed, end-of-week review
-- `WEEKLY-USAGE-GUIDE.md` - Complete instructions for using the weekly planning system, meeting prep checklists, cycle week reference
 - `EXAMPLE-current-week.md` - Filled example showing how to write priorities, track meetings, and complete reviews
 - `archive/` - Historical weekly plans (moved every Monday)
 
+**Concepts & Templates** (`/planning/concepts/`):
+*Ideas and templates that may or may not be adopted:*
+- `weekly-template.md` - Blank template to copy each Monday for the week ahead
+- `current-week.md` - Draft/template for this week's plan: top 3 priorities, meetings, focus blocks, decisions needed, end-of-week review
+- `WEEKLY-USAGE-GUIDE.md` - Complete instructions for using the weekly planning system, meeting prep checklists, cycle week reference
+- `decisions.md` - Template for tracking active decisions (pending), recent decisions (last 30 days), and major historical decisions with outcomes
+
+**Setup & Utilities:**
+- `meeting-setup-checklist.md` - Checklist for tracking calendar meeting setup progress (can be deleted once complete)
+- `meeting-template.md` - Generic meeting notes template (date, attendees, agenda, actions) for Google Drive use
+
 **Decision Tracking:**
-- `decisions.md` - Active decisions (pending), recent decisions (last 30 days), and major historical decisions with outcomes
+- `concepts/decisions.md` - Active decisions (pending), recent decisions (last 30 days), and major historical decisions with outcomes
 
 **Weekly planning must align with CEO directives and strategic priorities. Meeting structure follows 4-week cycle with alternating bi-weekly patterns.**
 
@@ -112,7 +121,7 @@ Executive dashboard structure:
 ### Key Workflows
 
 **Weekly Planning (Every Monday, 10-15 minutes)**
-1. Copy `planning/weekly-template.md` to `planning/current-week.md`
+1. Copy `planning/concepts/weekly-template.md` to `planning/current-week.md`
 2. Fill in week dates and cycle week number (1, 2, 3, or 4) - determines which meetings occur
 3. Read `business/ceo-directives.md` for current CEO priorities
 4. Review `projects/active.md` for project health and blockers
@@ -122,7 +131,9 @@ Executive dashboard structure:
 8. Prep meeting agendas for the week (direct reports send theirs 24h before)
 9. Plan deep work blocks with specific focus areas
 
-**Refer to `planning/WEEKLY-USAGE-GUIDE.md` for complete workflow and `planning/EXAMPLE-current-week.md` for reference.**
+**Refer to `planning/concepts/WEEKLY-USAGE-GUIDE.md` for complete workflow and `planning/EXAMPLE-current-week.md` for reference.**
+
+*Note: Templates live in `concepts/` folder. Active weekly plans should be `planning/current-week.md` (root).*
 
 **Meeting Structure Understanding**
 1. Refer to `planning/MEETING-SCHEDULE-SUMMARY.md` for quick weekly schedule reference
@@ -136,9 +147,9 @@ Executive dashboard structure:
 **Decision Support**
 1. Read relevant context files (`business/overview.md`, `ceo-directives.md`, `organization.md`)
 2. Review related projects, risks, and metrics
-3. Check `planning/decisions.md` for precedent decisions
+3. Check `planning/concepts/decisions.md` for precedent decisions
 4. Provide recommendation with clear rationale referencing business context
-5. Document decision in `decisions.md` once made
+5. Document decision in `planning/concepts/decisions.md` once made
 
 **People Management**
 1. Read `people/team-roster.md` for team overview
@@ -220,7 +231,7 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 
 ## Common Requests
 
-**"Help me plan this week"** → Check cycle week number → Read ceo-directives.md, active.md, risks.md, team-roster.md → Use weekly-template.md to draft current-week.md with appropriate meetings for that cycle week
+**"Help me plan this week"** → Check cycle week number → Read ceo-directives.md, active.md, risks.md, team-roster.md → Copy `concepts/weekly-template.md` to `current-week.md` with appropriate meetings for that cycle week
 **"What meetings do I have this week?"** → Check cycle week (1-4) → Refer to MEETING-SCHEDULE-SUMMARY.md → List specific meetings for that cycle
 **"Prep me for 1:1 with [Name]"** → Read performance/[name].md → summarize status, review last meeting actions, suggest discussion topics
 **"Should we pursue [opportunity]?"** → Read overview.md, organization.md, active.md, risks.md, opportunities.md → assess fit and provide recommendation

@@ -29,7 +29,7 @@
 ### Monday - MD DAY 🎯 (Full management focus)
 
 **Meetings:**
-- **9:00-9:30** - Kyle Bennet (Practice Manager)
+- **9:00-9:30** - Kyle Bennett (Practice Manager)
   - Agenda:
     - Reception coverage issue last week
     - Patient feedback from satisfaction survey

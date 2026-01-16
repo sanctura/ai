@@ -32,7 +32,7 @@
 - **Current Focus**: [To be determined]
 - **Notes**: Manages a team of 4 including Head Nurse and nursing staff
 
-### Kyle Bennet
+### Kyle Bennett
 - **Role**: Practice Manager
 - **Reports To**: Grant Merwitz (MD)
 - **Start Date**: [Date]
@@ -85,7 +85,7 @@
 3. **Candice Henri** - Registered Nurse - [To be assessed]
 4. **Carel Louw** - Nurse - [To be assessed]
 
-### Under Kyle Bennet (Practice Operations)
+### Under Kyle Bennett (Practice Operations)
 1. **Janine Nathan** - Receptionist - [To be assessed]
 2. **Nuhaa Peterson** - Receptionist - [To be assessed]
 3. **Sweetness Twalo** - House Keeping - [To be assessed]
@@ -107,7 +107,7 @@
 |--------|-----------|--------------|--------------|-----------------|
 | Dr Elena Hilton | [To set] | | | Cape Town operations, team performance |
 | Dr Ismaeel Ebrahim | [To set] | | | London operations, team performance |
-| Kyle Bennet | [To set] | | | Practice operations, facilities |
+| Kyle Bennett | [To set] | | | Practice operations, facilities |
 | Yaseen Harneker | [To set] | | | Operational strategy, process improvement |
 | Alida Wiese | [To set] | | | Financial performance, budgets |
 

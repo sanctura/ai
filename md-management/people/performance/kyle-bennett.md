@@ -1,4 +1,4 @@
-# Kyle Bennet - Performance Tracking
+# Kyle Bennett - Performance Tracking
 
 **Role**: Practice Manager
 **Reports To**: Grant Merwitz (MD)

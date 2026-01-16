@@ -3,7 +3,7 @@
 **Role**: Medical Officer
 **Reports To**: Grant Merwitz (MD)
 **Start Date**: [Date]
-**Location**: London
+**Location**: Cape Town
 
 ## Current Performance Summary
 
@@ -13,7 +13,7 @@
 
 ## Key Responsibilities & Performance
 
-### Clinical Oversight - London Operations
+### Clinical Oversight - Cape Town Operations
 - **Expected**: Maintain high clinical standards, ensure compliance with UK medical protocols, oversee patient care quality
 - **Actual**: [To be assessed]
 - **Rating**: [To be assessed]
