@@ -6,10 +6,10 @@ Use this to track progress setting up your recurring calendar meetings.
 
 ## Weekly Meetings (Every Week)
 
-- [ ] **Kyle Bennett** - Monday 9:00-9:30 (Practice Operations)
-- [ ] **Alida Wiese** - Monday 10:00-10:30 (Finance Review)
+- [X] **Kyle Bennett** - Monday 9:00-9:30 (Practice Operations)
+- [X] **Alida Wiese** - Monday 10:00-10:30 (Finance Review)
 - [ ] **Yaseen Harneker** - Tuesday 9:00-9:30 (Operations Sync)
-- [ ] **Amanda Ross** - Wednesday 11:00-11:30 (Practice Operations) *UK timezone*
+- [X] **Amanda Ross** - Wednesday 11:00-11:30 (Practice Operations) *UK timezone*
 
 ---
 
