@@ -62,10 +62,13 @@ Click **+ Add section** to create each:
 
 After the standard sections, add role-specific sections:
 
-**Yaseen (COO)**:
-- Strategic Initiatives
-- Process Improvements
-- Cross-Location Items
+**Yaseen (CPO)** - Uses simplified 4-section model (see note below):
+- Spotlight (replace "This Week")
+- Backlog
+- Waiting On
+- Done
+
+*Note: Yaseen's board uses a different approach. Instead of domain sections, he uses "Project" as a custom field to filter. Only granular milestones appear as tasks. See `work-board-strategy.md` for full rationale.*
 
 **Alida (Finance)**:
 - Monthly Cycle
@@ -109,8 +112,12 @@ Custom fields help you filter, sort, and report. Create these at the project lev
 
 ### Role-Specific Fields
 
-**Yaseen**:
-- Location (Dropdown): Cape Town / London / Both
+**Yaseen** (Project as Custom Field approach):
+- Project (Dropdown): Radiation Bunker / Chemo Licensing / Capital Equipment / [Add others as needed]
+- Target Date (Date): When this milestone should complete
+- Dependency (Dropdown): Vendor / Regulator / Internal / None
+
+*Key: The "Project" field is the primary filter. To see full project status, filter by Project = [project name] to view all milestones across Spotlight, Backlog, Waiting On, and Done.*
 
 **Alida**:
 - Recurring (Yes/No)
@@ -304,10 +311,23 @@ Section: Backlog
 Note: Brain dump current work, then prioritize
 ```
 
-**Yaseen**:
+**Yaseen** (using Project as Custom Field approach):
 ```
-Task: Document cross-location coordination needs
-Section: Strategic Initiatives
+Task: Set up Project custom field with initial projects
+Section: Backlog
+Note: Create dropdown with Radiation Bunker, Chemo Licensing, Capital Equipment, etc.
+```
+
+```
+Task: Identify next 3-5 milestones for each project
+Section: Spotlight (if this week) or Backlog (if future)
+Note: Granular deliverables only - not the project itself. Tag each with Project field.
+```
+
+```
+Task: Review filtering approach
+Section: Backlog
+Note: Test filtering by Project to see full project roadmap across all sections
 ```
 
 **Alida**:

@@ -1,6 +1,6 @@
 # Yaseen Harneker - Performance Tracking
 
-**Role**: COO (Chief Operating Officer)
+**Role**: CPO (Chief Project Officer)
 **Reports To**: Grant Merwitz (MD)
 **Start Date**: [Date]
 **Location**: [Location]
@@ -13,23 +13,28 @@
 
 ## Key Responsibilities & Performance
 
-### Operational Strategy & Leadership
-- **Expected**: Drive operational excellence, develop and implement operational strategy, optimize processes across locations
+### Strategic Project Leadership
+- **Expected**: Lead, own, and execute strategic and complex group-wide projects aligned with expansion strategy
 - **Actual**: [To be assessed]
 - **Rating**: [To be assessed]
 
-### Cross-Location Coordination
-- **Expected**: Ensure consistency and efficiency across Cape Town and London operations, facilitate best practice sharing
+### Capital & Infrastructure Projects
+- **Expected**: Deliver capital equipment commissioning, radiation bunker development, and infrastructure projects on time and within budget
 - **Actual**: [To be assessed]
 - **Rating**: [To be assessed]
 
-### Process Improvement & Systems
-- **Expected**: Identify operational bottlenecks, implement improvements, drive operational KPIs
+### Regulatory & Licensing Delivery
+- **Expected**: Drive chemotherapy licensing, regulatory approvals, and compliance-related project deliverables
 - **Actual**: [To be assessed]
 - **Rating**: [To be assessed]
 
-### Executive Team Collaboration
-- **Expected**: Work effectively with MD, Medical Officers, Finance Manager to drive business objectives
+### Horizon-Critical Initiatives
+- **Expected**: Identify, plan, and execute strategic initiatives critical to company growth and expansion
+- **Actual**: [To be assessed]
+- **Rating**: [To be assessed]
+
+### Stakeholder Management
+- **Expected**: Coordinate across internal teams, external vendors, regulators, and contractors to deliver project outcomes
 - **Actual**: [To be assessed]
 - **Rating**: [To be assessed]
 
@@ -99,8 +104,8 @@
 
 ## Notes
 
-Senior leadership role with no direct reports. Key strategic partner in driving operational excellence.
+Senior leadership role with no direct reports. Owns complex, multi-stakeholder strategic projects critical to company expansion. Key focus areas include radiation bunker development, chemotherapy licensing, capital equipment, and regulatory infrastructure.
 
 ---
 
-*Last Updated: 2026-01-13*
+*Last Updated: 2026-01-23*

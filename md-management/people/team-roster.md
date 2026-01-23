@@ -43,14 +43,14 @@
 - **Notes**: Manages a team of 3 (2 Receptionists, 1 House Keeping)
 
 ### Yaseen Harneker
-- **Role**: COO (Chief Operating Officer)
+- **Role**: CPO (Chief Project Officer)
 - **Reports To**: Grant Merwitz (MD)
 - **Start Date**: [Date]
 - **Location**: [Location]
-- **Key Responsibilities**: Overall operations, process optimization, operational strategy
+- **Key Responsibilities**: Lead and execute strategic group-wide projects including capital equipment commissioning, radiation bunker development, chemotherapy licensing, regulatory and infrastructure delivery, and horizon-critical initiatives aligned with expansion strategy
 - **Performance Status**: [To be assessed]
 - **Current Focus**: [To be determined]
-- **Notes**: Senior leadership role
+- **Notes**: Senior leadership role - owns complex, multi-stakeholder strategic projects
 
 ### Alida Wiese
 - **Role**: Finance Manager
@@ -120,4 +120,4 @@
 
 ---
 
-*Last Updated: 2026-01-13*
+*Last Updated: 2026-01-23*

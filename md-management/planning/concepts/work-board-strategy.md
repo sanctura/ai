@@ -53,32 +53,92 @@ Completed items. Archive monthly for a sense of progress and to keep board clean
 
 ## Approach by Staff Member
 
-### Yaseen Harneker (COO)
+### Yaseen Harneker (CPO - Chief Project Officer)
 
-**Nature of Work**: Strategic operational initiatives, cross-location coordination, process improvement
+**Nature of Work**: Strategic group-wide projects including capital equipment commissioning, radiation bunker development, chemotherapy licensing, regulatory delivery, and infrastructure initiatives
 
-**Board Focus**:
-- Heavy on "In Progress" section - COO work tends to be larger initiatives
-- Less "Rapid Tasks" - strategic role means fewer quick-hit items
-- Important to track dependencies on other leaders
+**The Challenge with CPO Work**:
+CPO projects are large, multi-phase strategic initiatives that:
+- Span months with many subtasks and milestones
+- Have some subtasks active now, others that activate later
+- Never fully "complete" until the entire project delivers
+
+The standard "This Week" / "In Progress" model breaks down because:
+- A 6-month project can't live in "This Week" forever
+- "In Progress" becomes a dumping ground for everything active
+- No distinction between "the whole project" and "what I'm actually working on right now"
+
+**Solution: Project as Custom Field**
+
+**Core Insight**: Projects don't sit on the board as tasks - they're a lens to filter by. Only granular, actionable milestones appear on the board. Tasks flow through simple workflow sections.
+
+- **Project = Custom Field** (a filter/category)
+- **Tasks = Granular milestones** (specific deliverables)
+- **Sections = Workflow state** (where things are right now)
 
 **Suggested Sections**:
 | Section | Purpose |
 |---------|---------|
-| Rapid Tasks | Quick operational decisions, approvals |
-| This Week | Current week priorities |
-| Strategic Initiatives | Multi-week/month projects |
-| Process Improvements | Ongoing optimization work |
-| Cross-Location Items | Cape Town/London coordination |
-| Waiting On | Blocked items |
-| Done | Completed work |
+| Spotlight | This week's focus - max 3-5 specific deliverables actively being driven |
+| Backlog | Prioritized queue of upcoming work across all projects |
+| Waiting On | Blocked on external parties (vendors, regulators, internal teams) |
+| Done | Completed milestones (archive monthly) |
 
-**1:1 Integration**: Use board as agenda - walk top-to-bottom, focus on blockers and strategic decisions needed.
+Simple 4-section workflow. Clean and focused.
+
+**How It Works**:
+
+*Board View Example*:
+```
+[Spotlight] ─────────────────────────────
+  Submit permit application      [Radiation Bunker]
+  Finalize vendor contract       [Capital Equipment]
+  Complete licensing docs        [Chemo Licensing]
+
+[Backlog] ───────────────────────────────
+  Contractor RFP                 [Radiation Bunker]
+  Inspection scheduling          [Chemo Licensing]
+  Equipment spec review          [Capital Equipment]
+  Foundation work planning       [Radiation Bunker]
+
+[Waiting On] ────────────────────────────
+  Permit approval                [Radiation Bunker]
+  Regulatory response            [Chemo Licensing]
+
+[Done] ──────────────────────────────────
+  Architectural drawings         [Radiation Bunker]
+  Initial budget approval        [Capital Equipment]
+```
+
+*Filtering by Project*:
+To see all work for "Radiation Bunker":
+- Filter custom field "Project" = Radiation Bunker
+- Shows: Spotlight + Backlog + Waiting On + Done items for that project
+- Full project roadmap visible through one filter
+
+**Weekly Rhythm**:
+1. **Start of week**: Review Backlog, pull 3-5 items into Spotlight
+2. **During week**: Work Spotlight items, move to Done when complete
+3. **Blocked items**: Move to Waiting On, tag who/what it's waiting on
+4. **In 1:1**: Walk Spotlight (current focus), check Waiting On (unblock), review Backlog (prioritize next)
+
+**1:1 Integration**: Use board as agenda - walk Spotlight first (what's the focus?), check Waiting On (what can we unblock?), review Backlog (what's coming next?). Filter by project when diving deep on specific initiatives.
 
 **Key Fields to Track**:
-- Priority (P1/P2/P3)
-- Location affected (Cape Town / London / Both)
-- Target completion date
+| Field | Options | Purpose |
+|-------|---------|---------|
+| Project | Radiation Bunker / Chemo Licensing / Capital Equipment / [Others] | Which project this milestone belongs to |
+| Target Date | Date | When this milestone should complete |
+| Dependency | Vendor / Regulator / Internal / None | What's this blocked on (for Waiting On items) |
+
+**Why This Works Better**:
+
+| Problem | Solution |
+|---------|----------|
+| "Radiation Bunker" sits in one section forever | No parent project task - only granular milestones that complete and move to Done |
+| "This Week" vs "In Progress" confusion | Single "Spotlight" section = this week's active focus. No ambiguity. |
+| Future work clutters the view | Future milestones sit in Backlog until pulled to Spotlight |
+| Can't see full project status | Filter by Project custom field to see all tasks across sections |
 
 ---
 

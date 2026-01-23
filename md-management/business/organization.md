@@ -32,7 +32,7 @@
     - Nuhaa Peterson - Receptionist
     - Sweetness Twalo - House Keeping
 
-  - **Yaseen Harneker** - COO
+  - **Yaseen Harneker** - CPO (Chief Project Officer)
 
   - **Alida Wiese** - Finance Manager
 
@@ -71,13 +71,13 @@
 |----------|-----------|-------|
 | Cape Town | ~14 | Medical Officer, Head Nurse, Nurses, Locums, Practice staff |
 | London | ~5 | Medical Officer, Head Nurse, Nurses |
-| Global | ~9 | COO, Finance Manager, Practice Manager, Support staff |
+| Global | ~9 | CPO, Finance Manager, Practice Manager, Support staff |
 
 ### By Department
 | Department | Current | Notes |
 |------------|---------|-------|
 | Medical/Clinical | 14 | Medical Officers (2), Head Nurses (2), Registered Nurses (5), Locums (3), Nurse (1), Assistant Locums (1) |
-| Operations | 2 | COO, Practice Manager |
+| Operations | 2 | CPO, Practice Manager |
 | Finance | 1 | Finance Manager |
 | Administration/Support | 9 | Practice Manager, Receptionists (4), House Keeping (1), Personal Assistant (1), Consultant (1), Outsource Services |
 | Leadership | 1 | CEO (Dr James Laporta) |
@@ -87,7 +87,7 @@
 | Level | Count | Notes |
 |-------|-------|-------|
 | Executive | 2 | CEO, Grant Merwitz (MD/CTO/CCO) |
-| Senior Management | 4 | Medical Officers (2), COO, Finance Manager |
+| Senior Management | 4 | Medical Officers (2), CPO, Finance Manager |
 | Middle Management | 4 | Head Nurses (2), Practice Managers (2) |
 | Individual Contributors | 19 | Nurses, Receptionists, Support staff, Consultants |
 
@@ -104,4 +104,4 @@
 
 ---
 
-*Last Updated: 2026-01-13*
+*Last Updated: 2026-01-23*
