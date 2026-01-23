@@ -73,6 +73,8 @@ Weekly execution, meeting structure, and decision tracking:
 - `current-week.md` - Draft/template for this week's plan: top 3 priorities, meetings, focus blocks, decisions needed, end-of-week review
 - `WEEKLY-USAGE-GUIDE.md` - Complete instructions for using the weekly planning system, meeting prep checklists, cycle week reference
 - `decisions.md` - Template for tracking active decisions (pending), recent decisions (last 30 days), and major historical decisions with outcomes
+- `work-board-strategy.md` - Asana work board strategy for each direct report: shared workspaces, section structures by role, operating principles, and 1:1 integration
+- `asana-setup-guide.md` - Step-by-step Asana setup instructions: project creation, section configuration, custom fields by role, board views, and rollout schedule
 
 **Setup & Utilities:**
 - `meeting-setup-checklist.md` - Checklist for tracking calendar meeting setup progress (can be deleted once complete)
@@ -171,6 +173,14 @@ Executive dashboard structure:
 4. Flag risks with increasing likelihood or impact
 5. Assess mitigation plan progress
 
+**Work Board Management** (Asana-based direct report tracking)
+1. Refer to `planning/concepts/work-board-strategy.md` for overall approach and per-person section structure
+2. Use `planning/concepts/asana-setup-guide.md` for setup and configuration instructions
+3. Each direct report has their own work board with role-specific sections
+4. Yaseen (CPO) uses "Project as Custom Field" model: 4 sections (Spotlight, Backlog, Waiting On, Done) with Project dropdown for filtering
+5. Other reports use domain-specific sections (e.g., Alida: Monthly Cycle, CFO Coordination; Kyle: Facilities, Reception)
+6. Review work boards before 1:1s to identify blockers and priorities
+
 ## Assistant Behavior Guidelines
 
 ### Context-First Approach
@@ -239,6 +249,8 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 **"Are we aligned with strategy?"** → Read overview.md, ceo-directives.md, active.md → identify drift or misalignment
 **"Show me my meeting schedule"** → Display MEETING-SCHEDULE-SUMMARY.md in readable format
 **"Who reports to whom?"** → Reference organization.md or resources/Org Chart image
+**"Help me set up work boards"** → Read `planning/concepts/work-board-strategy.md` and `planning/concepts/asana-setup-guide.md` → Guide through Asana project setup per direct report
+**"How should Yaseen's board work?"** → Reference work-board-strategy.md → Explain Project as Custom Field model with Spotlight/Backlog/Waiting On/Done sections
 
 ## Git Usage
 
