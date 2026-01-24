@@ -31,6 +31,7 @@ Team oversight and performance tracking:
 - `team-roster.md` - All direct reports (6), extended team (18 indirect reports), 1:1 schedule, and team health indicators
 - `hiring.md` - Open positions (Founders Associate), recruiting pipeline, and future hiring needs
 - `google-drive-structure.md` - Reference for MD Google Drive folder structure with sharing permissions
+- `direct-report-expectations.md` - General expectations for all direct reports: Attitude, Communication, Accountability, Continuous Improvement, Strategic Alignment
 
 **Individual Performance Tracking** (`/people/performance/`):
 - `TEMPLATE.md` - Template for creating new performance files
@@ -75,6 +76,7 @@ Weekly execution, meeting structure, and decision tracking:
 - `decisions.md` - Template for tracking active decisions (pending), recent decisions (last 30 days), and major historical decisions with outcomes
 - `work-board-strategy.md` - Asana work board strategy for each direct report: shared workspaces, section structures by role, operating principles, and 1:1 integration
 - `asana-setup-guide.md` - Step-by-step Asana setup instructions: project creation, section configuration, custom fields by role, board views, and rollout schedule
+- `asana-workboard-reference.md` - Quick reference for Asana work board configurations per direct report
 
 **Setup & Utilities:**
 - `meeting-setup-checklist.md` - Checklist for tracking calendar meeting setup progress (can be deleted once complete)
@@ -90,6 +92,13 @@ Ongoing monitoring and strategic evaluation:
 - `risks.md` - Active risks by category (Financial/Operational/Strategic/Technical/People) with impact, likelihood, mitigation plans, and leading indicators
 - `opportunities.md` - Active opportunities with potential value, effort required, strategic fit, and decision timelines
 - `metrics.md` - Executive dashboard with financial, growth, product/technology, team, and operational efficiency KPIs
+
+**MD Progress Tracking** (`/tracking/md-progress/`):
+Personal progress tracking for the Managing Director role transition:
+- `README.md` - System overview and weekly workflow
+- `progress-tracker.md` - Cumulative timeline, wins log, and growth areas
+- `weekly-logs/` - Weekly progress entries named `log-YYYY-MM-DD.md` (Monday date)
+- `communications/` - CEO and board update drafts named `update-YYYY-MM-DD.md`
 
 **Always consider risks and opportunities when making recommendations.**
 
@@ -107,7 +116,7 @@ Executive dashboard structure:
 **Daily**: Review/update `current-week.md`, mark priority progress (🔴🟡🟢), update project status, capture decisions after meetings
 **Weekly**:
 - **Monday**: Copy `weekly-template.md` → `current-week.md`, set top 3 priorities, prep meeting agendas
-- **Friday**: Complete week-end review section in `current-week.md`, archive to `planning/archive/week-YYYY-MM-DD.md`
+- **Friday**: Complete week-end review section in `current-week.md`, archive to `planning/archive/week-YYYY-MM-DD.md`, create MD progress log in `tracking/md-progress/weekly-logs/`
 **Bi-Weekly**: Update performance files before Medical Officer 1:1s (Elena W1,3 / Ismaeel W2,4)
 **Monthly**: Update metrics, refresh all performance files before scheduled 1:1s, review risks/opportunities
 **Quarterly**: Update strategic sections in `business/overview.md`, conduct formal performance reviews, adjust org structure if needed
@@ -181,6 +190,14 @@ Executive dashboard structure:
 5. Other reports use domain-specific sections (e.g., Alida: Monthly Cycle, CFO Coordination; Kyle: Facilities, Reception)
 6. Review work boards before 1:1s to identify blockers and priorities
 
+**MD Progress Tracking** (Personal role transition tracking)
+1. Each Friday, create weekly log in `tracking/md-progress/weekly-logs/log-YYYY-MM-DD.md` (Monday date)
+2. List MD progress items as brief bullets
+3. List CTO progress items if relevant
+4. Update `tracking/md-progress/progress-tracker.md` with key wins
+5. When needed, draft CEO updates in `tracking/md-progress/communications/`
+6. Keep entries concise and factual - not over-elaborated
+
 ## Assistant Behavior Guidelines
 
 ### Context-First Approach
@@ -217,6 +234,8 @@ When user asks about:
 - Weekly plans: `planning/current-week.md` (active week)
 - Weekly archives: `planning/archive/week-YYYY-MM-DD.md` (Monday date of that week)
 - Project archives: `projects/archive/[project-name]-YYYY-MM-DD.md` (completion date)
+- MD progress logs: `tracking/md-progress/weekly-logs/log-YYYY-MM-DD.md` (Monday date)
+- CEO/board updates: `tracking/md-progress/communications/update-YYYY-MM-DD.md` (creation date)
 - Always update "Last Updated: [Date]" footer in files when modified
 
 ## Key Business Context
@@ -251,6 +270,9 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 **"Who reports to whom?"** → Reference organization.md or resources/Org Chart image
 **"Help me set up work boards"** → Read `planning/concepts/work-board-strategy.md` and `planning/concepts/asana-setup-guide.md` → Guide through Asana project setup per direct report
 **"How should Yaseen's board work?"** → Reference work-board-strategy.md → Explain Project as Custom Field model with Spotlight/Backlog/Waiting On/Done sections
+**"Log my progress this week"** → Use md-progress-tracker agent → Create weekly log in `tracking/md-progress/weekly-logs/`
+**"Draft a CEO update"** → Use md-progress-tracker agent → Create concise update in `tracking/md-progress/communications/`
+**"What are my expectations for reports?"** → Read `people/direct-report-expectations.md` → Review the 5 expectations: Attitude, Communication, Accountability, Continuous Improvement, Strategic Alignment
 
 ## Git Usage
 
