@@ -30,45 +30,43 @@
 
 ## 1A. Invoicing Rollout Checklist
 
-*Critical workstream - must progress while Alida is present*
+*Critical workstream - GO LIVE BY END OF WEEK 2 to get 2 weeks with Alida support*
 
-### Week 1: Define & Prepare
+**Simultaneous rollout:** CPT (Kyle) and UK (Amanda) go live together.
 
-| # | Item | Owner | Target | Status |
-|---|------|-------|--------|--------|
-| 1A.1 | Review invoicing plan with Alida | Grant + Alida | 27 Jan | [ ] |
-| 1A.2 | Confirm Xero setup/licensing needs | Grant + Alida | 28 Jan | [ ] |
-| 1A.3 | Schedule training sessions | Kyle + Alida | 29 Jan | [ ] |
-| 1A.4 | Define which services each role invoices | Alida + Kyle | 31 Jan | [ ] |
-
-### Week 2: Reception Training
+### Week 1: Alida Builds Foundation (26 Jan - 1 Feb)
 
 | # | Item | Owner | Target | Status |
 |---|------|-------|--------|--------|
-| 1A.5 | Billing manual - consultations section | Alida | 3 Feb | [ ] |
-| 1A.6 | Reception training: consultations, supplements | Alida + Kyle | 4-5 Feb | [ ] |
-| 1A.7 | Billing manual - packages, deposits section | Alida | 7 Feb | [ ] |
+| 1A.1 | Finalize invoicing process with Grant | Grant + Alida | Mon 27 | [ ] |
+| 1A.2 | Confirm Xero setup requirements (CPT + UK) | Grant + Alida | Mon 27 | [ ] |
+| 1A.3 | Configure Xero: products, tariffs, tax codes | Alida | Tue 28 | [ ] |
+| 1A.4 | Set up invoice & statement templates | Alida | Tue 28 | [ ] |
+| 1A.5 | Xero licenses sorted, all users added | Grant/IT | Wed 29 | [ ] |
+| 1A.6 | Billing manual - structure, tariffs | Alida | Wed 29 | [ ] |
+| 1A.7 | Brief Kyle & Amanda on rollout plan | Alida + Grant | Wed 29 | [ ] |
+| 1A.8 | Billing manual - consultations, supplements, treatments | Alida | Thu 30 | [ ] |
+| 1A.9 | Billing manual - packages, deposits, credits | Alida | Fri 31 | [ ] |
+| 1A.10 | Kyle & Amanda review billing manual | Kyle + Amanda | Fri 31 | [ ] |
 
-### Week 3: Nurse Training + Xero Training
+**Week 1 Checkpoint:** Xero configured, billing manual 80%, Kyle & Amanda ready to lead training
+
+### Week 2: Training & GO LIVE (3-7 Feb)
 
 | # | Item | Owner | Target | Status |
 |---|------|-------|--------|--------|
-| 1A.8 | Billing manual - treatments section | Alida | 10 Feb | [ ] |
-| 1A.9 | Nurse training: IV, treatments, medications | Alida + Kyle | 11-12 Feb | [ ] |
-| 1A.10 | Xero training for all new invoicers | Alida/OCFO | 13 Feb | [ ] |
-| 1A.11 | Billing manual complete | Alida | 14 Feb | [ ] |
+| 1A.11 | Reception training: Xero basics, consultations | Alida leads, Kyle + Amanda support | Mon 3 | [ ] |
+| 1A.12 | Billing manual finalized | Alida | Mon 3 | [ ] |
+| 1A.13 | Reception training: supplements, payments | Alida leads, Kyle + Amanda support | Tue 4 | [ ] |
+| 1A.14 | Nurse training: Xero basics | Alida leads, Kyle + Amanda support | Tue 4 | [ ] |
+| 1A.15 | Nurse training: treatments, IV, medications | Alida leads, Kyle + Amanda support | Wed 5 | [ ] |
+| 1A.16 | Practice invoices - all staff | Kyle + Amanda supervise | Wed 5 | [ ] |
+| 1A.17 | **Full dry run - all staff** | Kyle + Amanda lead, Alida supports | Thu 6 | [ ] |
+| 1A.18 | Fix any critical issues | Alida + Kyle + Amanda | Thu 6 | [ ] |
+| 1A.19 | **GO-LIVE DECISION** | Grant + Kyle + Amanda | Fri 7 AM | [ ] |
+| 1A.20 | **GO LIVE** (CPT + UK) | All staff | Fri 7 | [ ] |
 
-### Week 4: Dry Run & Go-Live
-
-| # | Item | Owner | Target | Status |
-|---|------|-------|--------|--------|
-| 1A.12 | Dry run - supervised invoicing | Kyle + Alida | 17-19 Feb | [ ] |
-| 1A.13 | **Go-live decision meeting** | Grant + Kyle | 20 Feb | [ ] |
-| 1A.14 | Go-live (if ready) | All | 21 Feb | [ ] |
-
-### Go-Live Criteria
-
-Before go-live, confirm:
+### Go-Live Criteria (must meet by Thu 6 Feb)
 
 - [ ] All staff can create invoices independently in Xero
 - [ ] All staff know which services they invoice
@@ -77,6 +75,16 @@ Before go-live, confirm:
 - [ ] Package credits process understood
 - [ ] No critical errors in dry run
 - [ ] Billing manual complete and distributed
+
+### Weeks 3-4: Live Operation - Kyle & Amanda Run Teams
+
+| # | Item | Owner | Target | Status |
+|---|------|-------|--------|--------|
+| 1A.21 | Week 3: Kyle & Amanda run teams independently | Kyle + Amanda | 10-14 Feb | [ ] |
+| 1A.22 | Week 3: Alida troubleshoots issues only | Alida (30% time) | 10-14 Feb | [ ] |
+| 1A.23 | Week 4: Teams fully independent | Kyle + Amanda | 17-21 Feb | [ ] |
+| 1A.24 | Week 4: Alida edge cases only | Alida (10% time) | 17-21 Feb | [ ] |
+| 1A.25 | 12+ days live before Alida leaves | All | 23 Feb | [ ] |
 
 ---
 

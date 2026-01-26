@@ -26,7 +26,7 @@ Alida Wiese, Financial Manager, has resigned effective 23 February 2026. She man
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-**Critical Change:** Operational handover runs concurrently with documentation from Week 2. We don't wait until Alida leaves to start operating - shadowing and handover happens while she's here.
+**Critical Change:** Invoicing goes LIVE end of Week 2 (CPT + UK simultaneously), giving 2 full weeks of operation with Alida as support before she leaves. Kyle leads CPT rollout, Amanda leads UK rollout.
 
 ## Key Decisions Required
 
@@ -57,8 +57,8 @@ Alida Wiese, Financial Manager, has resigned effective 23 February 2026. She man
 | Grant | Transition lead, OCFO management, external engagement | High |
 | Yaseen | Banking operations, payment release (dual control) | +20% |
 | Ricardo | Financial oversight (note: based remotely, not in CPT) | +30% |
-| Kyle | SA practice coordination, invoicing rollout lead | Moderate |
-| Amanda | UK practice coordination | Moderate |
+| Kyle | SA practice coordination, **invoicing rollout lead (CPT)** | Moderate |
+| Amanda | UK practice coordination, **invoicing rollout lead (UK)** | Moderate |
 | James | SARS releases, approvals only | Minimal additional |
 
 **Payment Controls:** Bookkeeper loads payments → Grant or Yaseen releases. Dual control maintained.

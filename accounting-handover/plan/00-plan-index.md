@@ -54,8 +54,8 @@ This plan addresses the transition following the resignation of Alida Wiese, Fin
 | Grant | Transition lead |
 | Yaseen | Banking operations backup |
 | Ricardo | Financial oversight |
-| Kyle | SA practice coordination |
-| Amanda | UK practice coordination |
+| Kyle | SA practice coordination, **invoicing rollout lead (CPT)** |
+| Amanda | UK practice coordination, **invoicing rollout lead (UK)** |
 | OCFO | Interim financial management |
 | James | SARS releases, approvals |
 

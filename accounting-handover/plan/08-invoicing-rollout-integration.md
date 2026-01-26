@@ -10,136 +10,161 @@ The invoicing transformation is not separate from the transition - it's a core w
 
 ---
 
-## How It Maps to Transition Phases
+## Rollout Structure
+
+| Role | Person | Location |
+|------|--------|----------|
+| Process Owner | Alida | Builds everything Week 1, leads training Week 2 |
+| Rollout Lead | Kyle | Cape Town - runs team from go-live onwards |
+| Rollout Lead | Amanda | UK - runs team from go-live onwards |
+
+**Simultaneous rollout:** Both Cape Town and UK go live together at end of Week 2.
+
+---
+
+## Critical Timeline
+
+**Goal:** Go live with invoicing by end of Week 2, giving us **2 full weeks of live operation** with Alida available for support before she leaves.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
-│                    TRANSITION PHASES + INVOICING ROLLOUT                         │
+│                         INVOICING ROLLOUT TIMELINE                              │
 ├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                  │
-│  PHASE 1+2: HANDOVER & OPERATE (26 Jan - 23 Feb) - ALIDA PRESENT                │
-│  ════════════════════════════════════════════════════════════════               │
-│                                                                                  │
-│  Week 1 (26 Jan - 1 Feb)                                                        │
-│  ├── Invoicing: Define process, confirm Xero setup, plan training               │
-│  └── Transition: Stakeholder briefings, OCFO engagement                         │
-│                                                                                  │
-│  Week 2 (3-7 Feb)                                                               │
-│  ├── Invoicing: Billing manual drafted, reception training begins               │
-│  └── Transition: Documentation, operational shadowing starts                    │
-│                                                                                  │
-│  Week 3 (10-14 Feb)                                                             │
-│  ├── Invoicing: Nurse training, Xero training for all invoicers                 │
-│  └── Transition: Continue documentation, shadowing                              │
-│                                                                                  │
-│  Week 4 (17-23 Feb)                                                             │
-│  ├── Invoicing: Dry run, troubleshooting, GO-LIVE DECISION                      │
-│  └── Transition: Independent operation, final handover                          │
-│                                                                                  │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                  │
-│  PHASE 3: TRANSFORM (24 Feb onwards) - ALIDA GONE                               │
-│  ════════════════════════════════════════════════════════════════               │
-│                                                                                  │
-│  Week 5-8 (Feb-Mar)                                                             │
-│  ├── Invoicing: CPT live and stabilising, refine process, fix issues            │
-│  └── Transition: OCFO operational, recruitment underway                         │
-│                                                                                  │
-│  Week 9+ (Apr onwards)                                                          │
-│  ├── Invoicing: UK rollout begins (lessons from CPT applied)                    │
-│  └── Transition: Permanent hire onboards, new steady state                      │
-│                                                                                  │
+│                                                                                 │
+│  WEEK 1: Alida builds foundation (Xero, manual, process)                       │
+│  WEEK 2: Training (Alida leads, Kyle & Amanda support) → GO LIVE Friday        │
+│  WEEK 3: Live operation - Kyle & Amanda run teams, Alida support only          │
+│  WEEK 4: Live operation - Kyle & Amanda independent, Alida edge cases only     │
+│                                                                                 │
+│  Result: 12+ days live with expert support before Alida leaves                 │
+│                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+## Why This Approach
+
+| Old Approach | New Approach |
+|--------------|--------------|
+| Go-live Week 4 | Go-live end of Week 2 |
+| 0 weeks live with Alida support | **2 weeks live with Alida support** |
+| Issues discovered after she leaves | Issues discovered while she can help |
+| Alida doing invoicing until last day | Alida freed up for other handover |
 
 ---
 
 ## Detailed Week-by-Week: Invoicing Rollout
 
-### Week 1: Define & Prepare (26 Jan - 1 Feb)
+### Week 1: Alida Builds the Foundation (26 Jan - 1 Feb)
+
+**Alida's primary focus (80%) - Kyle & Amanda briefed and ready to lead from Week 2**
 
 | Day | Invoicing Activity | Owner | Output |
 |-----|-------------------|-------|--------|
-| Mon 27 | Review invoicing plan with Alida | Grant + Alida | Confirm approach |
-| Tue 28 | Confirm Xero setup/licensing needs | Grant + Alida | License requirements |
-| Wed 29 | Schedule training sessions | Kyle + Alida | Training calendar |
-| Thu 30 | Begin billing manual - tariffs, rules | Alida | Draft started |
-| Fri 31 | Define which services each role invoices | Alida + Kyle | Role definitions |
+| **Mon 27** | Finalize invoicing process with Grant | Grant + Alida | Process confirmed |
+| | Confirm Xero setup requirements (CPT + UK) | Grant + Alida | Gap list |
+| **Tue 28** | Configure Xero: products, tariffs, tax codes | Alida | Xero ready |
+| | Set up invoice templates, statement templates | Alida | Templates done |
+| **Wed 29** | Xero licenses sorted, all users added | Grant/IT | Access ready |
+| | Draft billing manual - structure and tariffs | Alida | Manual started |
+| | Brief Kyle & Amanda on rollout plan | Alida + Grant | Leads briefed |
+| **Thu 30** | Billing manual - consultations, supplements | Alida | Sections complete |
+| | Billing manual - treatments section | Alida | Section complete |
+| **Fri 31** | Billing manual - packages, deposits, credits | Alida | Sections complete |
+| | Kyle & Amanda review billing manual | Kyle + Amanda | Ready to train |
 
-**Key Questions to Answer:**
-- Is Xero already configured for CPT invoicing or do we need setup?
-- How many additional Xero licenses needed?
-- What devices will nurses/reception use? (Tablets? Desktop?)
-
----
-
-### Week 2: Train Reception (3-7 Feb)
-
-| Day | Invoicing Activity | Owner | Participants |
-|-----|-------------------|-------|--------------|
-| Mon 3 | Billing manual - consultations section | Alida | - |
-| Tue 4 | Reception training: consultations | Alida | Reception + Kyle |
-| Wed 5 | Reception training: supplements, front desk sales | Alida | Reception + Kyle |
-| Thu 6 | Billing manual - package credits, deposits | Alida | - |
-| Fri 7 | Reception practice session | Kyle | Reception |
-
-**Reception Will Invoice:**
-- Consultations (initial, follow-up, specialist)
-- Supplements sold at front desk
-- Bookings
+**Week 1 Deliverables:**
+- [ ] Xero fully configured for invoicing (CPT + UK)
+- [ ] All users have Xero access
+- [ ] Billing manual 80% complete
+- [ ] Kyle & Amanda briefed and ready to lead training
 
 ---
 
-### Week 3: Train Nurses + Xero Training (10-14 Feb)
+### Week 2: Training & GO LIVE (3-7 Feb)
 
-| Day | Invoicing Activity | Owner | Participants |
-|-----|-------------------|-------|--------------|
-| Mon 10 | Billing manual - treatments section | Alida | - |
-| Tue 11 | Nurse training: IV infusions, treatments | Alida | Nurses + Kyle |
-| Wed 12 | Nurse training: medications dispensed | Alida | Nurses + Kyle |
-| Thu 13 | Xero training for all new invoicers | Alida/OCFO | All staff |
-| Fri 14 | Complete billing manual, Q&A session | Alida + Kyle | All staff |
+**Alida leads training, Kyle & Amanda support their teams - GO LIVE Friday**
 
-**Nurses Will Invoice:**
-- Treatments (hyperthermia, HBOT)
-- IV infusions
-- Medications dispensed at point of care
+| Day | Invoicing Activity | Owner | Output |
+|-----|-------------------|-------|--------|
+| **Mon 3** | Reception training: Xero basics, consultations | Alida leads, Kyle + Amanda support | Reception on Xero |
+| | Billing manual finalized | Alida | Manual complete |
+| **Tue 4** | Reception training: supplements, payments | Alida leads, Kyle + Amanda support | Reception trained |
+| | Nurse training: Xero basics | Alida leads, Kyle + Amanda support | Nurses on Xero |
+| **Wed 5** | Nurse training: treatments, IV, medications | Alida leads, Kyle + Amanda support | Nurses trained |
+| | Practice invoices - all staff | Kyle + Amanda supervise | Test invoices |
+| **Thu 6** | **Full dry run - all staff, real scenarios** | Kyle + Amanda lead, Alida supports | Issues identified |
+| | Fix any critical issues | Alida + Kyle + Amanda | Issues resolved |
+| **Fri 7** | **GO-LIVE DECISION** (morning) | Grant + Kyle + Amanda | Decision made |
+| | **GO LIVE** (if ready) | All staff (CPT + UK) | First real invoices |
 
----
-
-### Week 4: Dry Run & Go-Live (17-23 Feb)
-
-| Day | Invoicing Activity | Owner | Notes |
-|-----|-------------------|-------|-------|
-| Mon 17 | Dry run day 1 - supervised invoicing | Kyle + Alida | Alida reviews all |
-| Tue 18 | Dry run day 2 - continue | Kyle + Alida | Fix issues |
-| Wed 19 | Dry run day 3 - reduced supervision | Kyle | Alida available |
-| Thu 20 | **Go-live decision meeting** | Grant + Kyle | Ready or not? |
-| Fri 21 | **Go-live (if ready)** OR continue dry run | All | |
-| Sat-Sun | Alida available for questions | Alida | Weekend support |
-| Mon 23 | Final troubleshooting, Alida last day | All | Handover complete |
-
-**Go-Live Criteria:**
+**Go-Live Criteria (must meet by Thu 6):**
 - [ ] All staff can create invoices independently
 - [ ] All staff know which services they invoice
 - [ ] Reception can print patient statements
-- [ ] Reception can record payments
-- [ ] Package credits understood
-- [ ] No critical errors in dry run
+- [ ] Reception can record payments correctly
+- [ ] Package credits process understood
 - [ ] Billing manual complete and distributed
+- [ ] No critical errors in dry run
+
+---
+
+### Week 3: LIVE - Kyle & Amanda Run Teams (10-14 Feb)
+
+**Kyle & Amanda run their teams independently. Alida troubleshoots and handles exceptions only.**
+
+| Day | Invoicing | Kyle & Amanda | Alida's Role |
+|-----|-----------|---------------|--------------|
+| **Mon 10** | Live invoicing Day 3 | Run teams, morning check-in with Alida | Available for questions |
+| **Tue 11** | Live invoicing Day 4 | Run teams, review invoices | Spot-check, troubleshoot |
+| **Wed 12** | Live invoicing Day 5 | Run teams, handle staff questions | Troubleshoot patterns |
+| **Thu 13** | Live invoicing Day 6 | Run teams, refine processes | Update manual if needed |
+| **Fri 14** | Live invoicing Day 7 | Week review with Alida | Week 1 review, other handover |
+
+**Alida's Time Split Week 3:**
+- ~30% Invoicing support (questions, troubleshooting)
+- ~70% Other handover activities
+
+**Kyle & Amanda's Role:** Primary invoicing oversight for their teams, escalate to Alida only when stuck
+
+---
+
+### Week 4: LIVE - Kyle & Amanda Fully Independent (17-23 Feb)
+
+**Teams fully independent. Alida available for edge cases only.**
+
+| Day | Invoicing | Kyle & Amanda | Alida's Role |
+|-----|-----------|---------------|--------------|
+| **Mon 17** | Live invoicing Day 8 | Run teams fully independent | Available if needed |
+| **Tue 18** | Live invoicing Day 9 | Run teams fully independent | Available if needed |
+| **Wed 19** | Live invoicing Day 10 | Week 2 review with Alida | Final documentation |
+| **Thu 20** | Live invoicing Day 11 | Run teams, document lessons | Edge case support only |
+| **Fri 21** | Live invoicing Day 12 | Run teams, final Q&A | Stock count support |
+| **Sat-Mon** | Live invoicing continues | Fully independent | **ALIDA'S LAST DAY: 23 Feb** |
+
+**Alida's Time Split Week 4:**
+- ~10% Invoicing (edge cases only)
+- ~90% Other handover and final items
+
+**By End of Week 4:**
+- 12+ days of live invoicing completed
+- Kyle & Amanda fully confident running their teams
+- All issues encountered while Alida could help
+- Process proven before she leaves
 
 ---
 
 ## Phase 3: Post-Departure (24 Feb onwards)
 
-### CPT Stabilisation (Weeks 5-8)
+### Continuation (Weeks 5-8)
 
-| Week | Focus | Owner |
-|------|-------|-------|
-| Week 5 (24-28 Feb) | Daily invoice review, catch errors | Kyle + OCFO |
-| Week 6 (3-7 Mar) | Reduce to twice-daily review | Kyle |
-| Week 7 (10-14 Mar) | Weekly audit only | OCFO |
-| Week 8 (17-21 Mar) | Process stable, document lessons | OCFO |
+By the time Alida leaves, both CPT and UK have been live for **2+ weeks**. The hard part is done.
+
+| Week | Focus | Owner | Invoicing Status |
+|------|-------|-------|------------------|
+| Week 5 (24-28 Feb) | Continue operations, catch any issues | Kyle + Amanda + OCFO | Day 13-17 |
+| Week 6 (3-7 Mar) | Reduce oversight to twice-daily review | Kyle + Amanda | Day 18-22 |
+| Week 7 (10-14 Mar) | Weekly audit only | OCFO | Stable |
+| Week 8 (17-21 Mar) | Document lessons learned | OCFO + Kyle + Amanda | Mature |
 
 **Success Metrics:**
 | Metric | Target | Measure |
@@ -149,20 +174,14 @@ The invoicing transformation is not separate from the transition - it's a core w
 | Staff confidence | High | Feedback |
 | Patient complaints | Minimal | Track |
 
-### UK Rollout (April onwards)
+### Ongoing Support Structure
 
-| Phase | Activity | Duration | Owner |
-|-------|----------|----------|-------|
-| Lessons documented | Capture what worked/didn't from CPT | 1 week | OCFO |
-| UK adaptation | Adjust process for UK context | 1 week | Amanda + OCFO |
-| UK training | Train UK reception (smaller team) | 1 week | Amanda |
-| UK dry run | Supervised invoicing | 1 week | Amanda |
-| UK go-live | Live invoicing | - | Amanda |
+| Location | Lead | Escalation | Audit |
+|----------|------|------------|-------|
+| Cape Town | Kyle | Grant | OCFO |
+| UK | Amanda | Grant | OCFO |
 
-**Note:** UK rollout is simpler because:
-- Xero already deployed
-- Smaller operation
-- Lessons learned from CPT
+**Note:** Both locations went live simultaneously, so lessons learned and process refinements can be shared between Kyle and Amanda throughout.
 
 ---
 
@@ -170,11 +189,11 @@ The invoicing transformation is not separate from the transition - it's a core w
 
 | Role | Invoicing Responsibility |
 |------|-------------------------|
-| **Alida** | Define process, create billing manual, train all staff (Weeks 1-4) |
-| **Kyle** | Invoicing rollout lead (CPT), supervise dry run, ongoing oversight |
-| **Amanda** | Invoicing rollout lead (UK), apply lessons from CPT |
+| **Alida** | Week 1: Build foundation (Xero, manual, process). Week 2: Lead training. Weeks 3-4: Support only |
+| **Kyle** | Rollout Lead (Cape Town) - support training Week 2, run team Weeks 3-4 |
+| **Amanda** | Rollout Lead (UK) - support training Week 2, run team Weeks 3-4 |
 | **Grant** | Go-live decision, escalation point |
-| **OCFO** | Post-go-live audit, quality control, support Kyle |
+| **OCFO** | Post-go-live audit, quality control |
 | **Nurses** | Invoice treatments, IV, medications at point of delivery |
 | **Reception** | Invoice consultations, supplements, collect payments |
 
@@ -182,31 +201,37 @@ The invoicing transformation is not separate from the transition - it's a core w
 
 ## Key Deliverables
 
-### By End of Week 1
-- [ ] Invoicing approach confirmed
-- [ ] Xero licensing sorted
-- [ ] Training schedule published
-- [ ] Billing manual started
+### By End of Week 1 (Alida Builds Foundation)
+- [ ] Invoicing process finalized
+- [ ] Xero fully configured (CPT + UK)
+- [ ] All Xero licenses sorted, users added
+- [ ] Billing manual 80% complete
+- [ ] Kyle & Amanda briefed and ready to lead training
 
-### By End of Week 2
-- [ ] Reception trained on consultations/supplements
-- [ ] Billing manual - reception sections complete
-
-### By End of Week 3
-- [ ] Nurses trained on treatments/medications
+### By End of Week 2 (Training & Go-Live)
 - [ ] All staff trained on Xero
-- [ ] Billing manual complete
+- [ ] Reception trained on consultations/supplements/payments
+- [ ] Nurses trained on treatments/IV/medications
+- [ ] Billing manual complete and distributed
+- [ ] Dry run complete with issues resolved
+- [ ] **GO LIVE - first real invoices created**
 
-### By End of Week 4 (Alida's Last Day)
-- [ ] Dry run complete
-- [ ] Go-live decision made
-- [ ] If live: first real invoices created
-- [ ] Billing manual distributed to all
+### By End of Week 3 (Kyle & Amanda Run Teams)
+- [ ] 7 days of live invoicing completed
+- [ ] Kyle & Amanda running teams independently
+- [ ] Alida available for support only (~30% time)
+- [ ] Any patterns/issues addressed
+
+### By End of Week 4 (Alida's Last Day: 23 Feb)
+- [ ] 12+ days of live invoicing completed
+- [ ] Kyle & Amanda fully independent
+- [ ] All issues encountered while Alida available
+- [ ] Process proven before Alida leaves
 
 ### By End of Week 8
-- [ ] CPT invoicing stable
+- [ ] Invoicing stable (CPT + UK)
 - [ ] Lessons documented
-- [ ] Ready for UK rollout
+- [ ] Mature, self-sustaining process
 
 ---
 
@@ -236,17 +261,60 @@ The invoicing transformation is not separate from the transition - it's a core w
 
 ---
 
-## Integration Summary
+## Revised Integration Summary
 
-The invoicing rollout is **not optional** - it's essential to the transition because:
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                         REVISED 4-WEEK OVERVIEW                                 │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  WEEK 1: ALIDA BUILDS THE FOUNDATION                                           │
+│  • Finalize process, configure Xero (CPT + UK)                                 │
+│  • Create billing manual (80% complete)                                        │
+│  • Brief Kyle & Amanda on rollout plan                                         │
+│  • Alida: 80% invoicing, 20% other                                            │
+│                                                                                 │
+│  WEEK 2: TRAINING & GO LIVE                                                    │
+│  • Alida leads training, Kyle & Amanda support                                 │
+│  • Train all staff (reception + nurses)                                        │
+│  • Complete billing manual, dry run Thursday                                   │
+│  • ▶▶▶ GO LIVE FRIDAY 7 FEB ◀◀◀                                               │
+│  • Alida: 80% invoicing, 20% other                                            │
+│                                                                                 │
+│  WEEK 3: LIVE - KYLE & AMANDA RUN TEAMS                                        │
+│  • Kyle & Amanda run teams independently                                       │
+│  • Alida troubleshoots, handles exceptions only                                │
+│  • Alida freed for other handover                                              │
+│  • Alida: 30% invoicing, 70% other                                            │
+│                                                                                 │
+│  WEEK 4: LIVE - KYLE & AMANDA FULLY INDEPENDENT                                │
+│  • Teams fully independent                                                     │
+│  • Alida for edge cases only                                                   │
+│  • 12+ days live before Alida leaves                                           │
+│  • Alida: 10% invoicing, 90% other                                            │
+│  • ▶▶▶ ALIDA LAST DAY: 23 FEB ◀◀◀                                             │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
 
-1. **Without it:** Whoever replaces Alida inherits the same central invoicing burden
-2. **With it:** Invoicing is distributed, new person focuses on oversight not data entry
-3. **Timing:** Must happen while Alida is here to define process and train staff
+## Why This is Better
 
-The three phases become:
+| Metric | Old Plan | New Plan |
+|--------|----------|----------|
+| Days live before Alida leaves | 2-3 days | **12+ days** |
+| Time with expert support | Minimal | **2 full weeks** |
+| Issues discovered post-departure | Many | Minimal |
+| Alida time for other handover | Limited | **Weeks 3-4 freed up** |
 
-| Phase | Transition Focus | Invoicing Focus |
-|-------|-----------------|-----------------|
-| **Phase 1+2** | Handover + operate | Define, train, dry run, go-live |
-| **Phase 3** | Stabilise, hire permanent | Stabilise CPT, rollout UK |
+## The Trade-Off
+
+**Week 1-2 is a tall ask:**
+- Xero configuration in 2 days
+- All staff trained in 5-6 days
+- Go-live by end of Week 2
+
+**But the payoff is worth it:**
+- 2 weeks of live operation with safety net
+- All issues hit while Alida can help
+- Team confident before she leaves
+- Process proven, not theoretical
