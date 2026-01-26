@@ -16,7 +16,7 @@ Use this to track progress setting up your recurring calendar meetings.
 ## Bi-Weekly Meetings (Alternating)
 
 - [ ] **Dr Elena Hilton** - Wednesday 12:00-13:00 (Week 1 & 3) *UK timezone*
-- [X] **Dr Ismaeel Ebrahim** - Wednesday 12:00-13:00 (Week 2 & 4) 
+- [?] **Dr Ismaeel Ebrahim** - Wednesday 12:00-13:00 (Week 2 & 4) 
 - [ ] **Project Meeting** - Thursday 10:00-11:00 (Week 1 & 3)
 - [ ] **Exco Meeting** - Thursday 10:00-11:00 (Week 2 & 4)
 - [ ] **CEO James Sync** - Thursday 11:30-12:30 (Week 2 & 4)
