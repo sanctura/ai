@@ -15,9 +15,13 @@ accounting-handover/
 │   └── invoice-plan/     # Pre-existing invoicing transformation project docs
 ├── information-base/     # Structured reference documentation
 │   └── 00-index.md       # Start here for information base navigation
-└── plan/                 # Transition plan documents
-    ├── 00-plan-index.md  # Start here for plan navigation
-    └── summarised-views/ # Condensed responsibility summaries
+├── plan/                 # Transition plan documents
+│   ├── 00-plan-index.md  # Start here for plan navigation
+│   └── summarised-views/ # Condensed responsibility summaries
+├── tasks/                # Asana-style task tracking
+│   └── 01-invoicing-transformation.md
+└── new-information/      # Newly discovered items to incorporate
+    └── overlooked-items.md
 ```
 
 ## Key Context
@@ -113,6 +117,8 @@ Key workstream - workflow: Receive → Log → Reconcile to PO → Approve → S
 | `plan/06-handover-checklists.md` | Tracking checklists with sign-off |
 | `plan/summarised-views/` | Condensed responsibility summaries for quick reference |
 | `information-base/08-people-and-team.md` | Roles, capacity, and responsibilities |
+| `tasks/01-invoicing-transformation.md` | Asana-style task tracking for invoicing rollout |
+| `new-information/overlooked-items.md` | Log of newly discovered items to incorporate |
 
 ## Working With This Repository
 
@@ -127,6 +133,15 @@ When asked about the transition:
 2. Reference `plan/01-executive-summary.md` for the plan overview
 3. Reference `plan/08-invoicing-rollout-integration.md` for invoicing details
 4. Reference `information-base/08-people-and-team.md` for roles and responsibilities
+
+When tracking tasks:
+- `tasks/` contains Asana-style task lists with checkboxes
+- Mark tasks complete by changing `[ ]` to `[x]`
+- Add new task files as `##-workstream-name.md`
+
+When discovering overlooked items:
+- Add to `new-information/overlooked-items.md` with date and checkbox
+- Once incorporated into the plan, check the box
 
 ## Naming Conventions
 
