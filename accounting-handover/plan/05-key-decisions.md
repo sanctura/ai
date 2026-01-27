@@ -258,5 +258,11 @@ Given the transition pressure, starting where Xero is already deployed reduces c
 | OCFO availability and rates | OCFO | 28 Jan | |
 | Investec process to add users | Investec/Alida | 5 Feb | |
 | Healthbridge access requirements | Alida | 5 Feb | |
-| Atlantic Trust → Bokelman timeline | Alida | 10 Feb | |
+| Atlantic Trust → Bokelman timeline | Alida | Defer | Defer until Phase 1 stable |
 | Optiworx HR review status | Alida | 10 Feb | |
+| UBO submissions - who owns, when next due? | Grant | TBD | May not be until 2027 |
+| Supplier invoice destination - which mailbox receives them? | Grant + Alida | Week 1 | |
+| Pricing source of truth - MedPrax vs existing systems vs Xero? | Grant + Alida | Week 2 | |
+| Facility fee rules - when does >2 hour rule apply? | Alida | Week 2 | |
+
+**Note on new providers:** Avoid adding new providers (e.g., Imperium) during transition unless determined essential. Focus on stabilizing existing relationships first. Inaura continues current obligations (VAT, payroll, PAYE, income tax) - no phase-out during transition.

@@ -25,6 +25,14 @@ This plan addresses the transition following the resignation of Alida Wiese, Fin
 | [07-access-systems-inventory.md](07-access-systems-inventory.md) | Systems, portals, contacts, credentials | Alida to complete, Grant to verify |
 | [08-invoicing-rollout-integration.md](08-invoicing-rollout-integration.md) | How invoicing rollout maps to transition phases | Kyle, Alida, Grant |
 
+### Summarised Views
+
+| Document | Purpose |
+|----------|---------|
+| [summarised-views/00-responsibility-overview.md](summarised-views/00-responsibility-overview.md) | Complete view of all Alida's responsibilities and who takes over |
+| [summarised-views/01-non-invoicing-responsibilities.md](summarised-views/01-non-invoicing-responsibilities.md) | Quick reference for non-invoicing handover (payments, payroll, banking, external partners) |
+| [summarised-views/02-invoicing-responsibilities.md](summarised-views/02-invoicing-responsibilities.md) | Quick reference for invoicing rollout (Xero, training, go-live) |
+
 ---
 
 ## Quick Reference

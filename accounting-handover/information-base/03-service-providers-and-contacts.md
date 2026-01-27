@@ -70,7 +70,6 @@
 | Payment Execution | On Alida's instruction |
 
 **Current Status:** Managing the Trust
-**Future:** Transitioning to Bokelman once financial statements approved
 
 **Employees in Trust:**
 - Janine
@@ -81,7 +80,7 @@
 ### Bokelman (Future Trust Administrator)
 
 **Status:** Not yet formally appointed
-**Role:** Will take over from Atlantic Trust after financial statement approval
+**Transition:** **Deferred** until Phase 1 of transition is stable - not a priority during handover period
 
 **Potential Services:** Could perform what Inaura and Atlantic Trust currently do
 

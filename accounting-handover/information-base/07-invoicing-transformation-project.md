@@ -102,13 +102,25 @@ This project was designed to:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+### Decentralized Invoicing Model
+
+**Key principle:** Invoicing happens at point of service, not centrally by finance.
+
+| Role | Invoices | Responsibility |
+|------|----------|----------------|
+| **Nurses** | IVs, treatments, medications | Invoice at point of delivery |
+| **Reception** | Consultations, supplements | Invoice and collect payment |
+| **Reception** | Patient statement | Print at patient exit |
+| **Practice Manager (Kyle/Amanda)** | Process ownership | Governance, training, compliance - *not execution* |
+
 ### Role Responsibilities (New Model)
 
 | Role | Invoicing Responsibility | When |
 |------|-------------------------|------|
 | **Nurses** | Treatments, IV infusions, medications dispensed | At time of delivery |
 | **Reception** | Consultations, bookings, supplements sold at front desk | At time of service/sale |
-| **Finance/Bookkeeper** | Package credits, deposit credits, adjustments, auditing | When payment received / ongoing |
+| **Kyle/Amanda** | Governance, training, compliance - *not execution* | Ongoing oversight |
+| **Finance/Bookkeeper (OCFO)** | Package credits, deposit credits, adjustments, auditing | When payment received / ongoing |
 
 ---
 
@@ -137,26 +149,45 @@ This project was designed to:
 
 ## Rollout Plan
 
-### Strategy
-- **Phased rollout** - Cape Town first, UK to follow
+### Strategy (Updated)
+- **Simultaneous rollout** - Cape Town and UK go live together at end of Week 2
 - **Platform** - Xero (already in UK, to be deployed fresh in Cape Town)
-- **Method** - Dry run → Training → Test run → Go live
+- **Method** - Foundation → Training → Dry run → Go live
+- **Rollout Leads** - Kyle (CPT) and Amanda (UK) run their teams from go-live
 
-### Why Cape Town First?
-- Fresh Xero deployment provides clean starting point
-- Lessons learned will inform UK transition
-- UK already has established Xero workflows to adapt
+### Why Simultaneous?
+- Maximises Alida's availability for both locations
+- Kyle and Amanda fulfil the same role in their respective locations
+- Shared lessons and process refinements throughout
 
-### Rollout Phases
+### Rollout Phases (Updated Timeline)
 
-| Phase | Activity | Duration | Status |
-|-------|----------|----------|--------|
-| **Phase 1: Foundation** | Deploy Xero, configure accounts, templates, products | 2 weeks | Pending |
-| **Phase 2: Dry Run** | Finance team tests full process internally | 1 week | Pending |
-| **Phase 3: Training** | Train nurses and reception on invoicing in Xero | 1 week | Pending |
-| **Phase 4: Test Run** | Supervised live transactions, daily review | 1-2 weeks | Pending |
-| **Phase 5: Go Live CPT** | Independent operation, finance shifts to audit mode | Ongoing | Pending |
-| **Phase 6: UK Rollout** | Apply lessons, repeat phases 2-5 for UK | 4-6 weeks | Pending |
+| Week | Activity | Owner |
+|------|----------|-------|
+| **Week 1** | Alida builds foundation - configure Xero, create billing manual (80%), brief Kyle & Amanda | Alida |
+| **Week 2** | Training (Alida leads, Kyle & Amanda support) → **GO LIVE Friday 7 Feb** | Alida + Kyle + Amanda |
+| **Week 3** | Kyle & Amanda run teams independently, Alida support only (~30% time) | Kyle + Amanda |
+| **Week 4** | Teams fully independent, Alida edge cases only (~10% time) | Kyle + Amanda |
+
+**Result:** 12+ days live with expert support before Alida leaves 23 Feb
+
+### Three-Phase Billing Evolution
+
+| Phase | Focus | Timing |
+|-------|-------|--------|
+| **Phase 1: Survival/Simplify** | Basic codes, laminated checklist, invoices presentable for medical aid | Go-live → stable (CURRENT FOCUS) |
+| **Phase 2: Optimise** | Improve pricing, reduce missed charges, refine processes, add audit rules | Post-departure |
+| **Phase 3: Interface/Automation** | CRM integration, Xero API/marketplace apps | Future |
+
+**Current Focus:** Phase 1 is the priority during transition. Get invoicing working reliably before optimizing.
+
+### Future Improvement: Billing Baskets
+
+*Not on critical path for go-live - defer to Phase 2*
+
+- Baskets/bundles for common billing scenarios (e.g., infusion bundle) as future optimization
+- Must accommodate stock tracking requirements
+- Avoid confusion with existing advance-purchase bundles (different concept)
 
 ### Phase 1 Tasks (Foundation)
 

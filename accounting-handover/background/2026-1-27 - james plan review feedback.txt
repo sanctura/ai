@@ -1,0 +1,262 @@
+Below is a **structured, “information-base ready” data source** distilled from the transcript. It’s written so you can paste it into Notion/Confluence or turn it into JSON later.
+
+---
+
+## 1) Executive summary
+
+A draft operating plan is being refined across **finance ops, invoicing, supplier management, debt collection, UK clinic oversight, and provider/vendor decisions**. Core themes:
+
+* **Minimize new external providers** (avoid adding *Imperium* unless necessary).
+* **Stabilize operations during a finance-lead transition** (financial manager leaving; possible CFO/fractional CFO coming in).
+* **Decentralize invoicing** (nurses invoice treatments/IVs; reception invoices consultations/supplements; practice managers own the process).
+* **Strengthen supplier invoice reconciliation + payment discipline** (ensure correct payments and no missed invoices).
+* **Clarify leadership roles in UK operations** (Mo/Elena/Maria Vega/Amanda/Saba/etc.) and avoid role-blur between strong personalities.
+* **Make a fast but controlled move to Xero** with staff training, dry runs, and a phased billing optimisation plan.
+
+---
+
+## 2) Entities & glossary (people, vendors, systems)
+
+### People / roles referenced
+
+* **Grant Merwitz**: driving plan; placeholder “Grant / new financial manager / CFO” appears in matrices.
+* **Yassine**: discussed owners/assignments; intentionally not assigned in places to avoid operationalisation.
+* **Kyle**: effectively represents “Practice Manager” role (not literally Kyle); delegates to team.
+* **Amanda**: UK practice manager candidate; concerns about follow-through/forgetfulness; still should be given chance + system support; may own ordering execution if tested fairly.
+* **Canary (Kunari/Canari)**: reception; escalation support; has **Lauren** as backup; shouldn’t be “in Wilson” (context unclear).
+* **Lauren**: backup for Canary; Grant emailed her for role write-up/help.
+* **Anita / Alida / Alita**: appears as manager/coordinator (supplier/payment/ordering); also source of claims about vendor pricing; associated with Atlantic Trust relationship.
+* **Maria Vega**: high-value clinical/integrative skillset; *should not* be bogged down with supplier/ordering admin.
+* **Maria Tan**: on-site projects (e.g., chemo port SOP implementation); needs a senior escalation path.
+* **Elena**: leader in practice (UK); prior availability issues.
+* **Mo (Moe)**: incoming strong leader; proposed **Founder’s Associate / ops oversight**; can design systems + monitor, but not execute daily ordering.
+* **Saba (Sarba/Osaba)**: possible candidate for supplier payments / ordering execution support.
+* **Dr. Ishmael (Ishmael)**: escalation/support for clinical query resolution; good relationship for debtor escalations before legal.
+* **Ricardo**: mentions UK practice connection; concern about individuals vs firms.
+* **Harvey**: referenced in monthly context (unclear—possibly reporting cadence).
+
+### Vendors / service providers
+
+* **Inora**: current provider doing VAT (bi-monthly), payroll/PAYE (monthly), income tax returns; accessible & hands-on; planned to end **June 1, 2025** (but didn’t fully exit—now a “blessing in disguise” during transition).
+* **OCFO**: consultancy for fractional CFO + short-term bookkeeper/clerks; can help receive/load invoices, coordinate confirmations, schedule payments; can also help place a permanent person.
+* **Imperium**: potential UBO submissions provider (not used yet); Theo at Imperium mentioned for “workman’s comps” (context unclear). Team wants to avoid adding them now.
+* **Atlantic Trust**: strongly negative sentiment; irregular comms; risk; may be expensive; concerns about poor handover behavior.
+* **Buckleman / Bookerman / Bocumen** (name inconsistent): intended replacement for Atlantic Trust for trust work; handover allegedly already in motion; goal: **Buckleman to be in charge by end of week** (relative date in transcript).
+* **Copra**: mentioned as another element now in play (context unclear).
+* **Transfarm**: example supplier (30-day account or upfront meds).
+
+### Systems / tools
+
+* **Xero**: target system for invoicing + potentially stock/bundles; goal go-live soon; wants simplified “baskets/bundles” for common billing.
+* **HealthBridge**: current/previous billing environment referenced.
+* **MedPrax / MedProx API**: pricing/code data source; Grant has an API account; compare “Healthman tariff pricing” vs loaded prices in Xero.
+* **Marketplace / third-party apps**: Xero ecosystem; possible future interface/CRM/automation layer.
+
+---
+
+## 3) Decisions & operating principles (what the group aligns on)
+
+### Provider strategy
+
+* **Avoid adding Imperium** now; limit number of providers unless essential.
+* **Do not remove Inora abruptly** while finance leadership is changing; treat changes as phased.
+* **OCFO is a strong short-term candidate** to stabilize invoice handling, bookkeeping capacity, and payment scheduling.
+* **Atlantic Trust change is high-risk** right now; do not change too many moving parts at once unless critical—but also frustration suggests the trust handover to Buckleman should be finalized promptly.
+
+### Invoicing ownership model (decentralized)
+
+* **Nurses invoice IVs / treatments.**
+* **Reception invoices supplements and consultations.**
+* **Reception prints a statement on patient exit.**
+* **Practice managers “own” the process** (governance, training, compliance) while staff execute on the floor.
+
+### Supplier invoice management
+
+* Supplier invoices need a clear **inbox destination + recon workflow**:
+
+  * Receive all invoices
+  * Load into system
+  * Confirm/reconcile (correct amounts, match to orders/receipts)
+  * Set payment dates (pay on time but not too early)
+  * Use supplier statements to cross-check missing invoices
+
+### Debt collection approach
+
+* Do **not** saddle the practice manager (Kyle role) with direct debt-chasing if it clashes with role/personality and risks destabilizing operational change.
+* Debt collection should have:
+
+  * **Primary owner** (likely UK: Amanda + Haish; SA: TBD)
+  * **Escalation path** for disputes/clinical queries (Carl coordinates; Dr Ishmael / nurses validate treatment & items delivered)
+  * **Final escalation**: if non-payment persists → leadership involvement and possibly legal
+* Use **Dr Ishmael** selectively when relationship-based outreach could resolve payment friction before legal escalation.
+
+---
+
+## 4) Key processes (SOP-style outlines)
+
+### 4.1 Patient invoicing process (new model)
+
+**Trigger:** patient visit ends / treatment delivered
+**Steps:**
+
+1. Staff identify billable items (consults, procedures, consumables, facility fees, meds).
+2. **Nurses** invoice treatments/IVs; **reception** invoices consultations/supplements.
+3. Reception prints statement at exit.
+4. Practice manager monitors adherence and quality.
+   **Controls/risks noted:**
+
+* Training burden on staff is high during transition.
+* Risk of underbilling if staff only invoice obvious items (e.g., “vitamin C bag of saline”) and miss facility fee/consumables/procedure codes.
+
+### 4.2 Supplier invoice reconciliation & payment scheduling
+
+**Trigger:** supplier invoice arrives (email/postal/portal)
+**Steps:**
+
+1. Central receipt (decide where supplier invoices land).
+2. Log invoice (supplier, amount, due date, related order).
+3. Reconcile against orders/receipts/stock usage.
+4. Approve/confirm.
+5. Schedule payment aligned to terms (30/60 days).
+6. Monthly statement review to catch missing invoices.
+   **Owner candidates:** OCFO/bookkeeper capacity + internal approver.
+
+### 4.3 Ordering / stock replenishment workflow (problem area)
+
+**Observed pain:** ordering inconsistent; missing follow-up; sometimes staff pay personally; “20% of what I order comes through in the UK” (per transcript).
+**Proposed direction:**
+
+* **Mo** designs and helps implement the ordering tracking system (auditability + accountability).
+* **Amanda** is the leading candidate to execute ordering **daily**, but must be tested fairly with a real system in place.
+* Require tracking/notifications (“CC” or workflow log) so missing orders are visible before they become crises.
+
+### 4.4 Debt collection + query escalation workflow
+
+**Trigger:** invoice overdue
+**Steps:**
+
+1. Outreach / reminder (non-clinical).
+2. If dispute (“I didn’t receive vitamin C”) → escalate to **Carl** to investigate with nurses/Dr Ishmael/records.
+3. If unresolved non-payment → leadership escalation; relationship-based call from Dr Ishmael when appropriate.
+4. Legal escalation only after internal resolution attempts.
+
+---
+
+## 5) Xero rollout plan (timeline + phases)
+
+### 4-week operational plan (as described)
+
+* **Week 1:** Get everything “into Xero” (should have been done in December per transcript; now must happen immediately).
+* **Week 2:** Full staff training + dry runs; decision by **Friday** whether going live.
+* **Week 3:** Go live (UK + Cape Town simultaneously). Grant travels to London during week 3.
+* **Week 3–4:** Departing finance leader is still present while staff operate “as if she isn’t,” but with safety net support.
+
+### Billing system evolution (3 phases)
+
+* **Phase 1 (Survival / Simplify):** Minimal viable baskets (e.g., “infusion fee” bundle), basic codes, laminated checklist; ensure invoices are presentable for medical aid.
+* **Phase 2 (Optimise):** Improve pricing, reduce missed charges, refine bundles/packages, add rules for auditing.
+* **Phase 3 (Interface/Automation):** Build easier front-end (CRM/charge sheet → stock sheet → billing), leverage Xero API/marketplace apps.
+
+---
+
+## 6) Billing complexity notes (important “knowledge base” items)
+
+### “Baskets / bundles” concept
+
+Instead of picking 6–10 line items repeatedly, create bundled items:
+
+* Example: **Chemo/IV infusion bundle** includes consumables, trays, facility fee, management fee codes, etc.
+* Still maintain stock tracking behind bundles (bundle tied to stock items).
+
+### “Only ~20–25 codes drive most billing”
+
+The team notes that **99% of billing** is a small set of codes (excluding meds). A printed tick sheet/checklist helps staff remember to include:
+
+* consults
+* ECG / urine / catheter items
+* facility fee rules (e.g., visit longer than 2 hours)
+* procedure-related consumables
+* nursing procedure codes
+* doctor procedure codes
+
+### Major risk
+
+Without structured prompts/checklists, staff will bill only the obvious meds and miss:
+
+* facility fees
+* consumable bundles
+* procedure codes
+* management fees
+
+---
+
+## 7) Risks, constraints, and “don’t do this now” items
+
+### Change-management risk
+
+* Too many simultaneous changes (new CFO, switching providers, trust handover, invoicing decentralization, Xero migration) increases failure likelihood.
+
+### Vendor risk: Atlantic Trust
+
+* Emails irregular, process irregular, NDA/order of operations strange; perceived as high risk.
+* Handover to Buckleman is overdue and should be completed if truly ready.
+
+### Operational capacity risk
+
+* Staff training while still operating clinic.
+* Amanda reliability concerns (forgetfulness; missed follow-ups) create anxiety unless systems expose failures early.
+
+### Governance risk
+
+* Strong leaders joining (Mo, Elena, Maria Vega) without defined domains may create role conflict and confusion.
+
+---
+
+## 8) Open questions / gaps to resolve (explicitly noted or implied)
+
+1. **UBO submissions**: Who should own annual UBO submissions and when next due (suggested “might not be until 2027”)? Is Imperium necessary?
+2. **Debt collection ownership in SA**: If UK goes to Amanda/Haish, who catches SA escalations?
+3. **Supplier invoice destination**: What mailbox/inbox receives supplier invoices, and who processes/reconciles?
+4. **Ordering execution**: Final decision—Amanda vs Saba vs Elena for daily ordering execution; Mo designs system but does not execute.
+5. **Trust handover status**: What exactly is missing from Buckleman quote / scope? Confirm the actual “quote” vs line items with ranges.
+6. **Pricing source of truth**: MedPrax/Healthman tariffs vs current HealthBridge vs new Xero price list—what is the master?
+7. **Facility fee rules**: Define and codify conditions (e.g., >2 hours) into checklists/bundles.
+
+---
+
+## 9) Action list (operationally phrased)
+
+### Immediate (this week)
+
+* Finalize **supplier invoice recon workflow**: receipt → log → reconcile → approve → schedule payment.
+* Confirm **invoicing role split** (nurses vs reception) and update documentation.
+* Start building/printing **billing checklist** (top 20–25 codes + facility fee rules).
+* Ensure **Xero product/service list** has baseline items and at least one simple infusion basket.
+
+### Next (week 2)
+
+* Conduct staff training + dry runs; include checklist usage and how to search/select items in Xero.
+* Define **buddy/check system** (capture vs review) if needed for early weeks.
+
+### Week 3+ (go-live)
+
+* Monitor underbilling/overbilling patterns; refine bundles; start phase 2 optimisation backlog.
+* Establish audit rules for chemo/IV billing and facility fees.
+
+---
+
+## 10) Suggested “Knowledge Base” schema (so you can store this cleanly)
+
+You can convert the above into records using these object types:
+
+* **People**: name, role, location (UK/SA), responsibilities, backups, concerns.
+* **Vendors**: name, service category, status (current/proposed/avoid), notes, risks, next action.
+* **Processes**: name, trigger, steps, owners, tools, controls, failure modes.
+* **Decisions**: statement, rationale, date/meeting reference, dependencies.
+* **Plans/Timelines**: phases, week-by-week milestones, go/no-go criteria.
+* **Risks**: description, likelihood, impact, mitigation, owner.
+* **Open Questions**: question, why it matters, owner, due date.
+
+---
+
+If you want, I can also output this same content as **JSON** (ready to import into Notion databases or a KB system) using the schema in section 10—no extra questions needed; I’ll make sensible defaults from the transcript.

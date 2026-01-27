@@ -22,6 +22,21 @@ The invoicing transformation is not separate from the transition - it's a core w
 
 ---
 
+## Decentralized Invoicing Model
+
+**Key principle:** Invoicing happens at point of service, not centrally by finance.
+
+| Role | Invoices | Responsibility |
+|------|----------|----------------|
+| **Nurses** | IVs, treatments, medications | Invoice at point of delivery |
+| **Reception** | Consultations, supplements | Invoice and collect payment |
+| **Reception** | Patient statement | Print at patient exit |
+| **Practice Manager (Kyle/Amanda)** | Process ownership | Governance, training, compliance - not execution |
+
+This model removes the dependency on a central finance person for invoicing and ensures charges are captured immediately.
+
+---
+
 ## Critical Timeline
 
 **Goal:** Go live with invoicing by end of Week 2, giving us **2 full weeks of live operation** with Alida available for support before she leaves.
@@ -154,6 +169,24 @@ The invoicing transformation is not separate from the transition - it's a core w
 ---
 
 ## Phase 3: Post-Departure (24 Feb onwards)
+
+### Three-Phase Billing Evolution
+
+| Phase | Focus | Timing |
+|-------|-------|--------|
+| **Phase 1: Survival/Simplify** | Basic codes, laminated checklist, invoices presentable for medical aid | Go-live → stable (CURRENT FOCUS) |
+| **Phase 2: Optimise** | Improve pricing, reduce missed charges, refine processes, add audit rules | Post-departure |
+| **Phase 3: Interface/Automation** | CRM integration, Xero API/marketplace apps | Future |
+
+**Current Focus:** Phase 1 is the priority during transition. Get invoicing working reliably before optimizing.
+
+### Future Improvement: Billing Baskets
+
+*Not on critical path for go-live - defer to Phase 2*
+
+- Baskets/bundles for common billing scenarios (e.g., infusion bundle) as future optimization
+- Must accommodate stock tracking requirements
+- Avoid confusion with existing advance-purchase bundles (different concept)
 
 ### Continuation (Weeks 5-8)
 

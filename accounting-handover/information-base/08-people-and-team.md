@@ -83,8 +83,10 @@
 - Likely involved in patient-facing activities
 
 **Transition Relevance:**
-- Key role in invoicing transformation project (if accelerated)
-- Would oversee reception staff doing real-time invoicing
+- **Rollout Lead (CPT)** for invoicing transformation
+- **Process ownership** - governance, training, compliance - *not execution*
+- Nurses and reception do the invoicing; Kyle ensures process runs correctly
+- Escalation point for debtor disputes ("I didn't receive this")
 - Local presence for SA operations coordination
 
 ---
@@ -103,9 +105,11 @@
 - Day-to-day UK practice operations
 
 **Transition Relevance:**
-- Key role in UK invoicing operations
+- **Rollout Lead (UK)** for invoicing transformation
+- **Process ownership** - governance, training, compliance - *not execution*
+- Nurses and reception do the invoicing; Amanda ensures process runs correctly
+- Escalation point for debtor disputes ("I didn't receive this")
 - Works with Kinari on UK financial matters
-- Would oversee UK reception if invoicing transformation proceeds
 - Local UK coordination point
 
 ---
@@ -178,6 +182,7 @@
 
 **Transition Relevance:**
 - Already embedded in SA financial operations
+- **Continues current obligations** (VAT, payroll, PAYE, income tax) - no phase-out during transition
 - Could potentially **expand scope** to cover more of Alida's work
 - Would need to "up their game" - service quality concerns exist
 - Relationship needs assessment - are they capable of more?
@@ -187,6 +192,8 @@
 2. Can they improve responsiveness and quality?
 3. What would expanded scope cost?
 4. Do we trust them with more responsibility given past performance?
+
+**Note:** Avoid adding new providers (e.g., Imperium for additional services) during transition unless determined essential. Focus on stabilizing existing relationships first.
 
 ---
 
@@ -261,7 +268,7 @@
 | SA invoicing (Healthbridge) | Alida | Candice (some exp) | OCFO |
 | SA invoicing (Xero) | Alida | OCFO | OCFO |
 | UK invoicing | Alida | Kinari | Kinari |
-| SA supplier payments - load | Alida | Yaseen | OCFO |
+| SA supplier payments - load | Alida | OCFO | Grant |
 | SA supplier payments - release | Alida/Yaseen | Yaseen | - |
 | SARS payments - release | James only | None | None |
 | UK payments | Alida/Kinari | Kinari | Kinari |
@@ -272,7 +279,7 @@
 | Weekly KPIs | Alida | ? | OCFO |
 | Annual forecast | Alida | ? | OCFO |
 | Bank monitoring | Alida | Yaseen | OCFO |
-| Debtors chasing | Alida | Kyle/Amanda? | OCFO |
+| Debtors chasing | Alida | Escalation model (see plan) | OCFO |
 | Compliance calendar | Alida | ? | OCFO/Inaura |
 | Landlord relations | Alida | Grant? | - |
 | Insurance liaison | Alida | Grant? | - |
@@ -300,8 +307,8 @@
 |--------|---------------------------|
 | **Yaseen** | Primary banking operations (loading, non-SARS releases), cash flow alerts |
 | **Ricardo** | Financial reporting review, liaison with OCFO, Alida knowledge capture |
-| **Kyle** | SA practice-level coordination, invoicing rollout lead (SA) |
-| **Amanda** | UK coordination with Kinari, invoicing rollout lead (UK) |
+| **Kyle** | SA invoicing governance (not execution), debtor disputes (SA), stock count |
+| **Amanda** | UK invoicing governance (not execution), debtor disputes (UK), Kinari coordination |
 | **Grant** | Overall transition oversight, OCFO management, strategic decisions |
 | **James** | SARS payment releases, major approvals (minimise additional load) |
 

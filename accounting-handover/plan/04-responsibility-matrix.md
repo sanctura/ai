@@ -41,6 +41,29 @@
 
 ## Post-Departure Operations (24 Feb onwards)
 
+### Supplier Invoice Management
+
+**Key workstream requiring attention during handover.**
+
+High-level workflow:
+1. Receive invoices (confirm destination mailbox)
+2. Log in tracking system
+3. Reconcile against PO/delivery
+4. Approve for payment
+5. Schedule payment
+6. Monthly review
+
+| Activity | OCFO | Yaseen | Grant | Kyle | Amanda |
+|----------|------|--------|-------|------|--------|
+| Receive & log invoices | R | I | A | C | C |
+| Reconcile to PO/delivery | R | I | A | C | C |
+| Approve for payment | R | C | A | I | I |
+| Load payment | R | I | A | I | I |
+| Release payment | I | R | A | I | I |
+| Monthly supplier review | R | C | A | I | I |
+
+*Note: Detailed supplier invoice process to be defined in Week 1 with Alida.*
+
 ### South Africa Operations
 
 | Activity | OCFO | Yaseen | Grant | Ricardo | Kyle | James | Inaura |
@@ -53,7 +76,6 @@
 | Bank balance monitoring | R | C | A | I | I | I | I |
 | Cash flow alerts | R | I | A | C | I | C | I |
 | Debtors reconciliation | R | I | A | I | C | I | I |
-| Debtors chasing | C | I | A | I | R | I | I |
 | Payroll data provision | R | I | A | I | I | I | C |
 | Payroll processing | I | I | I | I | I | I | R |
 | PAYE submission | I | I | I | I | I | I | R |
@@ -160,6 +182,15 @@
 | Staff/HR issues | Kyle/Amanda | Grant | Grant |
 | Major financial decisions | Grant | James | James |
 | Strategic decisions | Grant | James | James |
+
+### Debt Collection Escalation
+
+| Stage | Owner | Scenario |
+|-------|-------|----------|
+| Initial contact | OCFO | Pull debtors list, communicate with debtors |
+| Product/service dispute | Practice Manager (Kyle/Amanda) | "I didn't receive this" - investigate and advise |
+| Service explanation | Doctor | "What is this charge?" - explain clinical service |
+| Debt support/hardship | Exco | Review and decide on payment arrangements |
 
 ---
 
