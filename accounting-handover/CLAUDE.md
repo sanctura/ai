@@ -19,7 +19,8 @@ accounting-handover/
 │   ├── 00-plan-index.md  # Start here for plan navigation
 │   └── summarised-views/ # Condensed responsibility summaries
 ├── tasks/                # Asana-style task tracking
-│   └── 01-invoicing-transformation.md
+│   ├── 01-invoicing-transformation.md
+│   └── 02-non-invoicing-handover.md
 └── new-information/      # Newly discovered items to incorporate
     └── overlooked-items.md
 ```
@@ -39,9 +40,11 @@ accounting-handover/
 - **Payment controls**: Bookkeeper loads payments → Grant or Yaseen releases (dual control maintained)
 - **All stakeholders** receive proposed duties by end of Week 1
 
-### Invoicing Rollout (Critical Workstream)
+### Invoicing & Quoting Rollout (Critical Workstream)
 
-**Decentralized Model** - invoicing at point of service, not centrally:
+**Xero Live:** 28 Jan 2026
+
+**Decentralized Model** - invoicing and quoting at point of service, not centrally:
 | Role | Invoices | Responsibility |
 |------|----------|----------------|
 | Nurses | IVs, treatments, medications | Invoice at point of delivery |
@@ -52,27 +55,27 @@ accounting-handover/
 **Structure:**
 | Role | Person | Responsibility |
 |------|--------|----------------|
-| Process Owner | Alida | Builds foundation Week 1, leads training Week 2 |
+| Process Owner | Alida | Xero live Week 1, leads training Week 2 |
 | Rollout Lead (CPT) | Kyle | Supports training Week 2, runs CPT team Weeks 3-4 |
 | Rollout Lead (UK) | Amanda | Supports training Week 2, runs UK team Weeks 3-4 |
 
 **Timeline:**
-- **Week 1 (26 Jan - 1 Feb)**: Alida builds foundation - configure Xero, create billing manual (80%), brief Kyle & Amanda
-- **Week 2 (3-7 Feb)**: Training (Alida leads, Kyle & Amanda support) → **GO LIVE Friday 7 Feb**
+- **Week 1 (26 Jan - 1 Feb)**: Xero live (28 Jan), billing/quoting manual (80%), brief Kyle & Amanda
+- **Week 2 (3-7 Feb)**: Training (Alida leads, Kyle & Amanda support), staff ready for independent operation
 - **Week 3 (10-14 Feb)**: Kyle & Amanda run teams independently, Alida support only (~30% time)
 - **Week 4 (17-23 Feb)**: Teams fully independent, Alida edge cases only (~10% time)
-- **Result**: 12+ days live with expert support before Alida leaves 23 Feb
+- **Result**: System live from Week 1, teams trained and independent before Alida leaves 23 Feb
 
 **Key principle**: CPT and UK go live **simultaneously** - not sequentially. Kyle and Amanda fulfill the same role in their respective locations.
 
-**Three-Phase Billing Evolution:**
+**Three-Phase Billing & Quoting Evolution:**
 | Phase | Focus | Timing |
 |-------|-------|--------|
 | Phase 1: Survival/Simplify | Basic codes, laminated checklist, invoices presentable for medical aid | Go-live → stable (CURRENT FOCUS) |
 | Phase 2: Optimise | Improve pricing, reduce missed charges, add audit rules | Post-departure |
 | Phase 3: Interface/Automation | CRM integration, Xero API/marketplace apps | Future |
 
-**Future improvement (Phase 2):** Billing baskets/bundles for common scenarios (e.g., infusion bundle) - must accommodate stock tracking, avoid confusion with advance-purchase bundles.
+**Future improvement (Phase 2):** Billing/quoting baskets/bundles for common scenarios (e.g., infusion bundle) - must accommodate stock tracking, avoid confusion with advance-purchase bundles.
 
 ### OCFO Clarification
 OCFO is a **consultancy** that can provide various services:
@@ -117,7 +120,8 @@ Key workstream - workflow: Receive → Log → Reconcile to PO → Approve → S
 | `plan/06-handover-checklists.md` | Tracking checklists with sign-off |
 | `plan/summarised-views/` | Condensed responsibility summaries for quick reference |
 | `information-base/08-people-and-team.md` | Roles, capacity, and responsibilities |
-| `tasks/01-invoicing-transformation.md` | Asana-style task tracking for invoicing rollout |
+| `tasks/01-invoicing-transformation.md` | Task tracking for invoicing & quoting rollout |
+| `tasks/02-non-invoicing-handover.md` | Task tracking for all other handover activities |
 | `new-information/overlooked-items.md` | Log of newly discovered items to incorporate |
 
 ## Working With This Repository
@@ -133,6 +137,8 @@ When asked about the transition:
 2. Reference `plan/01-executive-summary.md` for the plan overview
 3. Reference `plan/08-invoicing-rollout-integration.md` for invoicing details
 4. Reference `information-base/08-people-and-team.md` for roles and responsibilities
+5. Reference `tasks/01-invoicing-transformation.md` for invoicing & quoting tasks
+6. Reference `tasks/02-non-invoicing-handover.md` for all other handover tasks
 
 When tracking tasks:
 - `tasks/` contains Asana-style task lists with checkboxes
@@ -154,6 +160,7 @@ When discovering overlooked items:
 | Date | Event |
 |------|-------|
 | 26 Jan 2026 | Alida's resignation date / transition start |
-| 7 Feb 2026 | Target invoicing GO LIVE (end of Week 2) |
+| 28 Jan 2026 | Xero live for invoicing & quoting |
+| 7 Feb 2026 | End of Week 2 - staff ready for independent operation |
 | 23 Feb 2026 | Alida's last day |
 | 24 Feb onwards | Phase 3 - Transform (post-departure) |
