@@ -10,15 +10,15 @@ Handover of all financial management responsibilities excluding invoicing and qu
 
 ## Week 1: Mobilise & Engage (26 Jan - 1 Feb)
 
-### Monday 27 Jan
+### Monday 26 Jan
 - [x] Team briefing - announce transition plan *(Grant)*
 - [x] Call with OCFO - confirm scope and availability *(Grant)*
 - [x] Initial session with Alida - identify urgent items *(Grant + Alida)*
 
-### Tuesday 28 Jan
+### Tuesday 27 Jan
 - *Alida sick - tasks moved to Thursday*
 
-### Wednesday 29 Jan
+### Wednesday 28 Jan
 - [ ] Sign OCFO engagement letter *(Grant/James)*
 - [ ] Update compliance calendar with exact dates *(Grant)*
 - [ ] Grant Xero admin access (all 3 orgs) *(IT/Alida)*
@@ -29,7 +29,7 @@ Handover of all financial management responsibilities excluding invoicing and qu
 - [ ] Service provider intro (email): Intersure *(Alida)*
 - [ ] Service provider intro (email): Ashley Page *(Alida)*
 
-### Thursday 30 Jan
+### Thursday 29 Jan
 - [ ] Alida: Confirm all compliance due dates *(Alida)*
 - [ ] Alida: Begin audit of personal drive contents *(Alida)*
 - [ ] Brief Kyle on coordination role *(Grant)*
@@ -37,7 +37,7 @@ Handover of all financial management responsibilities excluding invoicing and qu
 - [ ] Brief Ricardo on oversight role *(Grant)*
 - [ ] Alida: Document La Porta Industries status (UBO/Returns) *(Alida)*
 
-### Friday 31 Jan
+### Friday 30 Jan
 - [ ] OCFO introductory meeting with Alida *(Grant + Alida + OCFO)*
 - [ ] Alida: Continue drive audit *(Alida)*
 - [ ] Week 1 review meeting *(Grant + Alida + OCFO)*
@@ -46,28 +46,30 @@ Handover of all financial management responsibilities excluding invoicing and qu
 
 ---
 
-## Week 2: Document & Transfer Part 1 (3-7 Feb)
+## Week 2: Document & Transfer Part 1 (2-6 Feb)
 
-### Monday 3 Feb
+### Monday 2 Feb
 - [ ] Handover session: Xero overview (all 3 orgs) *(Alida + OCFO)*
 - [ ] Handover session: Management accounts walkthrough *(Alida + OCFO + Grant)*
 - [ ] Begin file transfer: Payment schedules *(Alida)*
 
-### Tuesday 4 Feb
+### Tuesday 3 Feb
 - [ ] Handover session: Supplier payment workflow *(Alida + Yaseen + OCFO)*
 - [ ] Handover session: SARS payment process *(Alida + Yaseen)*
+- [ ] Handover session: Cash flow process *(Alida + OCFO + Grant)*
 - [ ] File transfer: Supplier contact list *(Alida)*
 
-### Wednesday 5 Feb
+### Wednesday 4 Feb
 - [ ] Handover session: UK operations with Kinari *(Alida + OCFO)*
 - [ ] Alida: Continue La Porta Industries filings *(Alida)*
 
-### Thursday 6 Feb
+### Thursday 5 Feb
 - [ ] Handover session: Debtors reconciliation *(Alida + OCFO + Kyle)*
 - [ ] Handover session: Bank reconciliation *(Alida + OCFO)*
+- [ ] Handover session: Patient insurance process *(Alida + OCFO + Kyle)*
 - [ ] File transfer: Staff files (contracts) *(Alida)*
 
-### Friday 7 Feb
+### Friday 6 Feb
 - [ ] **COMPLETE: La Porta Industries UBO** *(Alida)*
 - [ ] **COMPLETE: La Porta Industries Annual Returns** *(Alida)*
 - [ ] Week 2 review meeting *(Grant + Alida + OCFO)*
@@ -77,30 +79,30 @@ Handover of all financial management responsibilities excluding invoicing and qu
 
 ---
 
-## Week 3: Document & Transfer Part 2 (10-14 Feb)
+## Week 3: Document & Transfer Part 2 (9-13 Feb)
 
-### Monday 10 Feb
+### Monday 9 Feb
 - [ ] Handover session: Payroll data preparation *(Alida + OCFO)*
 - [ ] Service provider intro: Atlantic Trust (Jess) *(Alida + Jess)*
 
-### Tuesday 11 Feb
+### Tuesday 10 Feb
 - [ ] Handover session: Weekly KPIs *(Alida + OCFO + Grant)*
 - [ ] File transfer: Insurance policy schedule *(Alida)*
 - [ ] File transfer: Historical reporting templates *(Alida + OCFO)*
 
-### Wednesday 12 Feb
+### Wednesday 11 Feb
 - [ ] Handover session: Monthly management accounts *(Alida + OCFO + Grant)*
 - [ ] Service provider intro: SA Landlord *(Alida + Grant + Kyle)*
 - [ ] Service provider intro: Imperium (Theo) *(Alida + OCFO)*
 - [ ] File transfer: Lease documents *(Alida)*
 
-### Thursday 13 Feb
+### Thursday 12 Feb
 - [ ] Handover session: Trust operations *(Alida + OCFO)*
 - [ ] Handover session: Debtors chasing process *(Alida + Kyle + Amanda)*
 - [ ] Service provider intro: TAFTS *(Alida + OCFO)*
 - [ ] File transfer: HR policies and contracts *(Alida)*
 
-### Friday 14 Feb
+### Friday 13 Feb
 - [ ] **COMPLETE: FY charge revision (Saint Raphael)** *(Alida)*
 - [ ] Handover session: Stock count process *(Alida + Kyle)*
 - [ ] Handover session: Compliance calendar management *(Alida + OCFO)*
@@ -111,36 +113,37 @@ Handover of all financial management responsibilities excluding invoicing and qu
 
 ---
 
-## Week 4: Shadow & Complete (17-23 Feb)
+## Week 4: Shadow & Complete (16-23 Feb)
 
-### Monday 17 Feb
+### Monday 16 Feb
 - [ ] Operational shadowing: Supplier payment run *(Yaseen + OCFO shadow Alida)*
 - [ ] Stock count planning with Kyle *(Alida + Kyle)*
 
-### Tuesday 18 Feb
+### Tuesday 17 Feb
 - [ ] Operational shadowing: Bank reconciliation *(OCFO shadows Alida)*
 - [ ] Operational shadowing: Payroll data prep *(OCFO shadows Alida)*
+- [ ] Operational shadowing: Cash flow management *(OCFO shadows Alida)*
 - [ ] Begin annual forecast handover *(Alida + OCFO)*
 
-### Wednesday 19 Feb
+### Wednesday 18 Feb
 - [ ] Operational shadowing: Weekly KPI preparation *(OCFO shadows Alida)*
 - [ ] Annual forecast work *(Alida + OCFO)*
 - [ ] Verify all file transfers complete *(Grant)*
 - [ ] File transfer: Any remaining working documents *(Alida)*
 
-### Thursday 20 Feb
+### Thursday 19 Feb
 - [ ] Stock count process documentation *(Alida)*
 - [ ] Complete any remaining documentation *(Alida + OCFO)*
 - [ ] Verify all system access transferred *(Grant/IT)*
 - [ ] Create outstanding items list *(Alida)*
 
-### Friday 21 Feb
+### Friday 20 Feb
 - [ ] **COMPLETE or handover: Annual forecast** *(Alida/OCFO)*
-- [ ] Stock count execution (or 21-23 Feb weekend) *(Kyle + team)*
+- [ ] Stock count execution (or 20-22 Feb weekend) *(Kyle + team)*
 - [ ] Final handover review meeting *(Grant + Alida + OCFO + Yaseen)*
 - [ ] Confirm emergency contact arrangement *(Alida + Grant)*
 
-### Saturday/Sunday 22-23 Feb
+### Saturday/Sunday 21-22 Feb
 - [ ] Stock count completion (if not done Friday) *(Kyle)*
 - [ ] Final Xero updates - books up to date *(Alida)*
 
@@ -162,14 +165,14 @@ Handover of all financial management responsibilities excluding invoicing and qu
 - 17:00 End-of-day review *(Grant, OCFO)*
 
 ### Tasks
-- [ ] Mon 24: First independent invoice run *(OCFO)*
-- [ ] Mon 24: Start issues log *(OCFO)*
-- [ ] Tue 25: First independent payment run *(Yaseen)*
-- [ ] Tue 25: Bank reconciliation *(OCFO)*
-- [ ] Wed 26: Debtors review *(OCFO + Kyle)*
-- [ ] Thu 27: Payroll data prep for month-end *(OCFO)*
-- [ ] Fri 28: **Complete annual forecast** (if not done) *(OCFO)*
-- [ ] Fri 28: Week 1 review - document any issues *(Grant + OCFO + Yaseen)*
+- [ ] Tue 24: First independent invoice run *(OCFO)*
+- [ ] Tue 24: Start issues log *(OCFO)*
+- [ ] Wed 25: First independent payment run *(Yaseen)*
+- [ ] Wed 25: Bank reconciliation *(OCFO)*
+- [ ] Thu 26: Debtors review *(OCFO + Kyle)*
+- [ ] Fri 27: Payroll data prep for month-end *(OCFO)*
+- [ ] Fri 27: **Complete annual forecast** (if not done) *(OCFO)*
+- [ ] Fri 27: Week 1 review - document any issues *(Grant + OCFO + Yaseen)*
 
 **Post-Departure Milestone:** No missed critical payments, invoicing operational, no payroll issues, issues documented, annual forecast complete
 
@@ -202,10 +205,10 @@ Handover of all financial management responsibilities excluding invoicing and qu
 
 | Item | Owner | Target | Status |
 |------|-------|--------|--------|
-| La Porta Industries - UBO | Alida | 7 Feb | [ ] |
-| La Porta Industries - Annual Returns | Alida | 7 Feb | [ ] |
-| Saint Raphael - FY charge revision | Alida | 14 Feb | [ ] |
-| February stock count | Kyle + Alida | 21-23 Feb | [ ] |
+| La Porta Industries - UBO | Alida | 6 Feb | [ ] |
+| La Porta Industries - Annual Returns | Alida | 6 Feb | [ ] |
+| Saint Raphael - FY charge revision | Alida | 13 Feb | [ ] |
+| February stock count | Kyle + Alida | 20-22 Feb | [ ] |
 
 ---
 
