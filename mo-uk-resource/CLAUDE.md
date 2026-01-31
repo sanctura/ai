@@ -18,9 +18,10 @@ This is a documentation repository for managing the hiring and onboarding of Moh
 
 - **Company:** Sanctura Limited (healthcare, UK-based)
 - **Consultant:** Mohammed Desai - senior pharmacy/healthcare operations professional
-- **Engagement:** Part-time consulting (15 hours/week), £46/hour, monthly rolling contract
-- **Start Date:** 10 February 2025
+- **Engagement:** Part-time consulting (up to 15 hours/week), £46/hour, 3-month fixed term
+- **Term:** 10 February 2026 to 10 May 2026
 - **Jurisdiction:** England and Wales employment/consulting law
+- **HR Advisor:** Lauren (reviews contracts for IR35/employment status compliance)
 
 ## Working with This Repository
 
@@ -28,3 +29,11 @@ This is a documentation repository for managing the hiring and onboarding of Moh
 - Contract documents should be versioned (e.g., `consultancy-agreement-draft-v1.md`)
 - When updating commercial terms, ensure consistency across all documents (engagement structure, contract, HR notes)
 - Placeholders in contracts use the format `[Item to be confirmed]`
+
+## Contract Version History
+
+| Version | Status | Notes |
+|---------|--------|-------|
+| v1 | Superseded | Initial draft sent to HR for review |
+| v2 | Superseded | HR feedback document (Lauren's tracked changes) |
+| v3 | Current | Incorporates HR feedback: fixed term, substitution rights, insurance clause |

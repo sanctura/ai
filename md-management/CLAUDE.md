@@ -77,6 +77,8 @@ Weekly execution, meeting structure, and decision tracking:
 - `work-board-strategy.md` - Asana work board strategy for each direct report: shared workspaces, section structures by role, operating principles, and 1:1 integration
 - `asana-setup-guide.md` - Step-by-step Asana setup instructions: project creation, section configuration, custom fields by role, board views, and rollout schedule
 - `asana-workboard-reference.md` - Quick reference for Asana work board configurations per direct report
+- `flash-report-template.md` - Weekly flash report system: direct reports submit brief Friday updates (accomplishments, challenges, next week's focus, asks)
+- `flash-report-rollout-email.md` - Email template for introducing flash reports to team (delete after sending)
 
 **Setup & Utilities:**
 - `meeting-setup-checklist.md` - Checklist for tracking calendar meeting setup progress (can be deleted once complete)
@@ -116,7 +118,7 @@ Executive dashboard structure:
 **Daily**: Review/update `current-week.md`, mark priority progress (🔴🟡🟢), update project status, capture decisions after meetings
 **Weekly**:
 - **Monday**: Copy `weekly-template.md` → `current-week.md`, set top 3 priorities, prep meeting agendas
-- **Friday**: Complete week-end review section in `current-week.md`, archive to `planning/archive/week-YYYY-MM-DD.md`, create MD progress log in `tracking/md-progress/weekly-logs/`
+- **Friday**: Complete week-end review section in `current-week.md`, archive to `planning/archive/week-YYYY-MM-DD.md`, create MD progress log in `tracking/md-progress/weekly-logs/`, review flash reports from direct reports (due 4pm)
 **Bi-Weekly**: Update performance files before Medical Officer 1:1s (Elena W1,3 / Ismaeel W2,4)
 **Monthly**: Update metrics, refresh all performance files before scheduled 1:1s, review risks/opportunities
 **Quarterly**: Update strategic sections in `business/overview.md`, conduct formal performance reviews, adjust org structure if needed
@@ -198,6 +200,15 @@ Executive dashboard structure:
 5. When needed, draft CEO updates in `tracking/md-progress/communications/`
 6. Keep entries concise and factual - not over-elaborated
 
+**Flash Reports** (Weekly direct report updates)
+1. Direct reports submit flash reports every Friday by 4pm (local time)
+2. Format: accomplishments, challenges/blockers, next week's focus, asks
+3. Review over weekend before Monday 1:1s (Kyle, Alida)
+4. Reference specific items in 1:1s to reinforce value
+5. Look for patterns across reports (common blockers, resource conflicts)
+6. Respond immediately if urgent blockers flagged
+7. Template and guidance in `planning/concepts/flash-report-template.md`
+
 ## Assistant Behavior Guidelines
 
 ### Context-First Approach
@@ -273,6 +284,7 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 **"Log my progress this week"** → Use md-progress-tracker agent → Create weekly log in `tracking/md-progress/weekly-logs/`
 **"Draft a CEO update"** → Use md-progress-tracker agent → Create concise update in `tracking/md-progress/communications/`
 **"What are my expectations for reports?"** → Read `people/direct-report-expectations.md` → Review the 5 expectations: Attitude, Communication, Accountability, Continuous Improvement, Strategic Alignment
+**"Set up flash reports"** → Read `planning/concepts/flash-report-template.md` and `flash-report-rollout-email.md` → Guide through sending rollout email to direct reports
 
 ## Git Usage
 
