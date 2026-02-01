@@ -20,7 +20,9 @@ accounting-handover/
 │   └── summarised-views/ # Condensed responsibility summaries
 ├── tasks/                # Asana-style task tracking
 │   ├── 01-invoicing-transformation.md
-│   └── 02-non-invoicing-handover.md
+│   ├── 02-non-invoicing-handover.md
+│   ├── 03-contact-handover-checklist.md
+│   └── 04-responsibility-handover-checklist.md
 └── new-information/      # Newly discovered items to incorporate
     └── overlooked-items.md
 ```
@@ -122,6 +124,8 @@ Key workstream - workflow: Receive → Log → Reconcile to PO → Approve → S
 | `information-base/08-people-and-team.md` | Roles, capacity, and responsibilities |
 | `tasks/01-invoicing-transformation.md` | Task tracking for invoicing & quoting rollout |
 | `tasks/02-non-invoicing-handover.md` | Task tracking for all other handover activities |
+| `tasks/03-contact-handover-checklist.md` | Service providers & contacts to hand over |
+| `tasks/04-responsibility-handover-checklist.md` | All responsibilities & where they're going |
 | `new-information/overlooked-items.md` | Log of newly discovered items to incorporate |
 
 ## Working With This Repository
