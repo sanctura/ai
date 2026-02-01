@@ -1,4 +1,4 @@
-Date: 1 February 20265
+Date: 1 February 2026
 
 They are the tax lawyers for Malta Co that does shell and engen.
 
@@ -23,3 +23,7 @@ We keep this below the radar - please tell Lara and Ismaeel strictly below the r
 This is possibly a reflex from  their because inheritance discrepancies post
 
 Confident we can get through this but once plan built and I have seen some of the messages - we need to escalate right to the top, senior counsel and Capricorn weight behind it. This is not about negligence - it is a shark tank for money
+
+
+[18:38, 2/1/2026] Dr James Laporta: Admitted to Dr Roger de Andrade on the 15th, left our clinic fairly stable but requiring ongoing oxygen, worsening respiratory symptoms at Cape Gate; either infection or tumor. Died in hospital  16th
+[18:38, 2/1/2026] Dr James Laporta: Very well managed

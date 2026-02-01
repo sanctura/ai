@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(where:*)",
+      "Bash(pandoc:*)",
+      "Bash(npm:*)",
+      "Bash(npx md-to-pdf:*)"
+    ]
+  }
+}
