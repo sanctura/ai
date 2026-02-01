@@ -121,7 +121,7 @@ These action items were outlined by the CEO on February 1, 2026, following recei
 | # | Item | Status | Owner | Due Date |
 |---|------|--------|-------|----------|
 | **2** | **Maria Tam's prescription records** | **CRITICAL** | TBD | **URGENT** |
-| 1 | CQC License dates | Lower Priority | TBD | As needed |
+| 1 | CQC License dates | Pending | TBD | ASAP |
 | 3 | Overdose analysis report | Complete | Dr Laporta | Done (Medicolegal docs) |
 | 4 | Cape Town invoices | Complete | - | Done |
 | 4b | UK/London invoices | Complete | - | Done |
@@ -129,12 +129,32 @@ These action items were outlined by the CEO on February 1, 2026, following recei
 | 6 | Referral letters | Complete | - | Done |
 | 7 | Brief Wendy | Pending | CEO | Monday |
 | 8 | Engage senior counsel | Pending | CEO | After Step 7 |
+| **9** | **Spanish Dr (Datar bloods)** | **Pending** | Dr Laporta | **Get name/details** |
+| 10 | Without prejudice discussion | Pending | Legal | After counsel engaged |
 
 ## Dr Laporta's Assessment (Feb 2026)
 
 > "We have everything we need, only loop hole is antibiotic prescription we need Maria to fill."
 
 This confirms the defense position is strong, with Maria Tam's records being the only outstanding critical item.
+
+---
+
+## Dr Laporta's Additional Feedback (Feb 2026)
+
+Following review of executive summary and action checklist:
+
+> "Brilliant. Solid. A discussion without prejudice may be required - attorneys present?"
+
+> "To note defense positions - add date of CQC license obtained."
+
+> "Will need to see Spanish dr who drew bloods for Datar at our practice"
+
+### New Items from Feedback:
+
+1. **CQC License Date** - Obtain exact date for defense documents [DATE TBC]
+2. **Spanish Doctor (Datar)** - Identify doctor who drew bloods for Datar testing; get details from Dr Laporta
+3. **Without Prejudice Discussion** - Consider meeting with attorneys present
 
 ---
 

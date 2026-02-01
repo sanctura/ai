@@ -33,7 +33,7 @@ A deceased patient's husband has sent a threatening letter alleging negligence b
 
 | Allegation | Defense | Strength |
 |------------|---------|:--------:|
-| No CQC license / unlicensed practice | Dr Laporta acted as naturopath, not medical doctor; no GMC jurisdiction | **STRONG** |
+| No CQC license / unlicensed practice | Dr Laporta acted as naturopath, not medical doctor; no GMC jurisdiction. CQC license obtained: [DATE TBC] | **STRONG** |
 | Steroid overdose | Recognized adverse effects, not overdose; within therapeutic limits | **STRONG** |
 | Prescribing issues | All UK prescribing by registered Nurse Practitioner Maria Tam | **STRONG** |
 | Caused premature death | 43-day gap between UK care and death; terminal prognosis already established; death under hospital care | **STRONG** |

@@ -40,6 +40,22 @@
 
 ---
 
+## New Items (Dr Laporta Feedback)
+
+- [ ] **Obtain CQC license date**
+  - Exact date license was obtained for defense documents
+  - *Per Dr Laporta: "add date of CQC license obtained"*
+
+- [ ] **Identify Spanish doctor (Datar bloods)**
+  - Doctor who drew bloods for Datar at practice
+  - *Get details from Dr Laporta*
+
+- [ ] **Consider "without prejudice" discussion**
+  - Meeting with attorneys present
+  - *Per Dr Laporta's suggestion*
+
+---
+
 ## Lower Priority
 
 - [ ] **Verify CQC license dates**
@@ -69,6 +85,7 @@
 | Amanda | WhatsApp messages | Pending |
 | Lara | Inform confidentially | Pending |
 | Ismaeel | Inform confidentially | Pending |
+| Spanish Dr (TBC) | Datar blood draw records | Pending - get name from Dr Laporta |
 
 ---
 

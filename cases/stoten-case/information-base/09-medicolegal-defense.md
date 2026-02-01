@@ -134,6 +134,8 @@ Dr Laporta:
 - Deferred to GMC-registered clinicians
 - Acted within lawful complementary and supportive care framework
 
+**CQC License:** Obtained [DATE TBC] - *confirm exact date for defense*
+
 > "There is no basis for GMC jurisdiction or allegations of unsafe practice."
 
 ---
