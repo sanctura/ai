@@ -18,7 +18,7 @@ This is a documentation repository for managing the hiring and onboarding of Moh
 
 - **Company:** Sanctura Limited (healthcare, UK-based)
 - **Consultant:** Mohammed Desai - senior pharmacy/healthcare operations professional
-- **Engagement:** Part-time consulting (up to 15 hours/week), £46/hour, 3-month fixed term
+- **Engagement:** Part-time consulting (up to 15 hours/week), £49/hour, 3-month fixed term
 - **Term:** 10 February 2026 to 10 May 2026
 - **Jurisdiction:** England and Wales employment/consulting law
 - **HR Advisor:** Lauren (reviews contracts for IR35/employment status compliance)
@@ -36,4 +36,5 @@ This is a documentation repository for managing the hiring and onboarding of Moh
 |---------|--------|-------|
 | v1 | Superseded | Initial draft sent to HR for review |
 | v2 | Superseded | HR feedback document (Lauren's tracked changes) |
-| v3 | Current | Incorporates HR feedback: fixed term, substitution rights, insurance clause |
+| v3 | Superseded | Incorporates HR feedback: fixed term, substitution rights, insurance clause |
+| v4 | Current | Mo's feedback: rate increased to £49/hour, added hours flexibility clause (4.6) |
