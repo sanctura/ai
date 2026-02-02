@@ -93,7 +93,90 @@ Acknowledged the communication breakdown and provided clarification:
 
 ---
 
-## 5. CEO Notes on Case (February 1, 2026)
+## 5. Dr. James Laporta - Insurance Terminal Illness Certification
+**Date:** September 15, 2025
+**From:** Dr James Laporta, Director of Sanctura
+**To:** Aviva Insurance – Protection Claims Department
+**Re:** Mrs. Louise Stoten (DOB: 08/04/1969) – Terminal Illness Certification & Request for Accelerated Life Insurance Payout
+
+### Summary:
+Formal letter certifying Mrs Stoten's terminal status to support early life insurance claim.
+
+### Clinical Summary:
+- 56-year-old patient with **advanced metastatic breast cancer** (ER+, HER2-negative)
+- Extensive spread to lungs: **lymphangitic carcinomatosis**
+- End-stage disease causing severe respiratory failure
+- **Oxygen-dependent** for all activities of daily living
+
+### Prognosis Statement:
+- Condition is **unequivocally terminal**
+- Life expectancy **well under 12 months** (likely only months)
+- Multiple oncologists concur, including **Prof. Justin Stebbing (Imperial College London)**
+- Pulmonary lymphangitic carcinomatosis is an **end-stage manifestation** with typical survival ~6 months
+
+### Treatment Status:
+> "Mrs. Stoten has **exhausted all available therapies** – including standard and experimental treatments sourced globally – yet the disease continues to progress. There are no remaining curative or life-prolonging interventions."
+
+### Request:
+Immediate activation of terminal illness benefit / accelerated death benefit payout under policy provisions.
+
+### Medicolegal Significance:
+- Confirms Dr Laporta as treating physician
+- Documents terminal trajectory **one day before death**
+- Supports defense that death was inevitable from disease progression
+- Confirms all treatment options exhausted
+
+---
+
+## 6. Dr. James Laporta - Voice Note (February 2, 2026)
+**Date:** February 2, 2026
+**Source:** Voice note transcription from Dr Laporta
+**Purpose:** Suggested response to Paul Stoten's complaint
+
+### Suggested Response Approach:
+Dr Laporta recommends a short email response expressing sympathy and summarizing the clinical timeline.
+
+### Key Clinical Points (Dr Laporta's recollection):
+
+**Initial Presentation:**
+> "When we first saw her...she was incredibly frail and pre-terminal."
+
+**Initial Treatment Success:**
+> "Fortunately the medication worked and her tumour markers dropped, she was able to travel and spend quality time in Europe on hormonal blockers."
+
+**Progression & Malta:**
+- When progression appeared, she had an X-ray in Malta
+- Decided to go to London for treatment
+
+**London Events:**
+- Referred to Prof Stebbing for treatment
+- **Offered oncology treatment in London which she declined**
+- Wished to come to Cape Town for further treatment
+
+**Pre-Flight (London to Cape Town):**
+- Had significant cough although was stable
+- **Advised to go to nearest EC emergency centre facility**
+- **Patient preferred to take oral antibiotics instead**
+- Some steroids were given
+
+**Steroid Defense:**
+> "The steroids were certainly not overdosed and the side effect of agitation is well-known."
+
+**Cape Town & Death:**
+> "Luckily she arrived safely in Cape Town and despite our best efforts there was progression or lower respiratory tract infection which worsened and she passed away in hospital under the care of Dr. De Andrade."
+
+**Offer to Discuss:**
+> "If you would like to sit down and discuss in detail some of the aspects, I'd be happy to do that."
+
+### Medicolegal Significance:
+- Confirms patient autonomy: declined London oncology, chose Cape Town
+- Confirms patient declined EC advice, preferred oral antibiotics
+- Supports steroid defense (not overdose, known side effect)
+- Shows willingness to engage constructively
+
+---
+
+## 7. CEO Notes on Case (February 1, 2026)
 **Source:** Internal memo after receiving Paul Stoten's complaint
 
 ### Key Points:

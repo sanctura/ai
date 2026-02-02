@@ -134,7 +134,13 @@ Dr Laporta:
 - Deferred to GMC-registered clinicians
 - Acted within lawful complementary and supportive care framework
 
-**CQC License:** Obtained [DATE TBC] - *confirm exact date for defense*
+**CQC License:** Obtained **22 September 2025**
+
+**Note:** CQC registration was completed *after* Louise Stoten's London treatment (July-August 2025). However, this does not affect the defense position because:
+- Dr Laporta was acting as a naturopath, not a medical doctor
+- His interventions (IV nutrition, photobiomodulation, hyperthermia) do not constitute regulated medical practice
+- All medical prescribing was done by registered NP Maria Tam
+- CQC registration requirement depends on the nature of activities, not the facility itself
 
 > "There is no basis for GMC jurisdiction or allegations of unsafe practice."
 
@@ -143,6 +149,17 @@ Dr Laporta:
 ## Patient Autonomy
 
 > "Ms Stoten was cognitively intact and actively involved in care decisions. She expressed a clear preference not to receive chemotherapy in London and to return to South Africa for treatment, where support systems were available. These preferences were respected."
+
+### Additional Context (Dr Laporta Voice Note, Feb 2, 2026)
+
+Key patient decisions documented:
+1. **Declined oncology treatment in London** - Was referred to Prof Stebbing and offered oncology treatment, which she declined
+2. **Chose Cape Town** - Wished to come to Cape Town for further treatment
+3. **Declined emergency care advice** - Before flying to Cape Town, was advised to go to nearest EC emergency centre but preferred oral antibiotics instead
+
+> "She had a significant cough although was stable and we advised her to go to the nearest EC emergency centre facility, but she preferred to take oral antibiotics."
+
+This demonstrates Ms Stoten exercised informed choice throughout her care pathway.
 
 ---
 

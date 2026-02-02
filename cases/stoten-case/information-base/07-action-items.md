@@ -8,11 +8,11 @@ These action items were outlined by the CEO on February 1, 2026, following recei
 ## Priority Actions
 
 ### 1. CQC License Verification
-- **Status:** PENDING
-- **Assigned:** To be confirmed
-- **Task:** Obtain and document exact CQC license dates for London clinic
-- **Purpose:** Verify that Sanctura was properly licensed during July-August 2025
-- **Note:** CEO indicated "We did have a licence July / August? - need to check"
+- **Status:** COMPLETE
+- **Result:** CQC registration obtained **22 September 2025**
+- **Implication:** Clinic was NOT CQC registered during July-August 2025 treatment period
+- **Defense Impact:** Minimal - primary defense rests on Dr Laporta's naturopathic role, not CQC status
+- **Note:** Original CEO question "We did have a licence July / August?" - Answer: No, registered Sept 22
 
 ### 2. Maria Tam's Prescription Documentation - **CRITICAL**
 - **Status:** PENDING - HIGHEST PRIORITY
@@ -121,7 +121,7 @@ These action items were outlined by the CEO on February 1, 2026, following recei
 | # | Item | Status | Owner | Due Date |
 |---|------|--------|-------|----------|
 | **2** | **Maria Tam's prescription records** | **CRITICAL** | TBD | **URGENT** |
-| 1 | CQC License dates | Pending | TBD | ASAP |
+| 1 | CQC License dates | **Complete** | - | Done (22 Sept 2025) |
 | 3 | Overdose analysis report | Complete | Dr Laporta | Done (Medicolegal docs) |
 | 4 | Cape Town invoices | Complete | - | Done |
 | 4b | UK/London invoices | Complete | - | Done |

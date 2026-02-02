@@ -26,11 +26,13 @@
 
 ### Dr. James Laporta
 - **Role:** Director of Sanctura
+- **Credentials:** MBChB (UCT), DMH (CMSA), DipPEC (SA)
 - **Location:** London & Cape Town
 - **Practice Address (Cape Town):** Unit 401 The Foundry, 4th Floor, 74 Prestwich Street, Green Point, Cape Town
 - **Billing Practice No:** 0461474
 - **Key Documents:**
   - Referral letter to Dr. de Andrade (Sept 15, 2025)
+  - Insurance terminal illness certification to Aviva (Sept 15, 2025)
   - WhatsApp communications with patient
 - **Case Role:** Primary treating physician in Cape Town
 
@@ -67,13 +69,14 @@
 
 ### Prof. Justin Stebbing
 - **Role:** Oncologist
-- **Practice:** Phoenix Hospital Group
+- **Affiliations:** Phoenix Hospital Group; Imperial College London
 - **Address:** 9 Harley Street, London W1G 9QY
 - **Key Documents:**
   - Letter to Dr. Laporta (July 10, 2025)
   - Prognosis letter - "To Whom It May Concern" (July 10, 2025)
 - **Key Statement:** Confirmed prognosis of <12 months
 - **Consultation:** Zoom consultation while patient was in Malta (with friend Dominique)
+- **Referenced in:** Dr Laporta's insurance certification letter (Sept 15, 2025)
 
 ### Dr. Roger de Andrade
 - **Role:** Physician at Cape Gate Hospital

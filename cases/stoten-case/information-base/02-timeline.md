@@ -8,6 +8,8 @@
 | 2015 | Mastectomy due to radiation scarring |
 | 2019 | Metastatic disease diagnosed |
 | March 2025 | Last PET scan before July 2025 |
+| ~June-July 2025 | Treatment working: tumour markers dropped; able to travel Europe on hormonal blockers |
+| ~July 2025 | Progression appeared; **X-ray done in Malta**; decided to go to London |
 
 ## 2025 - Final Months
 
@@ -18,6 +20,7 @@
 | July 10, 2025 | Prof. Justin Stebbing consultation via Zoom (patient in Malta) | - |
 | July 10, 2025 | Prof. Stebbing letter to Dr. Laporta re: Louise Stoten | - |
 | July 10, 2025 | Prof. Stebbing "To Whom It May Concern" letter confirming <12 month prognosis | - |
+| July 2025 | **Patient offered oncology treatment in London - DECLINED**; wished to go to Cape Town | - |
 | July 11, 2025 | London: Administration fee + Zometa 4mg | INV-0167 (£192.65) |
 | July 11, 2025 | London: Blood Tests | INV-0176 (£1,737.00) |
 | July 14, 2025 | London: IV infusion (Vit C, Marais, Meyers) | INV-0173 (£288.25) |
@@ -32,7 +35,7 @@
 | Aug 1, 2025 | London: IV infusion (Vit C, Glutathione, Marais, Meyers) | INV-0241 (£332.20) |
 | Aug 4, 2025 | London: IV infusion + Hyperthermia 90min + **Prednisolone 5mg** | INV-0243 (£1,037.15) |
 | Aug 4, 2025 | London: Consultation (15 min) | INV-0244 (£195.00) |
-| ~Aug 5-7, 2025 | Patient travels to Cape Town | - |
+| ~Aug 5-7, 2025 | Patient has significant cough but stable; **advised to go to EC emergency centre - patient preferred oral antibiotics**; travels to Cape Town | - |
 | **ALLEGED:** | London clinic - medication overdose incident (steroids) | - |
 
 ### August 2025 - Sanctura Cape Town Treatment
@@ -72,6 +75,7 @@
 | Sept 13, 2025 | IV Invanz + call out fee | R 2,849.01 |
 | Sept 14, 2025 | IV Invanz + call out fee | R 2,849.01 |
 | Sept 15, 2025 | **Referral letter to Dr. Roger de Andrade** | - |
+| Sept 15, 2025 | **Insurance terminal illness certification letter to Aviva** (accelerated death benefit request) | - |
 | Sept 15, 2025 | IV Invanz (final Sanctura treatment) | R 2,349.01 |
 | Sept 15, 2025 | Patient admitted to Dr. de Andrade at Cape Gate Hospital | - |
 | **Sept 16, 2025** | **Louise Stoten dies at Cape Gate Hospital** | - |

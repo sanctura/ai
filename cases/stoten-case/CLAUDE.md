@@ -11,8 +11,31 @@ This is a **medical case management repository** for the Louise Stoten case - a 
 - `background/` - Original source documents (markdown files, PDFs, correspondence)
 - `background/invoices/` - All billing records (43 invoices: 8 London, 35 Cape Town)
 - `information-base/` - Consolidated, organized case information for defense preparation
+- `new-information/` - Intake folder for new documents to be incorporated
 - `output/` - Shareable documents (PDFs) for legal counsel and stakeholders
 - `context.md` - Initial instructions and file descriptions
+
+## New Information Workflow
+
+The `new-information/` folder is used to bring additional documents into the case after initial processing:
+
+1. **Adding new items:**
+   - Place new documents in `new-information/items/`
+   - Log the item in `new-information/new-items-log.md` with date and description
+   - Use checkbox format: `- [ ] **Date** - "path" - Description`
+
+2. **Incorporating items:**
+   - Read the new document from `items/`
+   - Update relevant `information-base/` files with the new information
+   - Copy the source document to `background/` for archival
+   - Mark the item as incorporated: `- [x]` with cross-references to updated files
+
+3. **Log format example:**
+   ```
+   - [x] **2 Feb 2026** - "items\document.md" - Description
+     - Added to: `04-medical-correspondence.md` (Section X)
+     - Added to: `02-timeline.md` (relevant entries)
+   ```
 
 ## Key Files in information-base/
 
@@ -37,6 +60,16 @@ Shareable documents for legal counsel and stakeholders (PDF + source markdown):
 |------|---------|
 | `01-executive-summary` | Concise case briefing for legal counsel |
 | `02-action-checklist` | Printable todo list with deadlines |
+| `03-response-letter-paul-stoten-draft-X` | Draft response letter to complainant (versioned) |
+
+### Draft Versioning
+
+For documents requiring review and revision (e.g., response letters), use `-draft-X` suffix:
+- `03-response-letter-paul-stoten-draft-1.md` - Initial draft
+- `03-response-letter-paul-stoten-draft-2.md` - After first round of feedback
+- etc.
+
+Keep previous drafts for reference until final version is approved.
 
 ## Working With This Repository
 

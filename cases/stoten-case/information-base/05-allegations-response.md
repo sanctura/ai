@@ -28,9 +28,16 @@ Key points:
 
 > "There is no basis for GMC jurisdiction or allegations of unsafe practice."
 
-### Action Required:
-- Verify exact CQC license dates for London clinic (secondary priority)
-- Primary defense does not rely on CQC status given naturopathic role
+### CQC Registration Status:
+- **CQC Registration Date:** 22 September 2025
+- **Treatment Period:** July-August 2025
+- **Implication:** Clinic was not CQC registered during Louise Stoten's London treatment
+
+### Why This Doesn't Undermine Defense:
+- Primary defense does not rely on CQC status
+- Dr Laporta's naturopathic activities (IV nutrition, photobiomodulation, hyperthermia) may not require CQC registration
+- All medical prescribing was done by registered NP Maria Tam, not Dr Laporta
+- The defense rests on role delineation, not facility registration
 
 ---
 
