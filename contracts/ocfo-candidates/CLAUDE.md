@@ -6,11 +6,36 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a documentation repository for tracking the hiring of an interim CFO/Financial Manager for Sanctura (a multi-entity medical practice group). It contains no code - only markdown documents and PDFs related to the hiring decision.
 
+## Current Status
+
+**Decision:** Proceeding with Keith Harrod (via OCFO) on 4-month contract
+**Stage:** Contract negotiation in progress
+**Deadline:** Alida's last day is 23 February 2026
+
 ## Structure
 
 - **background/** - Source documents: candidate CVs (PDF), interview transcripts, contracts (PDF), external analysis
 - **information-base/** - Synthesized summaries and analysis created from background materials
 - **output/** - Generated communications and deliverables (e.g., WhatsApp messages, emails)
+
+### Information Base Files
+
+| File | Contents |
+|------|----------|
+| 01-situation-overview.md | Crisis context, 7 entities, compliance deadlines |
+| 02-candidate-keith-harrod.md | Keith's profile, experience, fit assessment |
+| 03-interview-summary.md | 3 Feb 2026 interview outcomes, decisions |
+| 04-contract-analysis.md | OCFO contract issues, negotiation points |
+| 05-decision-summary.md | Recommendation to proceed, next steps |
+| 06-decision-tension.md | James vs Grant on timing, alternatives explored |
+
+### Output Files
+
+| File | Contents |
+|------|----------|
+| whatsapp-james-keith-decision.md | Direct message to James recommending Keith |
+| contract-negotiation-points.md | Summary of contract changes required |
+| email-ocfo-response-draft.md | Draft response to OCFO with amendments |
 
 ## Context
 
