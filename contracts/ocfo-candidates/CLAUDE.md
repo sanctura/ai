@@ -8,13 +8,16 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 
 ## Current Status
 
-**Decision:** Proceeding with Keith Harrod (via OCFO) on 4-month contract
-**Stage:** Contract negotiation in progress
+**Stage:** Comparing two candidates before final decision
+**Candidates:**
+- Keith Harrod (OCFO) - interviewed, contract negotiation in progress
+- Ronald Mushonga (LVB Consulting) - CV received, not yet interviewed
 **Deadline:** Alida's last day is 23 February 2026
 
 ## Structure
 
 - **background/** - Source documents: candidate CVs (PDF), interview transcripts, contracts (PDF), external analysis
+- **updated-information/** - New materials received during decision process (e.g., additional CVs)
 - **information-base/** - Synthesized summaries and analysis created from background materials
 - **output/** - Generated communications and deliverables (e.g., WhatsApp messages, emails)
 
@@ -28,6 +31,7 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 | 04-contract-analysis.md | OCFO contract issues, negotiation points |
 | 05-decision-summary.md | Recommendation to proceed, next steps |
 | 06-decision-tension.md | James vs Grant on timing, alternatives explored |
+| 07-candidate-ronald-mushonga.md | Ronald's profile, comparison to Keith |
 
 ### Output Files
 
