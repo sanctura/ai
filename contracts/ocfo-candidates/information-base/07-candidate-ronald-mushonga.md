@@ -2,7 +2,7 @@
 
 **Source:** LVB Consulting (Lushia)
 **Date Added:** 3 February 2026
-**Status:** New candidate - not yet interviewed
+**Status:** Intro interview completed - second interview pending with Ricardo
 
 ---
 
@@ -18,6 +18,9 @@
 | **LinkedIn** | linkedin.com/in/ronald-mushonga-4657138b |
 | **Current Role** | Fractional CFO Consultant (Hatua Capital) |
 | **Availability** | Immediate (per LinkedIn post) |
+| **Rate** | R110,000/month (same as Keith) |
+| **Agency Fee** | ~R60,720 (12% for 4-month contract, incl VAT) |
+| **Total 4-month cost** | ~R500,720 (vs R440,000 for Keith via OCFO) |
 
 ---
 
@@ -102,17 +105,32 @@
 | Team building | Willing to help hire bookkeeper | Rebuilt finance teams |
 | Xero | Unclear | Unknown |
 | Healthcare | No | No |
-| Rate | R110k/month (OCFO) | Unknown |
-| Availability | Immediate | Immediate (per post) |
-| Contract status | Final negotiation | Not yet discussed |
+| Rate | R110k/month | R110k/month |
+| Agency fee | Included | +R60,720 (12%) |
+| **4-month total** | **R440,000** | **R500,720** |
+| Permanent hire fee | ~R220k (240hrs penalty) | ~R152k (10% CTC) |
+| Restriction period | 24 months | 18 months |
+| Availability | Immediate | Immediate |
+| Contract status | Final negotiation | Interview stage |
+
+---
+
+## Interview Progress
+
+| Stage | Date | Attendees | Status |
+|-------|------|-----------|--------|
+| Intro interview | 3 Feb 2026 | Grant | Completed |
+| Technical interview | TBC | Ricardo, Grant | Pending |
 
 ---
 
 ## Next Steps
 
-- [ ] Confirm availability and rate with Lushia
-- [ ] Schedule interview if competitive
-- [ ] Compare terms to OCFO contract
+- [x] Confirm rate with Lushia - R110k/month confirmed
+- [ ] Schedule second interview with Ricardo
+- [ ] Clarify Xero experience
+- [ ] Confirm hands-on vs strategic approach
+- [ ] Compare agency terms - see 08-lvb-agency-terms.md
 - [ ] Assess personality fit (James's concern with Keith)
 
 ---

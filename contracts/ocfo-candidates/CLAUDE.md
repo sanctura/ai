@@ -11,7 +11,7 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 **Stage:** Comparing two candidates before final decision
 **Candidates:**
 - Keith Harrod (OCFO) - interviewed, contract negotiation in progress
-- Ronald Mushonga (LVB Consulting) - CV received, not yet interviewed
+- Ronald Mushonga (LVB Consulting) - intro interview done, second interview with Ricardo pending
 **Deadline:** Alida's last day is 23 February 2026
 
 ## Structure
@@ -32,6 +32,7 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 | 05-decision-summary.md | Recommendation to proceed, next steps |
 | 06-decision-tension.md | James vs Grant on timing, alternatives explored |
 | 07-candidate-ronald-mushonga.md | Ronald's profile, comparison to Keith |
+| 08-lvb-agency-terms.md | LVB agency fees, contract-to-perm costs |
 
 ### Output Files
 
@@ -40,6 +41,9 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 | whatsapp-james-keith-decision.md | Direct message to James recommending Keith |
 | contract-negotiation-points.md | Summary of contract changes required |
 | email-ocfo-response-draft.md | Draft response to OCFO with amendments |
+| ronald-interview-cheatsheet.md | Interview prep for Ricardo (full version) |
+| ronald-interview-cheatsheet.pdf | PDF version of interview prep |
+| ronald-interview-cheatsheet-whatsapp.md | Ultra-short WhatsApp version |
 
 ## Context
 

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where:*)",
+      "Bash(npx md-to-pdf:*)",
+      "Bash(dir \"C:\\\\github\\\\ai\\\\contracts\\\\ocfo-candidates\\\\output\\\\*.pdf\")",
+      "Bash(cmd /c \"dir C:\\\\github\\\\ai\\\\contracts\\\\ocfo-candidates\\\\output\"\")"
+    ]
+  }
+}
