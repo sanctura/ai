@@ -1,68 +1,65 @@
 # Decision: Proceed with Ronald Mushonga
 
 **Date:** 4 February 2026
-**Status:** Siraj negotiating directly with Ronald
+**Status:** Agreement reached - contract pending
 
 ---
 
 ## Decision
 
-**Proceeding with Ronald Mushonga via LVB Consulting.**
+**Proceeding with Ronald Mushonga as an independent consultant.**
 
 ---
 
-## Negotiation Progress
+## Final Agreement Terms
 
-### Update 1: Siraj ↔ Lushia (LVB) - 4 Feb 15:06
-
-| Item | LVB Position |
+| Item | Agreed Terms |
 |------|--------------|
-| Monthly rate | R110,000 |
-| 4-month placement fee | R52,800 ex VAT |
-| 6-month placement fee | R79,200 ex VAT (additional R26,400 for months 5-6) |
-| Travel/Airbnb | **Over and above R110k** |
-
-**Issue:** Travel/accommodation is NOT included - contrary to our position.
-
-### Next: Siraj ↔ Ronald (Direct)
-
-Siraj to negotiate directly with Ronald to address travel/accommodation.
+| **Engagement type** | Independent consultant (invoices via his company) |
+| **Monthly rate** | R115,000 ZAR |
+| **Tax/expenses** | Ronald manages own tax; can claim rent/travel as business expenses |
+| **February flight** | Sanctura covers return flight |
+| **Ongoing travel/accommodation** | Ronald's responsibility |
+| **Background checks** | LVB performing checks |
+| **Contingency** | Contract voided if background checks fail (Ronald has disclosed all is in order) |
 
 ---
 
-## Cost Summary (As Quoted by LVB)
+## Cost Summary (Final)
 
 ### 4-Month Scenario
 
 | Item | Amount |
 |------|--------|
-| Ronald's fee | R110,000 × 4 = R440,000 |
-| Placement fee | R52,800 ex VAT |
-| Placement fee incl VAT | ~R60,720 |
-| Travel/Airbnb | TBD (additional) |
-| **Subtotal (excl travel)** | **~R500,720** |
+| Ronald's fee | R115,000 × 4 = R460,000 |
+| February return flight | ~R5,000-10,000 (estimate) |
+| LVB placement fee | TBC |
+| **Total (excl placement)** | **~R465,000-470,000** |
 
 ### 6-Month Scenario
 
 | Item | Amount |
 |------|--------|
-| Ronald's fee | R110,000 × 6 = R660,000 |
-| Placement fee | R79,200 ex VAT |
-| Placement fee incl VAT | ~R91,080 |
-| Travel/Airbnb | TBD (additional) |
-| **Subtotal (excl travel)** | **~R751,080** |
+| Ronald's fee | R115,000 × 6 = R690,000 |
+| February return flight | ~R5,000-10,000 (estimate) |
+| LVB placement fee | TBC |
+| **Total (excl placement)** | **~R695,000-700,000** |
 
 ---
 
-## Our Position (For Siraj → Ronald)
+## Negotiation History
 
-| Item | Our Position |
-|------|--------------|
-| Rate | R110k is the ask, negotiate lower if possible |
-| Travel/accommodation | **Must be included** - full package, no extras |
-| Contract | 4 months + option to extend to 6 |
-| Month 1 | Full-time on-site (non-negotiable for handover) |
-| Month 2+ | 2 weeks in / 2 weeks remote |
+### Round 1: Siraj ↔ Lushia (LVB) - 4 Feb
+
+- LVB quoted R110,000/month + travel/accommodation on top
+- We pushed back on travel being additional
+
+### Round 2: Final Agreement
+
+- Settled at R115,000/month all-in
+- Ronald invoices as a company (handles own tax, claims own expenses)
+- We only cover February return flight
+- He covers all ongoing travel/accommodation from his rate
 
 ---
 
@@ -83,14 +80,17 @@ Siraj to negotiate directly with Ronald to address travel/accommodation.
 | Action | Owner | Status |
 |--------|-------|--------|
 | ~~Negotiate terms with Lushia~~ | ~~Siraj~~ | Done |
-| Negotiate with Ronald (travel, rate) | Siraj | **In progress** |
-| Confirm total cost | Siraj | Pending |
+| ~~Negotiate with Ronald (travel, rate)~~ | ~~Siraj~~ | **Done** |
+| Receive and review contract | Siraj/Grant | **Pending** |
+| Background checks completed | LVB | **Pending** |
+| Sign contract | Grant/James | Pending |
 | Confirm start date | Siraj | Pending |
-| Notify OCFO (Keith) | Grant | After Ronald confirmed |
+| Notify OCFO (Keith) | Grant | After contract signed |
 | Prepare for handover | Grant/Alida | Ongoing |
 
 ---
 
 ## Risk Note
 
-Keith (OCFO) contract negotiation was in progress. Once Ronald is confirmed, need to communicate decision to OCFO.
+- Keith (OCFO) contract negotiation was in progress - need to notify them once Ronald contract is signed
+- Contract contingent on background checks passing (Ronald has confirmed all clear)

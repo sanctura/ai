@@ -8,9 +8,10 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 
 ## Current Status
 
-**Stage:** Proceeding with Ronald - Siraj negotiating terms
-**Decision:** Ronald Mushonga (LVB Consulting)
-**Negotiator:** Siraj → Lushia (LVB)
+**Stage:** Agreement reached - awaiting contract and background checks
+**Decision:** Ronald Mushonga (independent consultant)
+**Rate:** R115,000/month, we cover Feb return flight only
+**Contingency:** Contract voided if LVB background checks fail
 **Deadline:** Alida's last day is 23 February 2026
 
 ## Structure
@@ -33,7 +34,7 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 | 07-candidate-ronald-mushonga.md | Ronald's profile, comparison to Keith |
 | 08-lvb-agency-terms.md | LVB agency fees, contract-to-perm costs |
 | 09-ronald-interview-summary.md | 4 Feb 2026 interview outcomes, Ricardo prefers Ronald |
-| 10-decision-proceed-ronald.md | Decision to proceed, negotiation position |
+| 10-decision-proceed-ronald.md | Final agreement terms, contract pending |
 
 ### Output Files
 
