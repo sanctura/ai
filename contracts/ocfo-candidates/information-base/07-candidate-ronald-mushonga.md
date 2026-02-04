@@ -2,7 +2,7 @@
 
 **Source:** LVB Consulting (Lushia)
 **Date Added:** 3 February 2026
-**Status:** Intro interview completed - second interview pending with Ricardo
+**Status:** Interviewed - preferred candidate (Ricardo's verdict)
 
 ---
 
@@ -81,16 +81,26 @@
 | Capital/funding | Raised >$10m equity/debt; R30m from DPE |
 | Fractional/interim | Currently operating as fractional CFO |
 
-### Unknowns / To Clarify
+### Interview Findings (4 Feb 2026)
 
-| Question | Why It Matters |
-|----------|----------------|
-| Xero experience? | Sanctura uses Xero across all entities |
-| Healthcare sector? | No healthcare experience evident |
-| Availability confirmation? | LinkedIn says "available now" - confirm |
-| Rate expectations? | Compare to OCFO's R110k/month |
-| Multi-country experience? | Sanctura has UK entities |
-| Hands-on vs strategic? | Need someone doing the work, not just advising |
+| Question | Answer from Interview |
+|----------|----------------------|
+| Xero experience? | Not discussed - still unknown |
+| Healthcare sector? | No - but not a blocker |
+| Availability | Confirmed immediate |
+| Rate | R110k/month (negotiable to R100k for longer term) |
+| Multi-country | Not specifically addressed |
+| Hands-on vs strategic? | **Yes, willing** - but needs junior support to be effective |
+| Technical adaptability | Self-rated 8-10/10 |
+| Cash flow approach | 13-week rolling forecast (more robust than Keith's 30-day) |
+
+### Outstanding Negotiations
+
+| Item | Issue |
+|------|-------|
+| Work arrangement | Proposed 2 weeks Cape Town / 2 weeks remote - Grant doesn't like this |
+| Travel costs | Does R110k include flights/accommodation from Joburg? |
+| Rate negotiation | Potentially R100k for 6-month contract |
 
 ---
 
@@ -102,16 +112,18 @@
 | Experience | 15+ years | 15+ years |
 | Multi-entity | Yes (Janetta - 12 entities) | Yes (JSE groups, SOCs) |
 | Business rescue | Not mentioned | Yes (SAA) |
-| Team building | Willing to help hire bookkeeper | Rebuilt finance teams |
+| Team building | Will help hire bookkeeper | Detailed structure + plan |
+| Cash flow method | 30-day rolling weekly | **13-week rolling** |
+| Hands-on | Confirmed | Confirmed (with support) |
 | Xero | Unclear | Unknown |
 | Healthcare | No | No |
-| Rate | R110k/month | R110k/month |
+| Location | Cape Town (local) | **Joburg (travel required)** |
+| Rate | R110k/month | R110k/month (negotiable) |
 | Agency fee | Included | +R60,720 (12%) |
-| **4-month total** | **R440,000** | **R500,720** |
+| **4-month total** | **R440,000** | **~R500,720 + travel?** |
 | Permanent hire fee | ~R220k (240hrs penalty) | ~R152k (10% CTC) |
 | Restriction period | 24 months | 18 months |
-| Availability | Immediate | Immediate |
-| Contract status | Final negotiation | Interview stage |
+| **Ricardo's verdict** | "Could do the job" | **"Preferred - more on the pulse"** |
 
 ---
 
@@ -120,18 +132,20 @@
 | Stage | Date | Attendees | Status |
 |-------|------|-----------|--------|
 | Intro interview | 3 Feb 2026 | Grant | Completed |
-| Technical interview | TBC | Ricardo, Grant | Pending |
+| Full interview | 4 Feb 2026 | Ricardo, James, Grant | **Completed** |
 
 ---
 
 ## Next Steps
 
 - [x] Confirm rate with Lushia - R110k/month confirmed
-- [ ] Schedule second interview with Ricardo
-- [ ] Clarify Xero experience
-- [ ] Confirm hands-on vs strategic approach
-- [ ] Compare agency terms - see 08-lvb-agency-terms.md
-- [ ] Assess personality fit (James's concern with Keith)
+- [x] Interview with Ricardo - **Completed, preferred candidate**
+- [x] Confirm hands-on approach - Yes, with support requirement
+- [ ] Negotiate work arrangement (2 weeks on/off not ideal)
+- [ ] Clarify travel costs in R110k rate
+- [ ] Negotiate rate for 6-month contract (R100k?)
+- [ ] Final cost comparison vs Keith
+- [ ] Make decision
 
 ---
 

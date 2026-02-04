@@ -1,0 +1,28 @@
+Team,Name,Role,Manager,Location,Currency,Start Date,Current Salary,Eligible,Decision,Recommended %,Increase Amount,New Salary,Notes
+Leadership,Dr James Laporta,CEO,--,SA,ZAR,,,No,--,0%,,,Not in scope
+Leadership,Grant Merwitz,Managing Director,CEO,SA,ZAR,,,No,--,0%,,,Conducting review; recent increase
+MD Direct Reports,Dr Elena Hilton,Medical Officer,MD,SA,ZAR,,,No,,0%,,,New contract just signed
+MD Direct Reports,Dr Ismaeel Ebrahim,Medical Officer,MD,UK,GBP,Nov 2025,,Special,,4%,,,Consulting contract - 6 months March 2026
+MD Direct Reports,Kyle Bennett,Practice Manager,MD,SA,ZAR,,,Special,,7%,,,15.3% promotion Nov 2025
+MD Direct Reports,Yaseen Harneker,CPO,MD,SA,ZAR,,,Yes,,7%,,,
+MD Direct Reports,Alida Wiese,Finance Manager,MD,SA,ZAR,,,No,--,0%,,,Resigned
+Cape Town Medical,Maria Tam,Head Nurse,Dr Elena,SA,ZAR,Jun 2025,,Yes,,7%,,,Permanent from June 2025
+Cape Town Medical,Jasmin Pulanco,Registered Nurse,Dr Elena,SA,GBP,13 Oct 2025,,No,,0%,,,<6 months service
+Cape Town Medical,Alicia Reihill,Registered Nurse,Dr Elena,SA,GBP,Dec 2025,,No,,0%,,,<6 months service
+Cape Town Medical,Maria Vega,Registered Nurse,Dr Elena,SA,GBP,12 Jan 2026,,No,,0%,,,<6 months service
+Cape Town Medical,Saba Akhtar,Registered Nurse,Dr Elena,SA,GBP,02 Feb 2026,,No,,0%,,,<6 months service
+Cape Town Medical,Cecille Raran,Perm Locum,Dr Elena,SA,ZAR,,,No,--,0%,,,Locum excluded
+Cape Town Medical,Michelle Ynceriterto,Assistant Locum,Dr Elena,SA,ZAR,,,No,--,0%,,,Locum excluded
+Cape Town Medical,Mel Ducao,Assistant Locum,Dr Elena,SA,ZAR,,,No,--,0%,,,Locum excluded
+London Medical,Abongile Ntulo,Head Nurse,Dr Ismaeel,UK,GBP,Jan 2026,,No,,0%,,,<6 months service
+London Medical,Ferdinand Cho Muluh,Registered Nurse,Dr Ismaeel,UK,GBP,Sep 2025,,Yes,,4%,,,
+London Medical,Candice Henri,Registered Nurse,Dr Ismaeel,UK,GBP,,,Yes,,4%,,,
+London Medical,Carel Louw,Nurse,Dr Ismaeel,UK,GBP,,,Yes,,4%,,,
+Practice Operations,Janine Nathan,Receptionist,Kyle,SA,ZAR,,,Yes,,7%,,,
+Practice Operations,Nuhaa Peterson,Receptionist,Kyle,SA,ZAR,,,Special,,7%,,,10% increase Oct 2025; requested additional
+Practice Operations,Sweetness Twalo,House Keeping,Kyle,SA,ZAR,,,Yes,,7%,,,
+Former FA Team,Wendy Denning,Consultant,--,SA,ZAR,,,No,--,0%,,,Consultant excluded
+Former FA Team,Amanda Ross,Practice Manager,TBD,SA,ZAR,Nov 2024,,Yes,,7%,,,
+Former FA Team,Lexee Duval,Receptionist,TBD,SA,ZAR,,,Special,,7%,,,Has requested increase
+Former FA Team,Elly Moore,Receptionist,TBD,SA,ZAR,,,Yes,,7%,,,
+CEO Direct Report,Jesse Sass,PA to CEO,CEO,SA,ZAR,02 Jun 2025,,Yes,,7%,,,
