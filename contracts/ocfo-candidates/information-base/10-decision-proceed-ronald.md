@@ -1,7 +1,7 @@
 # Decision: Proceed with Ronald Mushonga
 
 **Date:** 4 February 2026
-**Status:** Negotiating terms
+**Status:** Siraj negotiating directly with Ronald
 
 ---
 
@@ -9,34 +9,60 @@
 
 **Proceeding with Ronald Mushonga via LVB Consulting.**
 
-Siraj to negotiate terms with Lushia (LVB).
+---
+
+## Negotiation Progress
+
+### Update 1: Siraj ↔ Lushia (LVB) - 4 Feb 15:06
+
+| Item | LVB Position |
+|------|--------------|
+| Monthly rate | R110,000 |
+| 4-month placement fee | R52,800 ex VAT |
+| 6-month placement fee | R79,200 ex VAT (additional R26,400 for months 5-6) |
+| Travel/Airbnb | **Over and above R110k** |
+
+**Issue:** Travel/accommodation is NOT included - contrary to our position.
+
+### Next: Siraj ↔ Ronald (Direct)
+
+Siraj to negotiate directly with Ronald to address travel/accommodation.
 
 ---
 
-## Agreed Position
+## Cost Summary (As Quoted by LVB)
 
-### Contract
+### 4-Month Scenario
 
-| Term | Position |
-|------|----------|
-| Duration | 4 months |
-| Extension | Option to extend to 6 months |
-| Start | ASAP (handover deadline 23 Feb) |
+| Item | Amount |
+|------|--------|
+| Ronald's fee | R110,000 × 4 = R440,000 |
+| Placement fee | R52,800 ex VAT |
+| Placement fee incl VAT | ~R60,720 |
+| Travel/Airbnb | TBD (additional) |
+| **Subtotal (excl travel)** | **~R500,720** |
 
-### Rate
+### 6-Month Scenario
 
-| Item | Position |
-|------|----------|
-| Ronald's ask | R110,000/month |
-| Our target | Lower if possible |
-| Travel/accommodation | **Included** - full package, no extras |
+| Item | Amount |
+|------|--------|
+| Ronald's fee | R110,000 × 6 = R660,000 |
+| Placement fee | R79,200 ex VAT |
+| Placement fee incl VAT | ~R91,080 |
+| Travel/Airbnb | TBD (additional) |
+| **Subtotal (excl travel)** | **~R751,080** |
 
-### Work Arrangement
+---
 
-| Period | Arrangement |
-|--------|-------------|
-| Month 1 | Full-time on-site Cape Town (handover) |
-| Month 2+ | 2 weeks Cape Town / 2 weeks remote |
+## Our Position (For Siraj → Ronald)
+
+| Item | Our Position |
+|------|--------------|
+| Rate | R110k is the ask, negotiate lower if possible |
+| Travel/accommodation | **Must be included** - full package, no extras |
+| Contract | 4 months + option to extend to 6 |
+| Month 1 | Full-time on-site (non-negotiable for handover) |
+| Month 2+ | 2 weeks in / 2 weeks remote |
 
 ---
 
@@ -52,24 +78,12 @@ Siraj to negotiate terms with Lushia (LVB).
 
 ---
 
-## Outstanding Negotiations
-
-| Item | To Confirm |
-|------|------------|
-| Final rate | Target below R110k, all-inclusive |
-| Agency fee | ~12% of contract value |
-| Total cost | Rate × 4 months + agency |
-| Start date | Earliest available |
-| First month on-site | Non-negotiable for handover |
-| Extension terms | Process and pricing |
-
----
-
 ## Next Steps
 
 | Action | Owner | Status |
 |--------|-------|--------|
-| Negotiate terms with Lushia | Siraj | Pending |
+| ~~Negotiate terms with Lushia~~ | ~~Siraj~~ | Done |
+| Negotiate with Ronald (travel, rate) | Siraj | **In progress** |
 | Confirm total cost | Siraj | Pending |
 | Confirm start date | Siraj | Pending |
 | Notify OCFO (Keith) | Grant | After Ronald confirmed |

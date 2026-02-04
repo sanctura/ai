@@ -16,11 +16,11 @@ This folder contains the structured background information and planning document
 
 ## Current Status
 
-**Stage:** Pre-contract finalisation
+**Stage:** Contract approved - awaiting HR guidance on IR35
 
-**Next Action:** Tuesday 12:00 meeting to finalise structure, confirm availability, align on initial priorities
+**Latest Update:** Mo has confirmed he is happy with v4 of the contract and is ready to sign. CEST assessment completed 4 Feb 2026 - result: "Unable to make a determination" (finely balanced).
 
-**Following Action:** Provide HR/Legal with agreed summary to draft consulting agreement
+**Next Action:** Await Lauren's guidance on IR35 approach, then execute contract
 
 ## Key Facts Summary
 
@@ -28,20 +28,29 @@ This folder contains the structured background information and planning document
 |------|--------|
 | Candidate | Mohammed (Mo) Desai |
 | Role Type | Part-time consulting engagement |
-| Engagement Type | Direct with Sanctura (not umbrella) |
-| Rate | £46/hour |
-| Start Date | 10 February 2025 |
-| February Commitment | 2 days/week |
-| March+ Commitment | 3 days/week (subject to review) |
-| Contract Type | Month-to-month |
+| Engagement Type | TBC - likely via umbrella (inside IR35) |
+| Rate | £49/hour |
+| Term | 10 February 2026 to 10 May 2026 (3-month fixed term) |
+| Hours | Up to 15 hours/week (with flexibility clause) |
+| Contract Version | v4 (approved by Mo) |
+| CEST Result | Unable to determine (4 Feb 2026) |
 
 ## Source Documents
 
 - `/background/discussion-history.md` - Full discussion summary
 - `/background/Mohammed_Desai_CV 0225 V7 updated .docx` - Candidate CV (not yet extracted)
 - `/background/proposed bank contract.md` - Reference contract template (bank staff)
+- `/background/CEST Results.pdf` - HMRC CEST assessment (4 Feb 2026) - result: unable to determine
 
 ## Contract Documents
 
-- `/contract/consultancy-agreement-draft-v1.md` - Draft consultancy agreement for HR review
-- `/contract/hr-review-notes.md` - Cover notes and open items for HR consultant
+| Version | File | Status |
+|---------|------|--------|
+| v1 | `/contract/consultancy-agreement-draft-v1.md` | Superseded - initial draft sent to HR |
+| v2 | `/contract/consultancy-agreement-draft-v1-feedback-doc.md` | Superseded - HR feedback (Lauren's tracked changes) |
+| v3 | `/contract/consultancy-agreement-draft-v3.md` | Superseded - incorporated HR feedback |
+| v4 | `/contract/consultancy-agreement-draft-v4.md` | **Current - approved by Mo, ready for signing** |
+
+Supporting documents:
+- `/contract/hr-review-notes.md` - Cover notes for HR consultant
+- `/contract/consultancy-agreement-draft-v3-mofeedback.md` - Mo's feedback on v3

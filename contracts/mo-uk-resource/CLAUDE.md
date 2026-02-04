@@ -37,4 +37,13 @@ This is a documentation repository for managing the hiring and onboarding of Moh
 | v1 | Superseded | Initial draft sent to HR for review |
 | v2 | Superseded | HR feedback document (Lauren's tracked changes) |
 | v3 | Superseded | Incorporates HR feedback: fixed term, substitution rights, insurance clause |
-| v4 | Current | Mo's feedback: rate increased to £49/hour, added hours flexibility clause (4.6) |
+| v4 | Approved | Mo's feedback: rate increased to £49/hour, added hours flexibility clause (4.6). Mo approved and ready to sign. |
+
+## IR35 / CEST Assessment
+
+- **Date:** 4 February 2026
+- **Result:** Unable to make a determination (finely balanced)
+- **File:** `/background/CEST Results.pdf`
+- **Next step:** Awaiting Lauren's guidance on how to proceed
+
+Mo has indicated he expects the engagement falls inside IR35 and priced accordingly (£49/hour), anticipating invoicing through an umbrella company.
