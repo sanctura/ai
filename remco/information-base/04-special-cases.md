@@ -4,8 +4,8 @@
 
 | Name | Situation | Decision |
 |------|-----------|----------|
-| **Nuhaa Peterson** | Received 10% increase mid-October 2025 | TBD - has requested additional increase on top of annual |
-| **Kyle Bennett** | Received 15.3% increase with November 2025 promotion | TBD - should he still get annual increase? |
+| **Nuhaa Peterson** | Received 10% increase mid-October 2025 for responsibilities | **0% - No increase**. Potential motivational increase if additional responsibilities. Maternity leave later in year |
+| **Kyle Bennett** | Received 15.3% increase with November 2025 promotion | **0% - No increase**. Potential compensation for managing Abongile next quarter |
 
 ## Resolved - Not Eligible
 
@@ -17,15 +17,15 @@
 
 ## Staff with Contract Changes
 
-| Name | Situation | Question |
+| Name | Situation | Decision |
 |------|-----------|----------|
-| **Dr Ismaeel Ebrahim** | Consulting contract effective 01 November 2025; 6th month = March 2026 | Should he receive increase at 6-month mark? |
+| **Dr Ismaeel Ebrahim** | Consulting contract effective 01 November 2025 | **0% - No increase**. Recently negotiated package |
 
 ## Staff Requesting Increases
 
-| Name | Situation | Question |
+| Name | Situation | Decision |
 |------|-----------|----------|
-| **Lexee Duval** | Has requested an increase | Should this be in addition to annual increase? |
+| **Lexee Duval** | Has requested an increase | **7% - Approved**. Above inflation increase for standout performance |
 
 ## Excluded Staff (< 6 Months Service)
 

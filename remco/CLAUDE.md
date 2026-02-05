@@ -22,18 +22,36 @@ Structured, organized reference documents derived from the background materials:
 | `04-special-cases.md` | Staff requiring individual decisions, confirmed exclusions |
 | `05-open-questions.md` | Unresolved questions and project checklist |
 | `06-framework-principles.md` | Agreed framework from December 2025 RemCo meeting |
+| `07-final-proposals-feb2026.md` | Final proposals with resolved special cases and totals |
+
+### `/new-information/`
+Working documents and updated data files:
+
+| File | Contents |
+|------|----------|
+| `Proposal To Be Sent to Directors - corrected.csv` | Master spreadsheet with all staff, recommendations, and calculations |
+
+### `/outputs/`
+Final deliverables for distribution:
+
+| File | Contents |
+|------|----------|
+| `Directors-Summary-February-2026.md` | Summary letter for directors explaining methodology |
+| `2026-increase-summary.md` | Succinct summary by currency (GBP/ZAR) with costs |
+| `notes.md` | Working notes and status tracking |
 
 ## Key Context
 
 - **Review deadline**: End of February 2026
 - **Effective date**: March 2026 (financial year start)
-- **Regions**: South Africa (7-9% proposed) and United Kingdom (4-5% proposed)
+- **Final rates**: South Africa **7%**, United Kingdom **4%**
 - **Eligibility**: Staff with >6 months service, not on probation
+- **Total annual cost**: £5,728 + R302,256
 
 ## Working with This Repository
 
 When answering questions about the increase review:
-1. Consult the `information-base/` files for structured, current information
-2. Reference `background/` for original source material if needed
-3. Check `05-open-questions.md` for unresolved items
-4. Check `04-special-cases.md` for staff requiring individual decisions
+1. Consult `outputs/` for final deliverables ready for distribution
+2. Consult `information-base/` files for structured reference information
+3. Reference `background/` for original source material if needed
+4. Check `07-final-proposals-feb2026.md` for current decisions and totals
