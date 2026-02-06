@@ -1,9 +1,11 @@
 # Final Salary Increase Proposals - February 2026
 
+*Updated 6 February 2026 following CEO feedback*
+
 ## Approved Rates
 
-| Region | Rate | Basis |
-|--------|------|-------|
+| Region | Standard Rate | Basis |
+|--------|--------------|-------|
 | South Africa | 7% | CPI baseline (3.2-3.6%) + 2-year gap + electricity costs |
 | United Kingdom | 4% | CPIH baseline (3.6%) aligned |
 
@@ -17,7 +19,6 @@
 
 | Name | Role | Current Salary | Increase | New Salary |
 |------|------|----------------|----------|------------|
-| Yaseen Harneker | CPO | R166,667 pm | R11,667 | R178,334 pm |
 | Candice Henri | Registered Nurse | R39,000 pm | R2,730 | R41,730 pm |
 | Ferdinand Cho Muluh | Registered Nurse | R38,500 pm | R2,695 | R41,195 pm |
 | Carel Louw | Nurse | R37,100 pm | R2,597 | R39,697 pm |
@@ -32,17 +33,21 @@
 |------|------|----------------|----------|------------|
 | Amanda Ross | Practice Manager | £5,000 pm | £200 | £5,200 pm |
 | Maria Tam | Head Nurse | £4,583 pm | £183 | £4,767 pm |
-| Lexee Duval | Receptionist | £2,350 pm | £94 | £2,444 pm |
 
-*Note: Lexee Duval - above inflation increase for standout performance*
+**United Kingdom - Above Standard**
+
+| Name | Role | Current Salary | Rate | Increase | New Salary | Reason |
+|------|------|----------------|------|----------|------------|--------|
+| Lexee Duval | Receptionist | £2,350 pm | **8%** | £188 | £2,538 pm | CEO recommendation — double inflation for standout performance |
 
 ### Special Cases - Resolved
 
 | Name | Location | Situation | Rate | Decision |
 |------|----------|-----------|------|----------|
-| Dr Ismaeel Ebrahim | SA | Recently negotiated package | 0% | No increase required |
-| Kyle Bennett | SA | 15.3% promotion Nov 2025 | 0% | No increase. Potential compensation for managing Abongile next quarter |
-| Nuhaa Peterson | SA | 10% increase Oct 2025 for responsibilities | 0% | No increase. Potential motivational increase if additional responsibilities. Maternity leave later in year |
+| Yaseen Harneker | SA | CPO | **0%** | Performance/KPI-based. To be addressed in March KPI review |
+| Dr Ismaeel Ebrahim | SA | Consulting contract Nov 2025 | 0% | Recently negotiated package — no increase required |
+| Kyle Bennett | SA | 15.3% promotion Nov 2025 | 0% | Recent promotion. Potential compensation for managing Abongile next quarter |
+| Nuhaa Peterson | SA | 10% increase Oct 2025 for responsibilities | 0% | Recent increase. Potential motivational increase if additional responsibilities. Maternity leave later in year |
 
 ### Not Eligible
 
@@ -65,14 +70,25 @@
 
 | Metric | Cape Town (ZAR) | London (GBP) |
 |--------|-----------------|--------------|
-| Annual Increase | R302,256 | £5,728 |
+| Monthly Increase | R13,521 | £571 |
+| Annual Increase | R162,256 | £6,856 |
 
-**Total: £5,728 + R302,256 pa**
+**Total: £6,856 + R162,256 pa**
+
+---
+
+## Change Log
+
+| Date | Change | Impact |
+|------|--------|--------|
+| 6 Feb 2026 | Lexee Duval 4% → 8% per CEO recommendation | +£1,128/pa GBP |
+| 6 Feb 2026 | Yaseen Harneker 7% → 0%, deferred to KPI review | -R140,000/pa ZAR |
 
 ---
 
 ## Source Documents
 
-- Full staff list: `new-information/Proposal To Be Sent to Directors - corrected.csv`
-- Director summary: `outputs/Directors-Summary-February-2026.md`
+- Full staff list: `new-information/Proposal To Be Sent to Directors - V4.csv`
+- Director summary: `outputs/2026-02-06-Directors-Summary.md`
 - Quick summary: `outputs/2026-increase-summary.md`
+- CEO feedback: `new-information/2026-02-06_JamesFirstFeedback.txt`
