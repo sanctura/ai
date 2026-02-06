@@ -1,0 +1,55 @@
+frequency,when,task,entity,owner,notes
+daily,Every day,Bank balance check & cash position,All,OCFO,Flag concerns to Grant immediately
+daily,Every day,Check shared mailbox for supplier invoices,All SA,OCFO,Log and file as received
+daily,Every day,Monitor incoming payments (bank feed),All,OCFO,Match to outstanding debtors
+daily,Every day,Check for SARS/HMRC correspondence,All,OCFO,Escalate deadlines to Grant
+daily,Every day,Review Xero bank feed & categorise transactions,All,OCFO,Don't let these pile up
+weekly,Monday,Collate & log week's supplier invoices against POs,All SA,OCFO,Reconcile to purchase orders
+weekly,Monday,Debtors age analysis review,"Inc, Sanctura Ltd",OCFO,Identify overdue items for chase
+weekly,Wednesday,Load supplier payment batch in banking portal,All SA,OCFO,Ready for Thursday release
+weekly,Thursday,Release supplier payments,All SA,Yaseen,After OCFO loads batch
+weekly,Thursday,UK supplier payment review,Sanctura Ltd,Grant,Kinari processes
+weekly,Friday,Bank reconciliation (all accounts),All,OCFO,
+weekly,Friday,Debtors chase (calls/emails),"Inc, Sanctura Ltd",OCFO,Follow up overdue
+weekly,Friday,Invoicing audit & quality control,All,OCFO,Spot-check Xero invoices
+weekly,Friday,Weekly KPI report,All,OCFO,Distribute to management
+monthly,1st week,Monthly supplier review (previous month),All SA,OCFO,Review accruals and missing invoices
+monthly,By 15th,Payroll changes/leave data to Inaura,Saint Raphael,OCFO,"Overtime, new starters, leavers"
+monthly,By 20th,Review payslips from Inaura,Saint Raphael,Grant,Before submission
+monthly,By 25th,PAYE submission,Saint Raphael,Inaura,Auto-submitted via eFiling
+monthly,By last working day,PAYE payment release on SARS eFiling,Saint Raphael,James,Level 4 access only
+monthly,By last working day,UK payroll review,Sanctura Ltd,Grant,Kinari/Lauren processes
+monthly,1st week (following month),Monthly management accounts,All,OCFO,Distribute to Grant & James
+monthly,1st week (following month),Cash flow forecast update,All,OCFO,Flag shortfalls
+bimonthly,End of Mar (Jan-Feb period),VAT submission & payment,Inc,Inaura (submit) / James (release),
+bimonthly,End of May (Mar-Apr period),VAT submission & payment,Inc,Inaura (submit) / James (release),
+bimonthly,End of Jul (May-Jun period),VAT submission & payment,Inc,Inaura (submit) / James (release),
+bimonthly,End of Sep (Jul-Aug period),VAT submission & payment,Inc,Inaura (submit) / James (release),
+bimonthly,End of Nov (Sep-Oct period),VAT submission & payment,Inc,Inaura (submit) / James (release),
+bimonthly,End of Jan (Nov-Dec period),VAT submission & payment,Inc,Inaura (submit) / James (release),
+quarterly,"Mar, Jun, Sep, Dec",Board reporting pack,All,Grant,Backup: Ricardo
+annual,Feb,Year-end stock count,Inc,Kyle,CRITICAL - before FYE
+annual,Feb,Annual forecast,All,OCFO,End of Feb
+annual,Jun,Workman's Compensation Return,Saint Raphael,OCFO,TBC
+annual,TBC,Annual returns - CIPC,Inc,OCFO,Anniversary date TBC - confirm with Alida
+annual,TBC,Annual returns - CIPC,Saint Raphael,OCFO,Anniversary date TBC - confirm with Alida
+annual,TBC,Annual returns - CIPC,La Porta Industries,OCFO,Anniversary date TBC - confirm with Alida
+annual,TBC,UBO submissions,All SA entities,Grant,Aligned with annual returns? Open question
+annual,TBC,BHF registration renewal,Inc,OCFO,Confirm with Alida
+annual,TBC,HPCSA registration renewal,Inc,OCFO,Confirm with Alida
+annual,TBC,Insurance review (Intersure),All SA,Grant,Policy anniversary TBC
+annual,TBC,Insurance review (Ashley Page),Sanctura Ltd,Grant,Policy anniversary TBC
+annual,TBC,Financial statements,Inc,Inaura,Based on FYE
+annual,TBC,Financial statements,Saint Raphael,Inaura,Based on FYE
+annual,TBC,Financial statements,Sanctura Ltd,Kinari,Based on FYE
+annual,TBC,Financial statements,Trust,Atlantic Trust,Based on FYE
+annual,TBC,Income tax return,Inc,Inaura,Based on FYE
+annual,TBC,Income tax return,Saint Raphael,Inaura,Based on FYE
+annual,TBC,Income tax return,TTC,Inaura,Coming up soon
+annual,TBC,Income tax return,Sanctura Ltd,Kinari,Based on FYE
+annual,TBC,UK Confirmation Statement,Sanctura Ltd,Kinari,Annual - Companies House
+adhoc,New staff / leaver,Update payroll with Inaura,Saint Raphael,OCFO,
+adhoc,Lease renewal,Lease review & negotiation,Saint Raphael,Grant,Next: 1 Apr 2026
+adhoc,Debt dispute,Escalate to Kyle/Amanda,"Inc / Sanctura Ltd",Kyle / Amanda,Product/service disputes
+adhoc,Debt hardship,Escalate to Exco,All,Exco,Payment arrangement decisions
+adhoc,Cash flow alert,Escalate to Grant,All,OCFO,Immediate
