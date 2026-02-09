@@ -23,6 +23,19 @@ accounting-handover/
 │   ├── 02-non-invoicing-handover.md
 │   ├── 03-contact-handover-checklist.md
 │   └── 04-responsibility-handover-checklist.md
+├── ronald-guide/         # Handover documentation package for Ronald Mushonga
+│   ├── 00-welcome-letter.md
+│   ├── 01-your-first-week.md
+│   ├── 02-your-role-and-expectations.md
+│   ├── 03-the-business.md
+│   ├── 04-the-people.md
+│   ├── 05-how-money-flows.md
+│   ├── 06-systems-and-access.md
+│   ├── 07-service-providers.md
+│   ├── 08-whats-happening-now.md
+│   ├── 09-compliance-calendar.md
+│   └── 10-key-processes.md
+├── output/               # Generated deliverables (SOW, emails, etc.)
 └── new-information/      # Newly discovered items to incorporate
     └── overlooked-items.md
 ```
@@ -32,14 +45,15 @@ accounting-handover/
 - **Situation**: Financial Manager (Alida Wiese) resigned 26 Jan 2026, last day 23 Feb 2026
 - **Scope**: 7 legal entities across UK and South Africa
 - **Key people**: James La Porta (CEO), Grant Merwitz (MD), Yaseen Harneker (CPO), Kyle Bennett (Practice Mgr CPT), Amanda Ross (Practice Mgr UK), Ricardo Delgado (Director)
-- **External support**: OCFO (consultancy - can provide CFO or bookkeeper), Inaura (SA accounting), Kinari (UK accounting)
+- **Replacement resource**: Ronald Mushonga (via Clearshell Management Solutions) - Fractional CFO, 40hrs/week, 9 Feb - 9 Jun 2026
+- **External support**: Inaura (SA accounting - being transitioned to Bokelman or equivalent), Kinari / Capricorn Capital Services (UK accounting)
 
 ## Critical Plan Decisions (Confirmed)
 
 ### Transition Approach
 - **Phases 1 & 2 run concurrently** (not sequentially) - handover and operational work happen together
 - **Alida's focus**: Should be on handover/training, not BAU work
-- **Payment controls**: Bookkeeper loads payments → Grant or Yaseen releases (dual control maintained)
+- **Payment controls**: Ronald prepares payment schedules → Grant loads into Investec (Ronald has no banking access) → Grant or Yaseen releases non-SARS; James releases SARS only
 - **All stakeholders** receive proposed duties by end of Week 1
 
 ### Invoicing & Quoting Rollout (Critical Workstream)
@@ -79,13 +93,17 @@ accounting-handover/
 
 **Future improvement (Phase 2):** Billing/quoting baskets/bundles for common scenarios (e.g., infusion bundle) - must accommodate stock tracking, avoid confusion with advance-purchase bundles.
 
-### OCFO Clarification
-OCFO is a **consultancy** that can provide various services:
-- Fractional CFO
-- Bookkeeper for day-to-day operations
-- Or both
-
-Need to also engage an **accounting-focused agency** (not Optiworx) for urgent bookkeeper placement.
+### Replacement Resource (Confirmed)
+- **Who**: Ronald Mushonga, engaged via Clearshell Management Solutions (Pty) Ltd
+- **Title**: Fractional CFO
+- **Contract**: 9 February 2026 - 9 June 2026, 40 hours/week
+- **Reports to**: Grant Merwitz (MD)
+- **Access limitations**: No Investec banking access (cannot load or release payments)
+- **External provider contact**: Must liaise with Grant before initiating any direct contact with service providers
+- **SOW**: See `output/sow-ronald-mushonga-revised.md`
+- **Xero scope**: 2 SA organisations (Saint Raphael, Dr James La Porta Inc) + 1 UK organisation (Sanctura Limited)
+- **Management accounts**: By 7th working day of each month (goal: ASAP after month-end)
+- **Payroll data**: Provides to Inaura (SA) and Capricorn Capital Services / Kinari (UK)
 
 ### Debt Collection Escalation
 | Stage | Owner | Scenario |
@@ -99,9 +117,9 @@ Need to also engage an **accounting-focused agency** (not Optiworx) for urgent b
 Key workstream - workflow: Receive → Log → Reconcile to PO → Approve → Schedule payment → Monthly review. OCFO responsible, Kyle/Amanda consulted on reconciliation.
 
 ### Provider Decisions
-- **Bokelman transition**: Deferred until Phase 1 stable - not a priority during handover
-- **New providers**: Avoid adding (e.g., Imperium) unless essential - focus on stabilizing existing relationships
-- **Inaura**: Continues current obligations (VAT, payroll, PAYE, income tax) - no phase-out during transition
+- **Bokelman transition**: Active deliverable - Ronald to facilitate transition from Inaura and current providers to Bokelman or equivalent (Phase 2-3 of his contract)
+- **Inaura**: Continues current obligations during transition period, but planned phase-out to Bokelman or equivalent
+- **Kinari / Capricorn Capital Services**: Continues UK operations; receives payroll data from Ronald
 
 ### Open Questions (from CEO review)
 | Question | Owner | By When |
@@ -127,6 +145,8 @@ Key workstream - workflow: Receive → Log → Reconcile to PO → Approve → S
 | `tasks/03-contact-handover-checklist.md` | Service providers & contacts to hand over |
 | `tasks/04-responsibility-handover-checklist.md` | All responsibilities & where they're going |
 | `new-information/overlooked-items.md` | Log of newly discovered items to incorporate |
+| `output/sow-ronald-mushonga-revised.md` | Revised Statement of Work for Ronald Mushonga (Fractional CFO) |
+| `ronald-guide/` | Complete handover documentation package for Ronald (welcome letter, first week guide, business overview, people, processes, compliance) |
 
 ## Working With This Repository
 
@@ -143,6 +163,12 @@ When asked about the transition:
 4. Reference `information-base/08-people-and-team.md` for roles and responsibilities
 5. Reference `tasks/01-invoicing-transformation.md` for invoicing & quoting tasks
 6. Reference `tasks/02-non-invoicing-handover.md` for all other handover tasks
+
+When asked about Ronald's onboarding or handover:
+1. Reference `ronald-guide/` for the complete handover package
+2. Reference `output/sow-ronald-mushonga-revised.md` for his Statement of Work
+3. Reference `ronald-guide/01-your-first-week.md` for his day-by-day plan
+4. Reference `ronald-guide/08-whats-happening-now.md` for current state of play
 
 When tracking tasks:
 - `tasks/` contains Asana-style task lists with checkboxes
@@ -167,4 +193,6 @@ When discovering overlooked items:
 | 28 Jan 2026 | Xero live for invoicing & quoting |
 | 7 Feb 2026 | End of Week 2 - staff ready for independent operation |
 | 23 Feb 2026 | Alida's last day |
+| 9 Feb 2026 | Ronald Mushonga (Fractional CFO) starts |
 | 24 Feb onwards | Phase 3 - Transform (post-departure) |
+| 9 Jun 2026 | Ronald's contract end date |

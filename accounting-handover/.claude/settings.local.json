@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where:*)",
+      "Bash(pandoc:*)",
+      "Bash(npm:*)",
+      "Bash(md-to-pdf:*)",
+      "Bash(for:*)",
+      "Bash(do echo \"Converting $f...\")",
+      "Bash(done)"
+    ]
+  }
+}

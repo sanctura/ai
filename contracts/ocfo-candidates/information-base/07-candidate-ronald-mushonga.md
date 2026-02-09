@@ -2,7 +2,7 @@
 
 **Source:** LVB Consulting (Lushia)
 **Date Added:** 3 February 2026
-**Status:** Interviewed - preferred candidate (Ricardo's verdict)
+**Status:** Contract received (Draft One) - starting 10 Feb 2026, background checks passed
 
 ---
 
@@ -18,9 +18,11 @@
 | **LinkedIn** | linkedin.com/in/ronald-mushonga-4657138b |
 | **Current Role** | Fractional CFO Consultant (Hatua Capital) |
 | **Availability** | Immediate (per LinkedIn post) |
-| **Rate** | R110,000/month (same as Keith) |
-| **Agency Fee** | ~R60,720 (12% for 4-month contract, incl VAT) |
-| **Total 4-month cost** | ~R500,720 (vs R440,000 for Keith via OCFO) |
+| **Rate** | R115,000/month (ex VAT) - final negotiated |
+| **Agency Fee** | R55,200 (12% of 4-month contract value) |
+| **Total 4-month cost** | R515,200 (excl return flight) |
+| **Company** | Clearshell Management Solutions (Pty) Ltd (Reg: 2018/272505/07) |
+| **Tax Status** | SARS compliant - clearance valid to 5 Feb 2027 |
 
 ---
 
@@ -141,11 +143,15 @@
 - [x] Confirm rate with Lushia - R110k/month confirmed
 - [x] Interview with Ricardo - **Completed, preferred candidate**
 - [x] Confirm hands-on approach - Yes, with support requirement
-- [ ] Negotiate work arrangement (2 weeks on/off not ideal)
-- [ ] Clarify travel costs in R110k rate
-- [ ] Negotiate rate for 6-month contract (R100k?)
-- [ ] Final cost comparison vs Keith
-- [ ] Make decision
+- [x] Negotiate work arrangement - settled at R115k all-in (Ronald covers own travel/accommodation)
+- [x] Clarify travel costs - included in R115k rate, we only cover Feb return flight
+- [x] Final cost comparison vs Keith - completed
+- [x] Make decision - **Ronald selected**
+- [x] Background checks - **passed, no concerns (8 Feb 2026)**
+- [x] Draft contract received - **Draft One received 8 Feb 2026**
+- [ ] Grant reviews contract (yellow-highlighted sections)
+- [ ] Ronald signs agreement via OptiWorX
+- [ ] **Ronald starts: Tuesday, 10 Feb 2026**
 
 ---
 

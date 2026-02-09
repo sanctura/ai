@@ -1,7 +1,7 @@
 # Decision: Proceed with Ronald Mushonga
 
-**Date:** 4 February 2026
-**Status:** Agreement reached - contract pending
+**Date:** 4 February 2026 (updated 8 February 2026)
+**Status:** Contract received (Draft One) - under review, background checks passed
 
 ---
 
@@ -25,25 +25,27 @@
 
 ---
 
-## Cost Summary (Final)
+## Cost Summary (Confirmed - 8 Feb 2026)
 
-### 4-Month Scenario
+### 4-Month Contract (9 Feb - 9 Jun 2026)
 
 | Item | Amount |
 |------|--------|
 | Ronald's fee | R115,000 × 4 = R460,000 |
-| February return flight | ~R5,000-10,000 (estimate) |
-| LVB placement fee | TBC |
-| **Total (excl placement)** | **~R465,000-470,000** |
+| LVB agency fee (12%) | R55,200 (due within 7 days of start) |
+| February return flight | Reimbursed (estimate ~R5,000-10,000) |
+| **Total (excl flight)** | **R515,200** |
 
-### 6-Month Scenario
+> Note: Siraaj's summary states R512,200 - R3,000 discrepancy to clarify.
+
+### 6-Month Scenario (if extended)
 
 | Item | Amount |
 |------|--------|
 | Ronald's fee | R115,000 × 6 = R690,000 |
-| February return flight | ~R5,000-10,000 (estimate) |
-| LVB placement fee | TBC |
-| **Total (excl placement)** | **~R695,000-700,000** |
+| LVB agency fee (12%, first 4 months only) | R55,200 |
+| February return flight | Reimbursed (estimate ~R5,000-10,000) |
+| **Total (excl flight)** | **R745,200** |
 
 ---
 
@@ -79,18 +81,24 @@
 
 | Action | Owner | Status |
 |--------|-------|--------|
-| ~~Negotiate terms with Lushia~~ | ~~Siraj~~ | Done |
-| ~~Negotiate with Ronald (travel, rate)~~ | ~~Siraj~~ | **Done** |
-| Receive and review contract | Siraj/Grant | **Pending** |
-| Background checks completed | LVB | **Pending** |
-| Sign contract | Grant/James | Pending |
-| Confirm start date | Siraj | Pending |
+| ~~Negotiate terms with Lushia~~ | ~~Siraj~~ | ~~Done~~ |
+| ~~Negotiate with Ronald (travel, rate)~~ | ~~Siraj~~ | ~~Done~~ |
+| ~~Receive and review contract~~ | ~~Siraj/Grant~~ | ~~Done - Draft One received 8 Feb~~ |
+| ~~Background checks completed~~ | ~~LVB~~ | ~~Done - no concerns~~ |
+| **Review contract (yellow-highlighted sections)** | **Grant** | **In progress** |
+| **Define scope of work with clear outcomes** | **Grant** | **Due within the week (~14 Feb)** |
+| **Set up review/feedback sessions** | **Grant** | **Due within the week** |
+| Send agreement to OptiWorX for Ronald's signature | Siraaj/Grant | Pending |
+| Pay LVB agency fee (R55,200) | Practice | Due within 7 days of start |
+| Ronald starts at practice (meets Kyle & Alida) | Ronald | **Tuesday, 10 Feb 2026** |
 | Notify OCFO (Keith) | Grant | After contract signed |
-| Prepare for handover | Grant/Alida | Ongoing |
+| Prepare for handover | Grant/Alida | Ongoing (13-day overlap) |
 
 ---
 
 ## Risk Note
 
 - Keith (OCFO) contract negotiation was in progress - need to notify them once Ronald contract is signed
-- Contract contingent on background checks passing (Ronald has confirmed all clear)
+- ~~Contract contingent on background checks passing~~ **Background checks passed - no concerns (confirmed 8 Feb)**
+- **Scope of work must be established within the week** to make the agreement legally binding
+- Ronald is not an employee - supervision must be outcome/deliverables-based, not probation-based

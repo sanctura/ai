@@ -53,9 +53,9 @@ This information base documents the transition following the resignation of Alid
 | Provider | Function | Region |
 |----------|----------|--------|
 | Inaura | Accounting, payroll, tax | SA |
-| Kinari | Accounting, payroll | UK |
+| Kinari / Capricorn Capital Services | Accounting, payroll | UK |
 | Atlantic Trust | Trust admin | SA |
-| OCFO | Potential interim support | SA |
+| Ronald Mushonga (Clearshell) | Fractional CFO (confirmed, 9 Feb - 9 Jun 2026) | SA |
 
 ### Banking Summary
 
@@ -69,7 +69,7 @@ This information base documents the transition following the resignation of Alid
 
 1. Review this information base
 2. Proceed to transition planning
-3. Engage OCFO for interim support discussions
+3. ~~Engage OCFO for interim support discussions~~ **Done** - Ronald Mushonga (Clearshell) confirmed, starts 9 Feb 2026
 4. Execute handover checklist
 
 ---

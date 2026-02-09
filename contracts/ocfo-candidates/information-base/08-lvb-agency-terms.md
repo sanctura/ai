@@ -29,19 +29,19 @@
 
 ---
 
-## Cost Estimates for Ronald (R110k/month)
+## Confirmed Costs for Ronald (R115k/month - final rate)
 
-### Scenario 1: 4-Month Contract Only
+### Scenario 1: 4-Month Contract (Confirmed 8 Feb 2026)
 
 | Item | Calculation | Amount |
 |------|-------------|--------|
-| Ronald's fee | R110,000 × 4 months | R440,000 |
-| Annual CTC equivalent | R110,000 × 12 | R1,320,000 |
-| CTC bracket | R801,000+ | 12% |
-| Agency fee | 12% × R440,000 | R52,800 |
-| VAT (15%) | | R7,920 |
-| **Agency fee total** | | **R60,720** |
-| **Total cost (4 months)** | R440,000 + R60,720 | **R500,720** |
+| Ronald's fee | R115,000 × 4 months | R460,000 |
+| Agency fee (12%) | 12% × R460,000 | R55,200 |
+| **Agency fee total** | | **R55,200** |
+| **Total cost (4 months, excl flight)** | R460,000 + R55,200 | **R515,200** |
+| Agency fee due | Within 7 days of start date | |
+
+> Previous estimate was based on R110k/month. Final negotiated rate is R115k/month (all-in, Ronald covers own travel/accommodation except Feb return flight).
 
 ### Scenario 2: Contract then Permanent
 
@@ -92,7 +92,7 @@ Contract placements have **no guarantee period** - if Ronald leaves or is termin
 
 ## Negotiation Points
 
-- [ ] Confirm fee calculation method (annual CTC bracket applied to contract value?)
-- [ ] Negotiate contract fee down (12% → 10%?)
+- [x] Confirm fee calculation method - 12% of 4-month contract value (R460k) = R55,200
+- [x] Agency fee confirmed at 12% (R55,200)
 - [ ] Clarify: if permanent after 4 months, is contract fee credited toward permanent fee?
-- [ ] Confirm no retainer required (standard contingency basis)
+- [x] Confirm no retainer required - agency fee due within 7 days of start

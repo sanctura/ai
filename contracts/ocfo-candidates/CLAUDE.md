@@ -8,11 +8,13 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 
 ## Current Status
 
-**Stage:** Agreement reached - awaiting contract and background checks
-**Decision:** Ronald Mushonga (independent consultant)
-**Rate:** R115,000/month, we cover Feb return flight only
-**Contingency:** Contract voided if LVB background checks fail
-**Deadline:** Alida's last day is 23 February 2026
+**Stage:** Contract feedback and SOW sent to Siraaj - awaiting Draft Two
+**Decision:** Ronald Mushonga (independent consultant via Clearshell Management Solutions)
+**Rate:** R115,000/month (ex VAT), we cover Feb return flight only
+**Start date:** Tuesday, 10 February 2026
+**Agency fee:** R55,200 (LVB, 12%) due within 7 days of start
+**Background checks:** Passed - no concerns (confirmed 8 Feb 2026)
+**Deadline:** Alida's last day is 23 February 2026 (13-day handover overlap)
 
 ## Structure
 
@@ -35,6 +37,8 @@ This is a documentation repository for tracking the hiring of an interim CFO/Fin
 | 08-lvb-agency-terms.md | LVB agency fees, contract-to-perm costs |
 | 09-ronald-interview-summary.md | 4 Feb 2026 interview outcomes, Ricardo prefers Ronald |
 | 10-decision-proceed-ronald.md | Final agreement terms, contract pending |
+| 11-contract-and-onboarding.md | Contract details, company verification, onboarding actions |
+| 12-contract-review-analysis.md | Detailed review of ICA Draft One, issues and recommended actions |
 
 ### Output Files
 

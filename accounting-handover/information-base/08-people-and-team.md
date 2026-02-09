@@ -182,26 +182,19 @@
 
 **Transition Relevance:**
 - Already embedded in SA financial operations
-- **Continues current obligations** (VAT, payroll, PAYE, income tax) - no phase-out during transition
-- Could potentially **expand scope** to cover more of Alida's work
-- Would need to "up their game" - service quality concerns exist
-- Relationship needs assessment - are they capable of more?
-
-**Questions to Address:**
-1. Can Inaura take on bookkeeping/reconciliation work?
-2. Can they improve responsiveness and quality?
-3. What would expanded scope cost?
-4. Do we trust them with more responsibility given past performance?
-
-**Note:** Avoid adding new providers (e.g., Imperium for additional services) during transition unless determined essential. Focus on stabilizing existing relationships first.
+- **Continues current obligations** during transition period (VAT, payroll, PAYE, income tax)
+- **Planned phase-out**: Ronald to facilitate transition from Inaura to Bokelman or equivalent (Phase 2-3 of his contract, Mar-Jun 2026)
+- Service quality concerns were a factor in the decision to transition away
+- Ronald receives payroll data from operations and provides to Inaura until transition complete
 
 ---
 
-### Kinari - Accounting Support (UK)
+### Kinari / Capricorn Capital Services - Accounting Support (UK)
 
 | Attribute | Detail |
 |-----------|--------|
 | **Type** | Accounting/bookkeeping support |
+| **Formal Name** | Capricorn Capital Services (Kinari) |
 | **Current Services** | Banking, payroll, financial statements |
 | **Entities Served** | UK entities (Sanctura Ltd, Holdings) |
 
@@ -219,43 +212,44 @@
 
 ---
 
-### OCFO / Fractional CFO Services (Potential)
+### Ronald Mushonga - Fractional CFO (Confirmed)
 
 | Attribute | Detail |
 |-----------|--------|
-| **Type** | Consultancy - can provide various services |
-| **Status** | In discussions - Grant meeting candidates |
-| **Potential Services** | Fractional CFO, bookkeeper, or both |
+| **Name** | Ronald Mushonga |
+| **Engaged via** | Clearshell Management Solutions (Pty) Ltd |
+| **Title** | Fractional CFO |
+| **Contract Period** | 9 February 2026 - 9 June 2026 |
+| **Commitment** | 40 hours per week |
+| **Reports To** | Grant Merwitz (Managing Director) |
+| **SOW** | `output/sow-ronald-mushonga-revised.md` |
 
-**Clarification:** OCFO is a consultancy that can provide different resources based on need. Not just a CFO service - they can provide a bookkeeper for day-to-day operations while also offering CFO-level oversight if needed.
+**Access Limitations:**
+- No Investec banking access - cannot load or release payments
+- Must liaise with Grant before initiating direct contact with external service providers
 
-**Potential Scope:**
+**Confirmed Scope:**
 
-| Service | Suitability |
-|---------|-------------|
-| Interim financial management | High |
-| Bookkeeping and reconciliation | High |
-| Management accounts preparation | High |
-| Cash flow monitoring | High |
-| Supplier payment management | Medium |
-| Invoicing operations | Medium |
-| Compliance oversight | Medium |
-| Process documentation | High |
-| Invoicing transformation project leadership | High |
+| Service | Detail |
+|---------|--------|
+| Bookkeeping | Xero across 2 SA orgs (Saint Raphael, Dr James La Porta Inc) + 1 UK org (Sanctura Limited) |
+| Payment preparation | Prepares payment schedules for Grant to load; Exco releases |
+| Management accounts | By 7th working day of each month (goal: ASAP) |
+| Weekly KPI reporting | To Grant |
+| Cash flow monitoring | Alerts to Grant and James |
+| Bank reconciliation | All SA accounts, weekly |
+| Debtors & collections | Reconciliation, initial contact, escalation to Kyle/Amanda |
+| Invoicing audit | Weekly quality control of decentralized invoicing model |
+| Payroll data | Provision to Inaura (SA) and Capricorn Capital Services / Kinari (UK) |
+| Compliance calendar | Maintenance with 2-week advance warnings to Grant |
+| Compliance items | BHF, HPCSA, Workman's Comp, insurance renewal coordination |
+| Service provider transition | Facilitate move from Inaura to Bokelman or equivalent (Phase 2-3) |
+| Process documentation | Operations manual for all financial operations |
 
-**Transition Relevance:**
-- **Primary external resource** for bridging the gap
-- Can provide immediate professional capacity
-- Brings external expertise and best practices
-- Scalable - can flex up/down as needed
-- Can help implement invoicing transformation project
-- Potential to establish better processes than before
-
-**Key Decisions:**
-1. Scope of engagement (what specifically do they cover?)
-2. Duration (interim only, or longer term?)
-3. Handover plan (to new hire or permanent arrangement?)
-4. Cost vs value assessment
+**Contract Phases:**
+- **Phase 1 (Weeks 1-4, Feb):** Handover from Alida (2-week overlap only), invoicing rollout support, assume operational oversight
+- **Phase 2 (Months 2-3, Mar-Apr):** Stabilisation, 13-week rolling cash flow forecast, compliance calendar, begin Bokelman transition
+- **Phase 3 (Month 4, May-Jun):** Process documentation, long-term structure recommendation, complete/hand over provider transition
 
 ---
 
@@ -314,20 +308,21 @@
 
 ### Payment Controls (During Transition)
 
-**Dual control must be maintained:**
-- **Bookkeeper/OCFO:** Loads payments (no release authority)
-- **Grant or Yaseen:** Releases payments (segregation from loader)
-- **James:** SARS payments only (VAT, Income Tax)
+**Ronald has no banking access. Payment workflow:**
+1. **Ronald:** Prepares payment schedules (reconciles invoices, prepares details)
+2. **Grant:** Loads payments into Investec (interim arrangement until better access solution found)
+3. **Grant or Yaseen:** Releases non-SARS payments
+4. **James:** Releases SARS payments only (VAT, Income Tax) - no delegation possible
 
-This ensures no single person controls the full payment process. Even during transition with new/interim staff, controls remain in place.
+This ensures no single person controls the full payment process. The access limitation on Ronald adds an extra step but maintains segregation of duties.
 
 ### External Support
 
 | Provider | Scope |
 |----------|-------|
-| **OCFO** | Bookkeeping, management accounts, cash flow monitoring, process documentation, invoicing project support |
-| **Inaura** | Continue current scope; assess for expansion if quality improves |
-| **Kinari** | Continue current scope; potential slight expansion for UK |
+| **Ronald / Clearshell** | Fractional CFO: bookkeeping, management accounts (by 7th working day), cash flow, compliance calendar, invoicing audit, process documentation, Bokelman transition |
+| **Inaura** | Continue current scope during transition; planned phase-out to Bokelman or equivalent |
+| **Kinari / Capricorn Capital Services** | Continue current UK scope; receives payroll data from Ronald |
 
 ---
 
@@ -371,4 +366,4 @@ Kinari                                        │
 | Alida Wiese | Financial Mgr (departing) | Knowledge transfer source |
 | Inaura | Accountants | SA payroll, tax, compliance |
 | Kinari | Accountants | UK operations |
-| OCFO (TBC) | Consultancy | Interim financial support |
+| Ronald Mushonga (Clearshell) | Fractional CFO | Interim financial management (9 Feb - 9 Jun 2026) |
