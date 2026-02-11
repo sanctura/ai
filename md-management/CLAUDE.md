@@ -27,21 +27,41 @@ Foundational strategic information that informs all decision-making:
 **These files provide essential context for all recommendations and must be reviewed before providing guidance.**
 
 ### 2. People Management (`/people/`)
-Team oversight and performance tracking:
+Team oversight, performance tracking, and stakeholder management:
 - `team-roster.md` - All direct reports (6), extended team (18 indirect reports), 1:1 schedule, and team health indicators
 - `hiring.md` - Open positions (Founders Associate), recruiting pipeline, and future hiring needs
 - `google-drive-structure.md` - Reference for MD Google Drive folder structure with sharing permissions
 - `direct-report-expectations.md` - General expectations for all direct reports: Attitude, Communication, Accountability, Continuous Improvement, Strategic Alignment
 
-**Individual Performance Tracking** (`/people/performance/`):
-- `TEMPLATE.md` - Template for creating new performance files
-- `elena-hilton.md` - Dr Elena Hilton (Medical Officer, Cape Town)
-- `ismaeel-ebrahim.md` - Dr Ismaeel Ebrahim (Medical Officer, London)
-- `kyle-bennett.md` - Kyle Bennett (Practice Manager)
-- `yaseen-harneker.md` - Yaseen Harneker (COO)
-- `alida-wiese.md` - Alida Wiese (Finance Manager)
+**Inbox** (`/people/_inbox/`):
+Drop zone for raw information about people. Files are named `YYYY-MM-DD-description.md` and processed into the correct location when user says "process inbox". See `_inbox/README.md` for full workflow.
 
-**When discussing people topics, always reference specific performance files and team roster data. Medical officers are UK-based (timezone considerations).**
+**Direct Reports** (`/people/direct-reports/`):
+Each direct report has their own folder with a consistent structure:
+- `_TEMPLATE/` - Template folder to copy when adding a new direct report (`profile.md` + `performance.md`)
+- `amanda-ross/` - Amanda Ross (London)
+- `kyle-bennett/` - Kyle Bennett (Practice Manager)
+- `alida-wiese/` - Alida Wiese (Finance Manager)
+- `yaseen-harneker/` - Yaseen Harneker (CPO)
+- `elena-hilton/` - Dr Elena Hilton (Medical Officer, London)
+- `ismaeel-ebrahim/` - Dr Ismaeel Ebrahim (Medical Officer, Cape Town)
+
+Each person's folder contains:
+| File/Folder | Purpose |
+|---|---|
+| `profile.md` | Role, responsibilities, team managed, retention, development, goals |
+| `performance.md` | Running log of date-stamped observations with category tags |
+| `documents/` | Contracts, JDs, policies, role definitions |
+| `flash-reports/` | Weekly flash reports (`YYYY-MM-DD.md`, Friday date) |
+| `one-on-ones/` | 1:1 meeting notes (`YYYY-MM-DD.md`, meeting date) |
+| `updates/` | Generated summaries, review docs, quarterly reports |
+
+**Stakeholders** (`/people/stakeholders/`):
+Anyone the MD works with who isn't a direct report (CEO, CFO, CMO, extended team, external partners):
+- `_TEMPLATE/` - Template folder with lighter `profile.md`
+- Each stakeholder folder contains: `profile.md`, `meetings/`, `updates/`
+
+**When discussing people topics, always reference the specific person's folder. For direct reports, read both `profile.md` (static context) and `performance.md` (running log). Medical officers are UK-based (timezone considerations).**
 
 ### 3. Project Tracking (`/projects/`)
 Initiative management and execution status:
@@ -119,10 +139,10 @@ Executive dashboard structure:
 **Weekly**:
 - **Monday**: Copy `weekly-template.md` → `current-week.md`, set top 3 priorities, prep meeting agendas
 - **Friday**: Complete week-end review section in `current-week.md`, archive to `planning/archive/week-YYYY-MM-DD.md`, create MD progress log in `tracking/md-progress/weekly-logs/`, review flash reports from direct reports (due 4pm)
-**Bi-Weekly**: Update performance files before Medical Officer 1:1s (Elena W1,3 / Ismaeel W2,4)
-**Monthly**: Update metrics, refresh all performance files before scheduled 1:1s, review risks/opportunities
+**Bi-Weekly**: Update `direct-reports/[name]/performance.md` before Medical Officer 1:1s (Elena W1,3 / Ismaeel W2,4)
+**Monthly**: Update metrics, refresh all profile and performance files before scheduled 1:1s, review risks/opportunities
 **Quarterly**: Update strategic sections in `business/overview.md`, conduct formal performance reviews, adjust org structure if needed
-**Ad Hoc**: CEO feedback → `ceo-directives.md`, project changes → `active.md`, new risks → `risks.md`, decisions → `decisions.md`, post-1:1 → performance files with actions
+**Ad Hoc**: CEO feedback → `ceo-directives.md`, project changes → `active.md`, new risks → `risks.md`, decisions → `decisions.md`, post-1:1 → `direct-reports/[name]/performance.md` and `one-on-ones/`, raw notes → `people/_inbox/`
 
 ### Meeting Rhythm (4-Week Cycle)
 **Every Week**: Kyle (Mon), Alida (Mon), Yaseen (Tue), Amanda (Wed)
@@ -166,9 +186,23 @@ Executive dashboard structure:
 
 **People Management**
 1. Read `people/team-roster.md` for team overview
-2. Read specific `people/performance/[name].md` file for individual context
-3. Review recent 1:1 notes and performance trends
-4. Provide guidance considering team health, organizational constraints, and strategic priorities
+2. Read `people/direct-reports/[name]/profile.md` for role context, development, and goals
+3. Read `people/direct-reports/[name]/performance.md` for recent observations and trends
+4. Review recent 1:1 notes in `people/direct-reports/[name]/one-on-ones/`
+5. Check latest flash reports in `people/direct-reports/[name]/flash-reports/`
+6. Provide guidance considering team health, organizational constraints, and strategic priorities
+
+**Process Inbox** (Route raw people information)
+1. Read all files in `people/_inbox/` (skip README.md and `_processed/`)
+2. For each file, identify the person(s) and type of information
+3. Route content to the correct location:
+   - Performance observations → append to `people/direct-reports/[name]/performance.md`
+   - Meeting notes → create file in `one-on-ones/` or `stakeholders/[name]/meetings/`
+   - Flash report content → create file in `flash-reports/`
+   - Documents/contracts → note in profile or place in `documents/`
+   - New person → create stakeholder folder from `stakeholders/_TEMPLATE/`
+4. Move processed file to `people/_inbox/_processed/` with a note of what was done
+5. Summarise all actions taken to the user
 
 **Project Oversight**
 1. Read all `projects/active.md` to assess portfolio health
@@ -235,13 +269,19 @@ Executive dashboard structure:
 When user asks about:
 - **Planning**: Read CEO directives, active projects, risks, team roster → suggest weekly priorities
 - **Decisions**: Read business context, related projects/risks → provide recommendation with rationale
-- **People**: Read team roster and individual performance files → prepare for 1:1s, identify issues
+- **People**: Read team roster, direct-reports profiles and performance logs → prepare for 1:1s, identify issues
 - **Projects**: Read active projects and strategic priorities → assess health, flag misalignment
 - **Strategy**: Read business overview, CEO directives, metrics → assess alignment, surface drift
 
 ## File Naming Conventions
 
-- Performance files: `people/performance/[firstname-lastname].md` (lowercase, hyphenated)
+- Direct report folders: `people/direct-reports/[firstname-lastname]/` (lowercase, hyphenated)
+- Direct report profiles: `people/direct-reports/[name]/profile.md`
+- Direct report performance logs: `people/direct-reports/[name]/performance.md`
+- 1:1 meeting notes: `people/direct-reports/[name]/one-on-ones/YYYY-MM-DD.md` (meeting date)
+- Flash reports: `people/direct-reports/[name]/flash-reports/YYYY-MM-DD.md` (Friday date)
+- Stakeholder folders: `people/stakeholders/[firstname-lastname]/`
+- People inbox files: `people/_inbox/YYYY-MM-DD-description.md`
 - Weekly plans: `planning/current-week.md` (active week)
 - Weekly archives: `planning/archive/week-YYYY-MM-DD.md` (Monday date of that week)
 - Project archives: `projects/archive/[project-name]-YYYY-MM-DD.md` (completion date)
@@ -264,7 +304,7 @@ When user asks about:
 
 If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 1. Fill `/business/` files (overview → organization → ceo-directives)
-2. Document team in `/people/` (team-roster → hiring → individual performance files)
+2. Document team in `/people/` (team-roster → hiring → direct-reports profiles and performance logs)
 3. Capture work in `/projects/` (active → pipeline)
 4. Document `/tracking/` (risks → opportunities → metrics)
 5. Plan current week in `/planning/current-week.md`
@@ -273,7 +313,8 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 
 **"Help me plan this week"** → Check cycle week number → Read ceo-directives.md, active.md, risks.md, team-roster.md → Copy `concepts/weekly-template.md` to `current-week.md` with appropriate meetings for that cycle week
 **"What meetings do I have this week?"** → Check cycle week (1-4) → Refer to MEETING-SCHEDULE-SUMMARY.md → List specific meetings for that cycle
-**"Prep me for 1:1 with [Name]"** → Read performance/[name].md → summarize status, review last meeting actions, suggest discussion topics
+**"Prep me for 1:1 with [Name]"** → Read `direct-reports/[name]/profile.md` + `performance.md` → check latest `one-on-ones/` and `flash-reports/` → summarize status, review last meeting actions, suggest discussion topics
+**"Process inbox"** → Read all files in `people/_inbox/` → route content to correct person folders → move processed files to `_inbox/_processed/` → summarise actions taken
 **"Should we pursue [opportunity]?"** → Read overview.md, organization.md, active.md, risks.md, opportunities.md → assess fit and provide recommendation
 **"What needs my attention?"** → Read active.md, risks.md, metrics.md → flag red/yellow status items
 **"Are we aligned with strategy?"** → Read overview.md, ceo-directives.md, active.md → identify drift or misalignment

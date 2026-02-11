@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for dir in people/direct-reports/amanda-ross/documents people/direct-reports/amanda-ross/flash-reports people/direct-reports/amanda-ross/one-on-ones people/direct-reports/amanda-ross/updates people/direct-reports/kyle-bennett/documents people/direct-reports/kyle-bennett/flash-reports people/direct-reports/kyle-bennett/one-on-ones people/direct-reports/kyle-bennett/updates people/direct-reports/alida-wiese/documents people/direct-reports/alida-wiese/flash-reports people/direct-reports/alida-wiese/one-on-ones people/direct-reports/alida-wiese/updates people/direct-reports/yaseen-harneker/documents people/direct-reports/yaseen-harneker/flash-reports people/direct-reports/yaseen-harneker/one-on-ones people/direct-reports/yaseen-harneker/updates people/direct-reports/elena-hilton/documents people/direct-reports/elena-hilton/flash-reports people/direct-reports/elena-hilton/one-on-ones people/direct-reports/elena-hilton/updates people/direct-reports/ismaeel-ebrahim/documents people/direct-reports/ismaeel-ebrahim/flash-reports people/direct-reports/ismaeel-ebrahim/one-on-ones people/direct-reports/ismaeel-ebrahim/updates people/stakeholders/_TEMPLATE/meetings people/stakeholders/_TEMPLATE/updates people/_inbox/_processed)",
+      "Bash(do touch \"$dir/.gitkeep\")",
+      "Bash(done)"
+    ]
+  }
+}
