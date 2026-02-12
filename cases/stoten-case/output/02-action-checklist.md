@@ -15,6 +15,12 @@
   - *Contact: Sister Maria Tam, Sanctura London*
   - *"Only loop hole" per Dr Laporta*
 
+- [ ] **Check UK legality of Sanctura invoicing for Maria-prescribed steroids**
+  - Sanctura invoiced Stoten for Prednisolone 5mg (INV-0243, Aug 4 2025) prescribed by Maria Tam
+  - Was Sanctura entitled to bill for medications prescribed by an external nurse practitioner?
+  - If not, this could expose regulatory risk and weaken the defense separation between Dr Laporta (naturopath) and Maria (prescriber)
+  - *Seek legal advice on UK clinic invoicing regulations*
+
 - [ ] **Brief Wendy**
   - Share executive summary and supporting docs
   - *Target: Monday*

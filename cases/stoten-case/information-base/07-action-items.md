@@ -131,6 +131,7 @@ These action items were outlined by the CEO on February 1, 2026, following recei
 | 8 | Engage senior counsel | Pending | CEO | After Step 7 |
 | **9** | **Spanish Dr (Datar bloods)** | **Pending** | Dr Laporta | **Get name/details** |
 | 10 | Without prejudice discussion | Pending | Legal | After counsel engaged |
+| **11** | **UK steroid invoicing legality** | **Pending** | Legal/CEO | **Review needed** |
 
 ## Dr Laporta's Assessment (Feb 2026)
 
@@ -149,6 +150,15 @@ Following review of executive summary and action checklist:
 > "To note defense positions - add date of CQC license obtained."
 
 > "Will need to see Spanish dr who drew bloods for Datar at our practice"
+
+### 11. UK Steroid Invoicing Legality Check - **REVIEW NEEDED**
+- **Status:** PENDING
+- **Assigned:** Legal / CEO
+- **Task:** Determine whether Sanctura was legally permitted to invoice Louise Stoten for steroids in the UK when they were prescribed by Sister Maria Tam (Registered Nurse Practitioner), not by the clinic directly
+- **Key Question:** Does invoicing for a medication prescribed by Maria expose Sanctura to regulatory or legal risk? (e.g., acting as a dispensary without appropriate registration, or billing for services outside scope)
+- **Relevant Invoice:** INV-0243 (Aug 4, 2025) - Prednisolone 5mg
+- **Risk:** If Sanctura was not entitled to bill for prescribed medications, this could undermine the defense position that separates Dr Laporta's naturopathic role from Maria's prescribing role
+- **Action:** Seek legal advice on UK regulations governing clinic invoicing for nurse-practitioner-prescribed medications
 
 ### New Items from Feedback:
 

@@ -1,0 +1,33 @@
+Team,Location,Name,Role,Manager,Start Date,Eligible,Currency,Current Salary (pm),Current Salary (pa),Recommended %,Increase Amount (pm),New Salary (pm),Increase Amount (pa),New Salary (pa),Decision,Notes
+CPT Medical,SA,Carel Louw,Nurse,Dr Ismaeel,,Yes,ZAR,"37,100.00",445200,7%,2597,"39,697.00",31164,476364,Approved,
+LND Medical,UK,Dr Elena Hilton,Medical Officer,MD,,No,GBP,0.00,0,0%,0,0.00,0,0,Approved,New contract just signed
+LND Admin,UK,Amanda Ross,Practice Manager,TBD,Nov-24,Yes,GBP,"5,000.00",60000,4%,200,"5,200.00",2400,62400,Approved,
+CPT Medical,SA,Ferdinand Cho Muluh,Registered Nurse,Dr Ismaeel,Sept-25,Yes,ZAR,"38,500.00",462000,7%,2695,"41,195.00",32340,494340,Approved,
+CPT Medical,SA,Candice Henri,Registered Nurse,Dr Ismaeel,,Yes,ZAR,"39,000.00",468000,7%,2730,"41,730.00",32760,500760,Approved,
+LND Admin,UK,Cecille Raran,Perm Locum,Dr Elena,,No,GBP,0.00,0,0%,0,0.00,0,0,Approved,Locum excluded
+LND Medical,UK,Mel Ducao,Assistant Locum,Dr Elena,,No,GBP,0.00,0,0%,0,0.00,0,0,Approved,Locum excluded
+CPT Medical,SA,Abongile Ntulo,Head Nurse,Dr Ismaeel,Jan-26,No,ZAR,"72,656.70",871880.4,0%,0,"72,656.70",0,871880.4,Approved,<6 months service
+CPT Medical,SA,Dr Ismaeel Ebrahim,Medical Officer,MD,Nov-25,Special,ZAR,"125,000.00",1500000,0%,0,"125,000.00",0,1500000,Approved,
+CPT Admin,SA,Janine Nathan,Receptionist,Kyle,,Yes,ZAR,"29,441.50",353298,7%,2060.905,"31,502.41",24730.86,378028.86,Approved,
+LND Medical,UK,Michelle Ynceriterto,Assistant Locum,Dr Elena,,No,GBP,0.00,0,0%,0,0.00,0,0,Approved,Locum excluded
+CPT Admin,SA,Jesse Sass,PA to CEO,CEO,02-Jun-25,Yes,ZAR,"27,000.00",324000,7%,1890,"28,890.00",22680,346680,Approved,
+CPT Admin,SA,Kyle Bennett,Practice Manager,MD,,Special,ZAR,"57,644.24",691730.88,0%,0,"57,644.24",0,691730.88,Approved,15.3% promotion Nov 2025
+LND Admin,UK,Lexee Duval,Receptionist,TBD,,Special,GBP,"2,350.00",28200,17%,387.75,"2,737.75",4653,32853,Approved,Round up to 33k
+LND Medical,UK,Wendy Denning,Consultant,--,,No,GBP,0.00,0,0%,0,0.00,0,0,Approved,Consultant excluded
+LND Medical,UK,Saba Akhtar,Registered Nurse,Dr Elena,02-Feb-26,No,GBP,"2,708.33",32499.96,0%,0,"2,708.33",0,32499.96,Approved,<6 months service. Estimated salary
+LND Medical,UK,Maria Vega,Registered Nurse,Dr Elena,12-Jan-26,No,GBP,"2,950.00",35400,0%,0,"2,950.00",0,35400,Approved,<6 months service
+LND Medical,UK,Alicia Reihill,Registered Nurse,Dr Elena,,No,GBP,"3,333.34",40000.08,2%,66.6668,"3,400.01",800.0016,40800.0816,Approved,Pro-rata increase
+CPT Admin,SA,Nuhaa Peterson,Receptionist,Kyle,,Special,ZAR,"32,385.65",388627.8,0%,0,"32,385.65",0,388627.8,Approved,10% increase Oct 2025
+CPT Admin,SA,Rasa Elvis Soki,House Keeping,CEO,,Yes,ZAR,"12,000.00",144000,28%,3360,"15,360.00",40320,184320,Under Review,Elvis should be removed as not a Sanctura employee
+LND Medical,UK,Maria Tam,Head Nurse,Dr Elena,Jun-25,Yes,GBP,"4,583.33",54999.96,4%,183.3332,"4,766.66",2199.9984,57199.9584,Approved,Permanent from June 2025
+CPT Admin,SA,Sweetness Twalo,House Keeping,Kyle,,Yes,ZAR,"10,120.00",121440,28%,2833.6,"12,953.60",34003.2,155443.2,Approved,
+LND Medical,UK,Jasmin Pulanco,Registered Nurse,Dr Elena,13-Oct-25,No,GBP,"4,833.33",57999.96,2%,96.6666,"4,930.00",1159.9992,59159.9592,Approved,Pro-rata increase
+CPT Admin,SA,Yaseen Harneker,CPO,MD,,Yes,ZAR,"166,667.00",2000004,0%,0,"166,667.00",0,2000004,Approved,Needs to be delivered with issues on contract and processes
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,Total LND Only,,,,,,"£25,758.33","£309,099.96",,£934.42,"£26,692.75","£11,213.00","£320,312.96",,
+,,Total CPT Only,,,,,,"R647,515.09","R7,770,181.08",,"R18,166.51","R665,681.60","R217,998.06","R7,988,179.14",,
+,,,,,,,,,,,,,,,,
+,0.0460125,Full Total GBP,,,,,,"£55,552.12","£666,625.42",,"£1,770.30","£57,322.42","£21,243.63","£687,869.05",,
+,,Full Total ZAR,,,,,,"R1,207,326.66","R14,487,919.96",,"R38,474.39","R1,245,801.05","R461,692.69","R14,949,612.65",,

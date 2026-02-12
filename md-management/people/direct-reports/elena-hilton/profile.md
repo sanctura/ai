@@ -1,9 +1,13 @@
 # Dr Elena Hilton - Profile
 
-**Role**: Medical Officer
-**Reports To**: Grant Merwitz (MD)
-**Start Date**: [Date]
-**Location**: London
+**Role**: Medical Officer (GMC-registered doctor)
+**Reports To**: Grant Merwitz (MD); James Laporta (CEO) for clinical matters; Amanda Ross for non-clinical matters
+**Start Date**: 19 August 2025 (original locum); 2 February 2026 (6-month sabbatical arrangement)
+**Location**: London (Sanctura, 23-24 Newman Street, Fitzrovia, W1T 1PJ)
+**Contract Type**: Self-employed locum contractor
+**Previous Arrangement**: 10 hrs/week (Tue 8am-2pm, Thu 8am-12pm) at £120/hr
+**Current Arrangement**: ~4 days/week sabbatical (Feb–Jul 2026), 87.5 paid days over 26 weeks. Updated contract in progress with HR (Lauren).
+**Background**: NHS-trained GP; took 6-month sabbatical from NHS to work with Sanctura full-time
 
 ## Key Responsibilities
 
@@ -28,28 +32,37 @@
 
 ## Retention & Engagement
 
-**Flight Risk**: [To be assessed]
-**Engagement Level**: [To be assessed]
-**Retention Strategy**: [To be defined]
+**Flight Risk**: HIGH — Has mentioned writing/being ready to write resignation (as of 2026-02-12)
+**Engagement Level**: Low — stressed, anxious, losing sleep, feeling excluded
+**Retention Strategy**: Urgent clarity-and-expectations session needed. Must define role boundaries clearly. If she leaves, practice loses its only registered medical officer on-site.
 
 **Career Aspirations**:
-[To be discussed]
+Values regulatory rigour, patient safety, and professional standing. Sees herself as a senior, experienced UK doctor. Wants involvement in governance and strategic clinical decisions.
 
 **Compensation Review**:
-- Last increase: [Date] - [Amount/Percentage]
-- Market position: [To be assessed]
-- Next review: [Date]
+- Previous rate: £120/hr (locum agreement Oct 2025)
+- Current: Day rate under new 6-month sabbatical contract (in progress with HR)
+- Next review: End of sabbatical period (Jul 2026)
 
 ## Development
 
 **Strengths**:
-- [To be identified]
+- Genuinely cares about patients and quality of care
+- Strong regulatory/compliance knowledge (CQC, GMC frameworks)
+- Thorough and proactive in preparation (e.g. strategy meeting prep)
+- Structured NHS medical background
 
 **Growth Areas**:
-- [To be identified]
+- Role boundaries — understanding scope of employee vs partner
+- Working within CEO's clinical vision rather than imposing NHS model
+- Managing anxiety and stress in a private practice environment
+- Respecting business boundaries (not all decisions involve her)
+- Reducing repetitive references to GMC/UK standards as authority arguments
 
 **Development Plan**:
-- [ ] [Action 1] - [Timeline]
+- [ ] Clarity-and-expectations session with Grant — define role, boundaries, and CEO's vision — URGENT
+- [ ] Establish regular check-ins to monitor stress levels and settling progress
+- [ ] Define clear escalation process for clinical concerns (bring data, not speculation)
 
 ## Current Goals
 
@@ -70,4 +83,4 @@
 
 ---
 
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-12*

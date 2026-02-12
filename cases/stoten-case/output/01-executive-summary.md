@@ -1,6 +1,6 @@
 # Louise Stoten Case - Executive Summary
 
-**Prepared:** February 1, 2026
+**Prepared:** February 1, 2026 | **Updated:** February 12, 2026
 **Classification:** Confidential - Legal
 
 ---
@@ -50,21 +50,26 @@ A deceased patient's husband has sent a threatening letter alleging negligence b
 
 ---
 
-## Outstanding Critical Item
+## Outstanding Critical Items
 
-**Sister Maria Tam's prescription records** - antibiotics and steroids
+### 1. Sister Maria Tam's Prescription Records - **CRITICAL**
+Antibiotics and steroids prescription documentation outstanding.
 
 > "We have everything we need, only loop hole is antibiotic prescription we need Maria to fill."
 > — Dr Laporta, Feb 2026
+
+### 2. UK Steroid Invoicing Legality - **REVIEW NEEDED**
+Sanctura invoiced Louise Stoten for steroids (Prednisolone 5mg, INV-0243, Aug 4 2025) in the UK, but these were prescribed by Sister Maria Tam, not by the clinic. Legal review needed to confirm whether Sanctura was entitled to invoice for medications prescribed by an external nurse practitioner. If not, this could expose a regulatory risk and undermine the defense separation between Dr Laporta's naturopathic role and Maria's prescribing role.
 
 ---
 
 ## Recommended Actions
 
 1. **Immediate:** Obtain prescription records from Sister Maria Tam
-2. **ASAP Monday:** Brief Wendy with this summary and supporting documentation
-3. **This week:** Engage senior counsel through Yes to Life
-4. **Before deadline:** Respond to Paul Stoten (~8 February 2026)
+2. **Immediate:** Seek legal advice on whether Sanctura's UK invoicing for Maria-prescribed steroids is compliant with UK regulations
+3. **ASAP Monday:** Brief Wendy with this summary and supporting documentation
+4. **This week:** Engage senior counsel through Yes to Life
+5. **Before deadline:** Respond to Paul Stoten (~8 February 2026)
 
 ---
 
