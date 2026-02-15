@@ -1,13 +1,14 @@
 # Dr Elena Hilton - Profile
 
-**Role**: Medical Officer (GMC-registered doctor)
-**Reports To**: Grant Merwitz (MD); James Laporta (CEO) for clinical matters; Amanda Ross for non-clinical matters
+**Role**: Medical Officer (GMC-registered doctor) — **DEPARTED 2026-02-13**
+**Reports To**: N/A (departed)
 **Start Date**: 19 August 2025 (original locum); 2 February 2026 (6-month sabbatical arrangement)
+**End Date**: 13 February 2026 — mutual agreement with CEO
 **Location**: London (Sanctura, 23-24 Newman Street, Fitzrovia, W1T 1PJ)
 **Contract Type**: Self-employed locum contractor
 **Previous Arrangement**: 10 hrs/week (Tue 8am-2pm, Thu 8am-12pm) at £120/hr
-**Current Arrangement**: ~4 days/week sabbatical (Feb–Jul 2026), 87.5 paid days over 26 weeks. Updated contract in progress with HR (Lauren).
-**Background**: NHS-trained GP; took 6-month sabbatical from NHS to work with Sanctura full-time
+**Final Arrangement**: ~4 days/week sabbatical (Feb–Jul 2026), 87.5 paid days over 26 weeks. Contract was never finalised with HR.
+**Background**: NHS-trained GP; took 6-month sabbatical from NHS to work with Sanctura full-time. Returning to NHS with partner offer.
 
 ## Key Responsibilities
 
@@ -32,9 +33,9 @@
 
 ## Retention & Engagement
 
-**Flight Risk**: HIGH — Has mentioned writing/being ready to write resignation (as of 2026-02-12)
-**Engagement Level**: Low — stressed, anxious, losing sleep, feeling excluded
-**Retention Strategy**: Urgent clarity-and-expectations session needed. Must define role boundaries clearly. If she leaves, practice loses its only registered medical officer on-site.
+**Flight Risk**: N/A — Departed 2026-02-13
+**Engagement Level**: N/A — Departed
+**Retention Strategy**: N/A — Departed. Mutual agreement with CEO. Returning to NHS.
 
 **Career Aspirations**:
 Values regulatory rigour, patient safety, and professional standing. Sees herself as a senior, experienced UK doctor. Wants involvement in governance and strategic clinical decisions.

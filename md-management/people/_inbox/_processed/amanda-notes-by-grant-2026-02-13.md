@@ -1,3 +1,9 @@
+<!-- PROCESSED: 2026-02-15
+Routed to:
+- performance.md: 2026-02-13 [concern] x3 (exam bed, missed flash report, medication delivery)
+- performance.md: 2026-02-13 [observation] x2 (not sitting at reception, expectations session received well)
+-->
+
 This week was a big week for Amanda whereby i sat down and ran through her roles and expectations as planned.
 It was a long session and she appeared to receive this direction and openness well. She also seemed to take some feedback on board and looked to be a good sign that she was stepping up.
 
@@ -12,6 +18,6 @@ She still continues to frustrate James, but i want to still give her the opportu
 - On friday when James was leaving the office, he was looking for some critical medications he had ordered that he had to take with him. This has apparently been received and put into the pharmacy, but nobody communicated it. This is another concern and not the first time deliveries are received and just put somewhere without informing anyone.
 
 **Actions i want to take**
-- I need to address these with Amanda, but it's starting to become quite frustrating to address things daily and I believe is sending us down a very negative road. 
+- I need to address these with Amanda, but it's starting to become quite frustrating to address things daily and I believe is sending us down a very negative road.
 - It needs to be clear she's missed the flash report, and she's missed sorting James room, and this is in my head a second strike. I'm thinking of strike three means documented conversation. Or maybe i should document it now.
 - I need to make it clear that deliveries that are not expected (ordered stock for the nurses), should be communicated to the group so we can best direct it. Especially if it's medication which could be for a patient urgently, or be worth considerable value, or be expiring if it's not used in the right time frame.

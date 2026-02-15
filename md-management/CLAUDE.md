@@ -38,7 +38,7 @@ Drop zone for raw information about people. Files are named `YYYY-MM-DD-descript
 
 **Direct Reports** (`/people/direct-reports/`):
 Each direct report has their own folder with a consistent structure:
-- `_TEMPLATE/` - Template folder to copy when adding a new direct report (`profile.md` + `performance.md`)
+- `_TEMPLATE/` - Template folder to copy when adding a new direct report (`profile.md` + `performance.md` + `info-base.md`)
 - `amanda-ross/` - Amanda Ross (London)
 - `kyle-bennett/` - Kyle Bennett (Practice Manager)
 - `alida-wiese/` - Alida Wiese (Finance Manager)
@@ -51,6 +51,7 @@ Each person's folder contains:
 |---|---|
 | `profile.md` | Role, responsibilities, team managed, retention, development, goals |
 | `performance.md` | Running log of date-stamped observations with category tags |
+| `info-base.md` | Structured information base — compiled database of performance status, feedback register, task tracking, concerns/patterns, decisions, and context. Auto-maintained by inbox-processor agent. |
 | `documents/` | Contracts, JDs, policies, role definitions |
 | `flash-reports/` | Weekly flash reports (`YYYY-MM-DD.md`, Friday date) |
 | `one-on-ones/` | 1:1 meeting notes (`YYYY-MM-DD.md`, meeting date) |
@@ -61,7 +62,7 @@ Anyone the MD works with who isn't a direct report (CEO, CFO, CMO, extended team
 - `_TEMPLATE/` - Template folder with lighter `profile.md`
 - Each stakeholder folder contains: `profile.md`, `meetings/`, `updates/`
 
-**When discussing people topics, always reference the specific person's folder. For direct reports, read both `profile.md` (static context) and `performance.md` (running log). Medical officers are UK-based (timezone considerations).**
+**When discussing people topics, always reference the specific person's folder. For direct reports, read `info-base.md` (structured current-state database) for quick context, `profile.md` (static role context), and `performance.md` (chronological source of truth). Medical officers are UK-based (timezone considerations).**
 
 ### 3. Project Tracking (`/projects/`)
 Initiative management and execution status:
@@ -186,23 +187,27 @@ Executive dashboard structure:
 
 **People Management**
 1. Read `people/team-roster.md` for team overview
-2. Read `people/direct-reports/[name]/profile.md` for role context, development, and goals
-3. Read `people/direct-reports/[name]/performance.md` for recent observations and trends
-4. Review recent 1:1 notes in `people/direct-reports/[name]/one-on-ones/`
-5. Check latest flash reports in `people/direct-reports/[name]/flash-reports/`
-6. Provide guidance considering team health, organizational constraints, and strategic priorities
+2. Read `people/direct-reports/[name]/info-base.md` for structured current-state database (quick scan of status, concerns, feedback, tasks)
+3. Read `people/direct-reports/[name]/profile.md` for role context, development, and goals
+4. Read `people/direct-reports/[name]/performance.md` for full chronological observation history
+5. Review recent 1:1 notes in `people/direct-reports/[name]/one-on-ones/`
+6. Check latest flash reports in `people/direct-reports/[name]/flash-reports/`
+7. Provide guidance considering team health, organizational constraints, and strategic priorities
 
-**Process Inbox** (Route raw people information)
-1. Read all files in `people/_inbox/` (skip README.md and `_processed/`)
-2. For each file, identify the person(s) and type of information
-3. Route content to the correct location:
-   - Performance observations → append to `people/direct-reports/[name]/performance.md`
+**Process Inbox** (Route raw people information — uses `inbox-processor` sub-agent)
+Use the `inbox-processor` agent (`.claude/agents/inbox-processor.md`) which handles the full workflow:
+1. Scan `people/_inbox/` for unprocessed files (skip README.md and `_processed/`)
+2. Classify content by person and type (observation, achievement, concern, feedback, meeting notes, flash report, task, decision, etc.)
+3. Route content to correct destinations:
+   - Performance observations/feedback → append to `people/direct-reports/[name]/performance.md` with appropriate tags
    - Meeting notes → create file in `one-on-ones/` or `stakeholders/[name]/meetings/`
    - Flash report content → create file in `flash-reports/`
    - Documents/contracts → note in profile or place in `documents/`
-   - New person → create stakeholder folder from `stakeholders/_TEMPLATE/`
-4. Move processed file to `people/_inbox/_processed/` with a note of what was done
-5. Summarise all actions taken to the user
+   - Tasks/decisions/context → update `info-base.md` directly
+   - New person → create folder from appropriate `_TEMPLATE/`
+4. Update each person's `info-base.md` with compiled/structured data from processed content
+5. Move processed files to `people/_inbox/_processed/` with routing comment
+6. Output structured summary to user (files processed, destinations, urgent flags, questions)
 
 **Project Oversight**
 1. Read all `projects/active.md` to assess portfolio health
@@ -313,8 +318,8 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 
 **"Help me plan this week"** → Check cycle week number → Read ceo-directives.md, active.md, risks.md, team-roster.md → Copy `concepts/weekly-template.md` to `current-week.md` with appropriate meetings for that cycle week
 **"What meetings do I have this week?"** → Check cycle week (1-4) → Refer to MEETING-SCHEDULE-SUMMARY.md → List specific meetings for that cycle
-**"Prep me for 1:1 with [Name]"** → Read `direct-reports/[name]/profile.md` + `performance.md` → check latest `one-on-ones/` and `flash-reports/` → summarize status, review last meeting actions, suggest discussion topics
-**"Process inbox"** → Read all files in `people/_inbox/` → route content to correct person folders → move processed files to `_inbox/_processed/` → summarise actions taken
+**"Prep me for 1:1 with [Name]"** → Read `direct-reports/[name]/info-base.md` (quick current-state view) + `profile.md` + `performance.md` → check latest `one-on-ones/` and `flash-reports/` → summarize status, review last meeting actions, suggest discussion topics
+**"Process inbox"** → Use inbox-processor agent → classify, route content, update info-bases, archive processed files, output summary
 **"Should we pursue [opportunity]?"** → Read overview.md, organization.md, active.md, risks.md, opportunities.md → assess fit and provide recommendation
 **"What needs my attention?"** → Read active.md, risks.md, metrics.md → flag red/yellow status items
 **"Are we aligned with strategy?"** → Read overview.md, ceo-directives.md, active.md → identify drift or misalignment
@@ -326,6 +331,8 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 **"Draft a CEO update"** → Use md-progress-tracker agent → Create concise update in `tracking/md-progress/communications/`
 **"What are my expectations for reports?"** → Read `people/direct-report-expectations.md` → Review the 5 expectations: Attitude, Communication, Accountability, Continuous Improvement, Strategic Alignment
 **"Set up flash reports"** → Read `planning/concepts/flash-report-template.md` and `flash-report-rollout-email.md` → Guide through sending rollout email to direct reports
+**"What's the status on [Name]?"** → Read `direct-reports/[name]/info-base.md` → Scan performance status, active concerns, recent wins, open tasks, and feedback register
+**"Show me [Name]'s information base"** → Read and display `direct-reports/[name]/info-base.md` — structured current-state database
 
 ## Git Usage
 

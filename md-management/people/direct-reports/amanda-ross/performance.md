@@ -10,6 +10,27 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+### 2026-02-13 `[concern]`
+Missed flash report this week — was off on Friday and did not send it before leaving. Was not explicitly told what to do when off on a Friday, but a proactive employee would have sent it before leaving. Also did not provide any handover info or things to look out for on her day off, showing a lack of forward thinking. *(Source: Grant observation)*
+
+### 2026-02-13 `[concern]`
+CEO's critical medications were delivered and put into the pharmacy without anyone communicating it. When James was leaving on Friday, he had to search for them. This is not the first time deliveries are received and placed somewhere without informing the relevant person. *(Source: Grant observation)*
+
+### 2026-02-13 `[concern]`
+James's examination bed in his office was in an unacceptable state — large boxed whiteboard blocking it, preventing patient examinations. Grant told Amanda on Tuesday to urgently remove it. By Wednesday evening it was still not done. When asked, she said it was too heavy to move but had not communicated the blocker. Grant helped her move it. Failure to escalate when blocked. *(Source: Grant observation)*
+
+### 2026-02-13 `[observation]`
+Grant notes Amanda is not sitting at reception as requested — positive compliance with the expectation set on 2026-02-11. *(Source: Grant observation)*
+
+### 2026-02-13 `[observation]`
+Grant held a long expectations-setting session with Amanda this week. She appeared to receive the direction and openness well, seemed to take feedback on board. Early signs of stepping up. However, CEO (James) continues to be frustrated. Grant intends to continue giving her the opportunity with feedback and direction. *(Source: Grant observation)*
+
+### 2026-02-06 `[achievement]`
+Flash report submitted (week ending 2026-02-06): Onboarded new receptionist Saba (week one induction complete), resolved heating issues, introduced invoicing system rollout with nurses successfully completing treatment invoices and increased payments taken in clinic. *(Source: flash report)*
+
+### 2026-02-06 `[observation]`
+Challenges reported: busy week with new starter onboarding and Dr Laporta in clinic caused delays to CQC policy updates and Dr Denning work. Ask: confirmation on Maria Vega contract change from fixed term to permanent. *(Source: flash report)*
+
 ### 2026-02-11 `[observation]`
 Positive observations over the last two weeks: submitted flash report as requested, supplied nursing roster, and ensured the 8am Monday meeting happened when CEO was in town. All completed without reminder. Consistently first in, last out — demonstrates high commitment and long hours. *(Source: Grant meeting prep)*
 
@@ -37,4 +58,4 @@ Handover from Yaseen (batch 2) — facilities items: lift shaft cleaning (done, 
 
 ---
 
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-15*

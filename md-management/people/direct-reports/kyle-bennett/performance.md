@@ -10,7 +10,14 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
-*No entries yet.*
+### 2026-02-13 `[observation]`
+Flash report (week ending 2026-02-13): Generated new protocol quotes, learned to add new products with prescribed pricing on Xero, resolved multiple operational challenges relating to stock/suppliers. Recurring challenge: nursing team unity, leadership/communication issues, and lack of clarity on inventory/supplier processes. *(Source: flash report)*
+
+### 2026-02-06 `[achievement]`
+Flash report (week ending 2026-02-06): Implemented bi-weekly SA Ward Rounds for greater efficiency, implemented nurse-patient allocation via calendar, rolled out Xero training to nurses and reception (invoicing, quoting, payment allocation), serviced defibrillator, oversaw emergency trolley recon, assembled new endolaser trolley. Strong operational output. *(Source: flash report)*
+
+### 2026-02-06 `[concern]`
+Flagged nursing team defragmentation and lack of unity as a challenge, plus lack of clarity on patient onboarding processes and quality of care. This is the first of two consecutive reports citing nursing team issues — emerging pattern. *(Source: flash report)*
 
 ---
 
@@ -27,4 +34,4 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ---
 
-*Last Updated: 2026-02-11*
+*Last Updated: 2026-02-15*

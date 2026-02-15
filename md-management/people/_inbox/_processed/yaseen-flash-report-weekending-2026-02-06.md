@@ -1,3 +1,8 @@
+<!-- PROCESSED: 2026-02-15
+Routed to:
+- flash-reports/2026-02-06.md (Yaseen Harneker flash report)
+- performance.md: 2026-02-06 [achievement] and [observation] entries
+-->
 
 Flash report 07 February 2026
 **What I accomplished this week (3–5 bullets)**
@@ -10,8 +15,8 @@ regulations reviewed, previous submission reviewed
 - MDT and Medical board handover to Elena completed
 - HBOT gas query – resolved, report submitted, parties informed
 **Challenges or blockers**
-- Chemo application: how to quantify chemo pt’s and referrals
-**Next week’s focus (top 2–3 priorities)**
+- Chemo application: how to quantify chemo pt's and referrals
+**Next week's focus (top 2–3 priorities)**
 - Chemo application: meet with architect and gather relevant information,
 secure appointment with pharmaceutical company (on leave/traveling this
 week), follow up DoH and action where appropriate, structure application and

@@ -2,13 +2,16 @@
 
 Running log of performance observations, feedback, and achievements. Newest entries first.
 
-**Overall Status**: [To be assessed]
-**Last Review Date**: [Date]
-**Next Review Date**: [Date]
+**Overall Status**: Departed
+**Last Review Date**: N/A
+**Next Review Date**: N/A
 
 ---
 
 ## Log
+
+### 2026-02-13 `[observation]`
+Elena and James mutually agreed to part ways. Elena has left the role of Medical Officer. Core disconnect: James hired Elena to manage patient cases on his behalf, but Elena was focused on medical governance and managing patients her way. James had already hired Dr Wendy Denning for governance/CQC compliance and expected Elena to either raise specific concerns or trust the system. Elena's NHS background made the private practice environment uncomfortable. Elena has a partner offer on the table in the NHS. Interim coverage: Dr Wendy Denning and Professor Justin Stebbing as shorter-term candidates until a replacement GMC-registered doctor is found. *(Source: Grant update)*
 
 ### 2026-02-12 — First Two Weeks Observations (Grant) `[observation]` `[concern]`
 
@@ -62,4 +65,4 @@ Shows thoroughness and regulatory awareness, but also reflects her ongoing push 
 
 ---
 
-*Last Updated: 2026-02-12*
+*Last Updated: 2026-02-15*
