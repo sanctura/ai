@@ -1,0 +1,157 @@
+﻿*ItemCode;ItemName;Quantity;PurchasesDescription;PurchasesUnitPrice;PurchasesAccount;PurchasesTaxRate;SalesDescription;SalesUnitPrice;SalesAccount;SalesTaxRate;InventoryAssetAccount;CostOfGoodsSoldAccount;Status;InventoryType
+SUP1000;A1 Mark II p/g;0.00;A1 Mark II p/g;0.00;;No VAT;A1 Mark II p/g;0.42;200;No VAT;630;310;Active;Tracked
+CON1040;Adek Vitamine;20.00;Adek Vitamine;20.00;;Exempt Expenses;Adek Vitamine;46.50;200;Exempt Income;630;310;Active;Tracked
+SUP1001;Affect D;4.00;;0.00;;No VAT;Affect D;99.50;200;No VAT;630;310;Active;Tracked
+ALBU;ALBUMIN;;;;;;ALBUMIN;27.05;202;Exempt Income;;;Active;Untracked
+SUP1002;Arnica Rub;5.00;;0.00;;No VAT;Arnica Rub;32.50;200;No VAT;630;310;Active;Tracked
+CON1036;Artesunate 100mg p/vial;3.40;Artesunate 100mg p/vial;34.64;;Exempt Income;Artesunate 100mg p/vial;55.50;200;Exempt Income;630;310;Active;Tracked
+SUP1003;Arth Clear;2.00;;0.00;;No VAT;Arth Clear;32.50;200;No VAT;630;310;Active;Tracked
+CON1000;Ascorbic Acid 500mg/ml;16,943.00;Ascorbic Acid 500mg/ml;0.00;;Exempt Income;Ascorbic Acid 500mg/ml;0.85;200;Exempt Income;630;310;Active;Tracked
+SUP1004;Autoimmune 1;2.00;;0.00;;No VAT;Autoimmune 1;49.50;200;No VAT;630;310;Active;Tracked
+CON1002;Baseinfusion Magnesium 580ml;5.00;;0.00;;Exempt Income;Baseinfusion Magnesium 580ml;55.00;200;Exempt Income;630;310;Active;Tracked
+CON1001;Basen-Bad 650mg (Burg);2.00;;0.00;;Exempt Income;Basen-Bad 650mg (Burg);55.00;200;Exempt Income;630;310;Active;Tracked
+CON5;Basket Fee;;;0.00;;Exempt Income;Basket Fee;21.50;200;Exempt Income;;;Active;Untracked
+SUP1005;Biosomo Boswellia;61.00;Biosomo Boswellia;0.00;;No VAT;Biosomo Boswellia;69.00;200;No VAT;630;310;Active;Tracked
+SUP1055;Biosomo Coenzyme Q10;53.00;Biosomo Coenzyme Q10;0.00;;No VAT;Biosomo Coenzyme Q10;69.00;200;No VAT;630;310;Active;Tracked
+SUP1006;Biosomo Curcumin Liquid;166.00;Biosomo Curcumin Liquid;49.00;;No VAT;Biosomo Curcumin Liquid;69.00;200;No VAT;630;310;Active;Tracked
+BONE;Bone Profile;;;;;;Bone Profile;59.51;202;Exempt Income;;;Active;Untracked
+CON1033;Bosvene 10mg;17.50;Bosvene 10mg;197.51;;Exempt Income;Bosvene 10mg;443.50;200;Exempt Income;630;310;Active;Tracked
+CON1034;Bosvene 5mg;20.00;Bosvene 5mg;125.21;;Exempt Income;Bosvene 5mg;200.00;200;Exempt Income;630;310;Active;Tracked
+CON7;Breathwork - Group;;;0.00;;No VAT;Breathwork - Group;60.00;200;No VAT;;;Active;Untracked
+C125;CA 125 (ovary);;;;;;CA 125 (ovary);102.75;202;Exempt Income;;;Active;Untracked
+C153;CA 15-3 (breast);;;;;;CA 15-3 (breast);102.75;202;Exempt Income;;;Active;Untracked
+C199;CA 19-9 (GIT, pancreas);;;;;;CA 19-9 (GIT, pancreas);102.75;202;Exempt Income;;;Active;Untracked
+C724;CA 72-4 (gastric CA);;;;;;CA 72-4 (gastric CA);134.70;202;Exempt Income;;;Active;Untracked
+CON1004;Calcium Gluconate p/ml;93.00;;0.00;;Exempt Income;Calcium Gluconate p/ml;2.70;200;Exempt Income;630;310;Active;Tracked
+CEA;CEA (GIT, lung, breast);;;;;;CEA (GIT, lung, breast);51.38;202;Exempt Income;;;Active;Untracked
+CON1005;Ceftriaxone 1g;18.00;;0.00;;Exempt Income;Ceftriaxone 1g;4.65;200;Exempt Income;630;310;Active;Tracked
+CON1;Consultation - 1 hour;;;0.00;;Exempt Income;Consultation - 1 hour;510.00;200;Exempt Income;;;Active;Untracked
+CON6;Consultation - 15 Minutes;;;0.00;;Exempt Income;Consultation - 15 Minutes;195.00;200;Exempt Income;;;Active;Untracked
+CON2;Consultation - 30 min;;;0.00;;Exempt Income;Consultation - 30 min;375.00;200;Exempt Income;;;Active;Untracked
+CONS;Consultation - 45 min;;;0.00;;Exempt Income;Consultation - 45 min;425.00;200;Exempt Income;;;Active;Untracked
+CON1006;Cordarone X 150mg/3ml;3.00;;0.00;;Exempt Income;Cordarone X 150mg/3ml;17.75;200;Exempt Income;630;310;Active;Tracked
+CRP;CRP;;CRP;0.00;;;CRP;36.52;202;Exempt Income;;;Active;Untracked
+SUP1007;Curculan;4.00;;0.00;;No VAT;Curculan;42.50;200;No VAT;630;310;Active;Tracked
+SUP1008;Curcumin + BP (120 tabs);1.00;;0.00;;No VAT;Curcumin + BP (120 tabs);62.50;200;No VAT;630;310;Active;Tracked
+CON1007;Curcumin 15mg/ml;2,759.8534;Curcumin 15mg/ml;15.00;;Exempt Income;Curcumin 15mg/ml;22.50;200;Exempt Income;630;310;Active;Tracked
+SUP1009;Curcumin Fortified Natrocuetics;1.00;;0.00;;No VAT;Curcumin Fortified Natrocuetics;62.50;200;No VAT;630;310;Active;Tracked
+SUP1010;Custom Blend (Special Mix);9.00;;0.00;;No VAT;Custom Blend (Special Mix);58.00;200;No VAT;630;310;Active;Tracked
+DEP001;Deposit;;;0.00;;No VAT;Deposit;0.00;200;No VAT;;;Active;Untracked
+SUP1011;DHEA;4.00;;0.00;;No VAT;DHEA;10.50;200;No VAT;630;310;Active;Tracked
+DHEAS;DHEAS;;DHEAS;54.08;312;Exempt Expenses;DHEAS;64.90;202;Exempt Income;;;Active;Untracked
+DIS001;Discount;;;0.00;;Exempt Income;Discount;0.00;200;Exempt Income;;;Active;Untracked
+SUP1012;DLP Sutherlandia dried;1.00;;0.00;;No VAT;DLP Sutherlandia dried;32.50;200;No VAT;630;310;Active;Tracked
+SUP1013;Downtime (Fulnight);1.00;;0.00;;No VAT;Downtime (Fulnight);32.50;200;No VAT;630;310;Active;Tracked
+ENDO;Endovascular laser therapy - 20Min;;;0.00;;Exempt Income;Endovascular laser therapy - 20Min;100.00;200;Exempt Income;;;Active;Untracked
+SUP1014;EpiGastro Enzyme Formula;1.00;;0.00;;No VAT;EpiGastro Enzyme Formula;74.00;200;No VAT;630;310;Active;Tracked
+ESR;ESR;;ESR;0.00;;;ESR;29.74;202;Exempt Income;;;Active;Untracked
+CON8;Facility Fee;;;0.00;;Exempt Income;Facility Fee;1,000.00;200;Exempt Income;;;Active;Untracked
+TFS%;FE Studies TFS%;;;;;;FE Studies TFS%;86.53;202;Exempt Income;;;Active;Untracked
+CON1055;Ferinject 500mg;1.00;Ferinject 500mg;114.60;;Exempt Expenses;Ferinject 500mg;229.20;200;Exempt Income;630;310;Active;Tracked
+FERR;Ferritin;;;;;;Ferritin;64.89;202;Exempt Income;;;Active;Untracked
+SUP1015;Florish;0.00;;0.00;;No VAT;Florish;54.70;200;No VAT;630;310;Active;Tracked
+FT3;Free T3;;;;;;Free T3;44.63;202;Exempt Income;;;Active;Untracked
+FT4;Free T4;;;;;;Free T4;44.63;202;Exempt Income;;;Active;Untracked
+.FBC;Full blood count;;;;;;Full blood count;37.86;202;Exempt Income;;;Active;Untracked
+G6PDASSAY;G6PD Assay Test;;;;;;G6PD Assay Test;96.79;202;Exempt Income;;;Active;Untracked
+G6PD;G6PD Screen;;;;;;G6PD Screen;39.22;202;Exempt Income;;;Active;Untracked
+SUP1016;Gallopsop;0.00;;0.00;;No VAT;Gallopsop;30.00;200;No VAT;630;310;Active;Tracked
+SUP1017;Genestein;0.00;;0.00;;No VAT;Genestein;118.75;200;No VAT;630;310;Active;Tracked
+SUP1018;Ginsenox;2.00;;0.00;;No VAT;Ginsenox;118.75;200;No VAT;630;310;Active;Tracked
+CON1008;Glutathione 200mg/ml;0.00;Glutathione 200mg/ml;0.00;;Exempt Income;Glutathione 200mg/ml;11.50;200;Exempt Income;630;310;Active;Tracked
+CON1009;Glutathione Red Injekt;18.00;;0.00;;Exempt Income;Glutathione Red Injekt 600mg /10ml;55.50;200;Exempt Income;630;310;Active;Tracked
+GRIP;Gripper Needle;;Gripper Needle;15.35;310;Exempt Expenses;Gripper Needle;19.95;200;Exempt Income;;;Active;Untracked
+H2- 120;H2 Inhalation Therapy - 120 min;;;;;;H2 Inhalation Therapy - 120 min;75.00;200;No VAT;;;Active;Untracked
+H2;H2 Inhalation Therapy - 60 min;;;;;;H2 Inhalation Therapy - 60 min;45.00;200;No VAT;;;Active;Untracked
+SUP1019;Heatoxin;1.00;;0.00;;No VAT;Heatoxin;32.50;200;No VAT;630;310;Active;Tracked
+CON1032;HEEL Echinacea Compositum per ampoule;16.00;HEEL Echinacea Compositum per ampoule;0.00;;Exempt Income;HEEL Echinacea Compositum per ampoule;14.00;200;Exempt Income;630;310;Active;Tracked
+CON1031;HEEL Gripp per ampoule;10.00;HEEL Gripp per ampoule;0.00;;Exempt Income;HEEL Gripp per ampoule;7.00;200;Exempt Income;630;310;Active;Tracked
+HBOT;Hyperbaric Oxygen Therapy Session;;Hyperbaric Oxygen Therapy Session;0.00;;Exempt Income;Hyperbaric Oxygen Therapy Session - 2 ATA 90 Min;200.00;200;Exempt Income;;;Active;Untracked
+CON4;Infusion Fee;;;0.00;;Exempt Income;Infusion Fee;125.00;200;Exempt Income;;;Active;Untracked
+IRON;Iron;;;;;;Iron;28.39;202;Exempt Income;;;Active;Untracked
+CON1035;Iscador;0.00;Iscador;20.91;;Exempt Income;Iscador;31.35;200;Exempt Income;630;310;Active;Tracked
+SUP1065;Iscador P Serie 2 Solution for Injection 2 x 7's;4.00;Iscador P Serie 2 Solution for Injection 2 x 7's;78.32;;No VAT;Iscador P Serie 2 Solution for Injection 2 x 7's;148.50;200;No VAT;630;310;Active;Tracked
+SUP1020;K2C2D3;0.00;;0.00;;No VAT;K2C2D3;74.00;200;No VAT;630;310;Active;Tracked
+SUP1021;Lactoferrin;0.00;;0.00;;No VAT;Lactoferrin;225.00;200;No VAT;630;310;Active;Tracked
+.LFT;Liver function tests (LFT);;;;;;Liver function tests (LFT);37.86;202;Exempt Income;;;Active;Untracked
+CON1045;Lymphomyosot p/vial;15.00;Lymphomyosot p/vial;0.00;;No VAT;Lymphomyosot p/vial;14.00;200;No VAT;630;310;Active;Tracked
+MAGN;Magnesium;;;;;;Magnesium;35.15;202;Exempt Income;;;Active;Untracked
+CON1010;Magnesium Sulphate 500mg/ml;0.00;;0.00;;Exempt Income;Magnesium Sulphate 500mg/ml;1.25;200;Exempt Income;630;310;Active;Tracked
+CON1011;Magnesium/Calcium Electrolyte;19.00;;0.00;;Exempt Income;Magnesium/Calcium Electrolyte;3.90;200;Exempt Income;630;310;Active;Tracked
+SUP1022;Magnesiun Natrocuetics;0.00;;0.00;;No VAT;Magnesiun Natrocuetics;32.50;200;No VAT;630;310;Active;Tracked
+FEMSPE;Malachite Female Profile Specialized;;;;;;Malachite Female Profile Specialized;1,487.11;202;Exempt Income;;;Active;Untracked
+FEMSTD;Malachite Female Profile Standard;;;;;;Malachite Female Profile Standard;94.21;202;Exempt Income;;;Active;Untracked
+MALSTD;Malachite Male Profile Standard;;;;;;Malachite Male Profile Standard;1,493.30;202;Exempt Income;;;Active;Untracked
+CON1012;Marais Protocol 15ml;0.50;Marais Protocol 15ml;0.00;;Exempt Income;Marais Protocol 15ml;71.25;200;Exempt Income;630;310;Active;Tracked
+mEHT 60;mEHT Hyperthermia Treatment - 60 Min;;;0.00;;Exempt Income;mEHT Hyperthermia Treatment - 60 Min;300.00;200;Exempt Income;;;Active;Untracked
+mEHT 90;mEHT Hyperthermia Treatment - 90 Min;;;0.00;;Exempt Income;mEHT Hyperthermia Treatment - 90 Min;450.00;200;Exempt Income;;;Active;Untracked
+CON1013;Methylcobalamin p/ml;8.00;;0.00;;Exempt Income;Methylcobalamin p/ml;15.00;200;Exempt Income;630;310;Active;Tracked
+CON1014;Meyers Cocktail 1 & 2 15ml;139.00;Meyers Cocktail 1 & 2 15ml;0.00;;Exempt Income;Meyers Cocktail 1 & 2 15ml;75.00;200;Exempt Income;630;310;Active;Tracked
+SUP1023;MindXtra;1.00;;0.00;;No VAT;MindXtra;32.50;200;No VAT;630;310;Active;Tracked
+MISC;Misc;;;0.00;;Exempt Income;Misc;0.00;200;Exempt Income;;;Active;Untracked
+SUP1024;Modafinil 50mg (30 caps);4.00;;0.00;;No VAT;Modafinil 50mg (30 caps);68.50;200;No VAT;630;310;Active;Tracked
+SUP1025;Mongolian Seabuckthorn Oil;0.00;Mongolian Seabuckthorn Oil;0.00;;No VAT;Mongolian Seabuckthorn Oil;172.35;200;No VAT;630;310;Active;Tracked
+CON1015;NAD+ 125mg (Burg);0.00;;0.00;;Exempt Income;NAD+ 125mg (Burg);153.75;200;Exempt Income;630;310;Active;Tracked
+CON1016;NAD+ 125mg (Halo);0.00;;0.00;;Exempt Income;NAD+ 125mg (Halo);136.00;200;Exempt Income;630;310;Active;Tracked
+CON1017;Natriumhydrogencarbonate Losung 8.4% Kohler;10.00;;0.00;;Exempt Income;Natriumhydrogencarbonate Losung 8.4% Kohler;0.00;200;Exempt Income;630;310;Active;Tracked
+SUP1045;Nebido Vial;5.00;Nebido Vial;113.44;;No VAT;Nebido Vial;113.44;200;No VAT;630;310;Active;Tracked
+CON1018;Neuro-Amino Infusion;2.00;;0.00;;Exempt Income;Neuro-Amino Infusion;65.80;200;Exempt Income;630;310;Active;Tracked
+CON1003;Neuro-amino infusion - Biomo-Lipon 600mg;33.00;;0.00;;Exempt Income;Neuro-amino infusion - Biomo-Lipon 600mg;69.00;200;Exempt Income;630;310;Active;Tracked
+CON1019;NeuroInject 2ml;0.00;NeuroInject 2ml;0.00;;Exempt Income;NeuroInjekt 2ml;12.50;200;Exempt Income;630;310;Active;Tracked
+NUTR;Nutritional & Inflammatory  Screen;;;;;;Nutritional & Inflammatory  Screen;459.23;202;Exempt Income;;;Active;Untracked
+CON1020;Olephenolia;27.00;Olephenolia;0.00;;Exempt Income;Olephenolia;15.50;200;Exempt Income;630;310;Active;Tracked
+SUP1026;Omega 3 Natrocuetics;0.00;;0.00;;No VAT;Omega 3 Natrocuetics;68.50;200;No VAT;630;310;Active;Tracked
+SUP1027;Omega 3 Plus (Panaxea);1.00;;0.00;;No VAT;Omega 3 Plus (Panaxea);35.15;200;No VAT;630;310;Active;Tracked
+SUP1028;Origine 8;2.00;;0.00;;No VAT;Origine 8;36.00;200;No VAT;630;310;Active;Tracked
+CON1065;Pascorbin Pascoe;7.50;Pascorbin Pascoe;35.36;;No VAT;Pascorbin Pascoe;35.36;200;No VAT;630;310;Active;Tracked
+SUP1029;PC2;0.00;;0.00;;No VAT;PC2;112.00;200;No VAT;630;310;Active;Tracked
+CON9;Phlebotomy Fee;;;;;;Phlebotomy Fee;69.00;200;Exempt Income;;;Active;Untracked
+PHOS;Phosphate;;;;;;Phosphate;27.05;202;Exempt Income;;;Active;Untracked
+CON3;Private Breathwork;;;0.00;;No VAT;Private Breathwork;300.00;200;No VAT;;;Active;Untracked
+CON1021;Promethazine 25mg/ml;3.00;;0.00;;Exempt Income;Promethazine 25mg/ml;1.20;200;Exempt Income;630;310;Active;Tracked
+SUP1030;PS Calm;0.00;;0.00;;No VAT;PS Calm;105.30;200;No VAT;630;310;Active;Tracked
+PSA;PSA total;;;;;;PSA total;68.96;202;Exempt Income;;;Active;Untracked
+CON1030;Q10 3mg/ml p/ml;685.4662;Q10 3mg/ml p/ml;0.00;;Exempt Income;Q10 3mg/ml p/ml;1.50;200;Exempt Income;630;310;Active;Tracked
+SUP1031;Quadriderm;1.00;;0.00;;No VAT;Quadriderm;37.00;200;No VAT;630;310;Active;Tracked
+SUP1032;Rascibly;1.00;;0.00;;No VAT;Rascibly;89.00;200;No VAT;630;310;Active;Tracked
+SUP1033;Reishi Targeted Therapy;8.00;Reishi Targeted Therapy;0.00;;No VAT;Reishi Targeted Therapy;195.00;200;No VAT;630;310;Active;Tracked
+SUP1034;Resveratrol;2.00;;0.00;;No VAT;Resveratrol;39.50;200;No VAT;630;310;Active;Tracked
+CON1022;Riboflavin 20mg/ml (20ml);20.00;;0.00;;Exempt Income;Riboflavin 20mg/ml (20ml);44.50;200;Exempt Income;630;310;Active;Tracked
+CON1056;Ringers Lactate;;;;;;Ringers Lactate;13.60;200;Exempt Income;;;Active;Untracked
+SUP1035;Saffron Natrocuetics;0.00;;0.00;;No VAT;Saffron Natrocuetics;29.15;200;No VAT;630;310;Active;Tracked
+CACH;Sanctura Cachexia Screen;;;;;;Sanctura Cachexia Screen;379.05;202;Exempt Income;;;Active;Untracked
+IMM-NO;Sanctura Immune Screen - NO Minerals;;;;;;Sanctura Immune Screen - NO Minerals;189.23;202;Exempt Income;;;Active;Untracked
+IMM;Sanctura Immune Screen + Minerals;;;;;;Sanctura Immune Screen + Minerals;428.97;202;Exempt Income;;;Active;Untracked
+INFL;Sanctura Inflammatory Screen;;;;;;Sanctura Inflammatory Screen;201.86;202;Exempt Income;;;Active;Untracked
+MINE;Sanctura Mineral Screen;;;;;;Sanctura Mineral Screen;239.74;202;Exempt Income;;;Active;Untracked
+PLATF;Sanctura Platinum Screen Female;;;;;;Sanctura Platinum Screen Female;851.37;202;Exempt Income;;;Active;Untracked
+PLATM;Sanctura Platinum Screen Male;;;;;;Sanctura Platinum Screen Male;820.39;202;Exempt Income;;;Active;Untracked
+CON1050;Selen-Injekt;372.00;Selen-Injekt;1.168;;Exempt Expenses;Selen-Injekt;2.25;200;Exempt Income;630;310;Active;Tracked
+SIG002;Signatera Follow Up Test;;Signatera Follow Up Test;1,350.00;310;No VAT;Signatera Follow Up Test;1,900.00;200;No VAT;;;Active;Untracked
+SIG001;Signatera Initial Test;;Signatera Initial Test;3,500.00;310;No VAT;Signatera Initial Test;4,000.00;200;No VAT;;;Active;Untracked
+SIG;Signature Prestige Pathology Test;;Signature Prestige Pathology Test;525.00;312;Exempt Expenses;Signature Prestige Pathology Test;1,312.50;202;Exempt Income;;;Active;Untracked
+CON1023;Solu-Cortef (Hydro-cortison 100mg);0.25;;0.00;;Exempt Income;Solu-Cortef (Hydro-cortison 100mg);7.95;200;Exempt Income;630;310;Active;Tracked
+HSC6;Standard Screen;;Standard Screen;75.00;312;Exempt Expenses;Standard Screen;135.00;202;Exempt Income;;;Active;Untracked
+HSC7F/M;Standard Screen Plus;;Standard Screen Plus;95.00;312;Exempt Expenses;Standard Screen Plus;171.00;202;Exempt Income;;;Active;Untracked
+SUP1036;Superfood Red;0.00;;0.00;;No VAT;Superfood Red;112.50;200;No VAT;630;310;Active;Tracked
+CON1024;Synotech-Multi Sodium p/ml;1.00;;0.00;;Exempt Income;Synotech-Multi Sodium p/ml;186.50;200;Exempt Income;630;310;Active;Tracked
+SUP1037;Tanshins;0.00;;0.00;;No VAT;Tanshins;147.00;200;No VAT;630;310;Active;Tracked
+TEST;Testosterone;;Testosterone;37.19;312;Exempt Expenses;Testosterone;44.63;202;Exempt Income;;;Active;Untracked
+CON1025;Thiamine 100mg/1ml p/ml;23.00;;0.00;;Exempt Income;Thiamine 100mg/1ml p/ml;6.15;200;Exempt Income;630;310;Active;Tracked
+SUP1038;Tobradex;1.00;;0.00;;No VAT;Tobradex;32.00;200;No VAT;630;310;Active;Tracked
+SUP1039;Tranqwill;2.00;;0.00;;No VAT;Tranqwill;56.40;200;No VAT;630;310;Active;Tracked
+HEL;Transcranial Photobiomodulation;;;;;;Transcranial Photobiomodulation;50.00;200;Exempt Income;;;Active;Untracked
+TFERR;Transferrin;;;;;;Transferrin;28.38;202;Exempt Income;;;Active;Untracked
+TSH;TSH;;;;;;TSH;44.63;202;Exempt Income;;;Active;Untracked
+.ELEC;U&E, creatinine;;;;;;U&E, creatinine;27.05;202;Exempt Income;;;Active;Untracked
+CON1026;Ultima Ratio Inject;235.00;;0.00;;Exempt Income;Ultima Ratio Inject;24.50;200;Exempt Income;630;310;Active;Tracked
+CON1027;Viscum Album Injeel;2.00;;0.00;;Exempt Income;Viscum Album Injeel;45.20;200;Exempt Income;630;310;Active;Tracked
+VITB12;Vitamin B12;;;;;;Vitamin B12;44.63;202;Exempt Income;;;Active;Untracked
+VITD;Vitamin D (25 OH);;;;;;Vitamin D (25 OH);63.57;202;Exempt Income;;;Active;Untracked
+CON1028;Vitamin D IM * 300 000ui;0.00;Vitamin D IM * 300 000ui;15.00;;Exempt Income;Vitamin D IM * 300 000ui;22.50;200;Exempt Income;630;310;Active;Tracked
+SUP1040;Vitamin D3 / K2 7500UI 30 capsules);2.00;;0.00;;No VAT;Vitamin D3 / K2 7500UI 30 capsules);42.00;200;No VAT;630;310;Active;Tracked
+VIT;Vitamins and Minerals;;Vitamins and Minerals;49.00;312;Exempt Expenses;Vitamins and Minerals;68.60;202;Exempt Income;;;Active;Untracked
+CON1037;Zentra Injekt;17.00;Zentra Injekt;6.82;;Exempt Income;Zentra Injekt;13.65;200;Exempt Income;630;310;Active;Tracked
+SUP1041;Zinc;11.00;;0.00;;No VAT;Zinc;65.00;200;No VAT;630;310;Active;Tracked
+ZINC;Zinc;;;;;;Zinc;39.12;202;Exempt Income;;;Active;Untracked
+CON1029;Zinc (5mg/ml);0.00;Zinc (5mg/ml);0.00;;Exempt Income;Zinc (5mg/ml);2.75;200;Exempt Income;630;310;Active;Tracked
