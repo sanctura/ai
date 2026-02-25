@@ -79,7 +79,7 @@
 - [ ] Maria Tam periodic review — 6-monthly check on private practice arrangement
 - [ ] CQC policy annual review — in progress, delayed by busy week (2026-02-06)
 - [ ] Plant wall installation — closing off with Plant Care
-- [ ] Lexee salary request consideration — started Jul 2025, excelling, note for annual increase
+- [x] Lexee salary request — resolved 2026-02-18: 18% increase granted and communicated by Grant
 - [ ] HBOT signage — up but needs images/graphics
 - [ ] UK breathwork room -> immersive sensory room conversion — in progress, unclear instructions
 - [ ] Shelving for store room and studio — to be ordered
@@ -90,6 +90,8 @@
 - [ ] Invoicing system go-live — continue supporting team confidence
 - [ ] Clinical Governance meeting prep — agenda, information collation
 - [ ] Saba ongoing training — working with Lexee
+- [ ] **Second receptionist replacement** — hire urgently, previous resigned within 2 weeks (assigned 2026-02-18, URGENT)
+- [ ] **Lexee role clarification** — assist in defining Lexee's role (receptionist/PA/liaison clarity) (assigned 2026-02-18, URGENT)
 
 **Recently Completed** (last 30 days):
 - [x] Flash report submission process — first report submitted 2026-02-06

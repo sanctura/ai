@@ -10,6 +10,9 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+### 2026-02-18 `[observation]`
+Grant held a skip-level check-in with Lexee Duval (London receptionist, reports to Amanda). Lexee disclosed significant emotional stress, burnout risk, and role confusion — her role has expanded informally (receptionist/PA/client liaison) without clarity. Second receptionist resigned within two weeks. Grant tasked Amanda with: (1) urgently driving a replacement second receptionist hire, and (2) assisting in clarifying Lexee's role. These are priority items. *(Source: Grant check-in with Lexee)*
+
 ### 2026-02-13 `[concern]`
 Missed flash report this week — was off on Friday and did not send it before leaving. Was not explicitly told what to do when off on a Friday, but a proactive employee would have sent it before leaving. Also did not provide any handover info or things to look out for on her day off, showing a lack of forward thinking. *(Source: Grant observation)*
 

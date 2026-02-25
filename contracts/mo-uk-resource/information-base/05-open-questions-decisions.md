@@ -1,28 +1,22 @@
 # Open Questions and Decisions Required
 
-## Commercial & Legal
+## Resolved Items
 
-### Rate and Payment
-- [ ] Confirm exact hourly/day rate within £40-50 range
-- [ ] Payment terms (when invoices due, payment timeline)
-- [ ] Expenses policy - what is reimbursable, approval process, limits
+- [x] ~~Confirm exact hourly rate~~ - **£49/hour** (Mo's rate, confirmed in v4 contract)
+- [x] ~~Exact notice period~~ - **2 weeks**
+- [x] ~~Contract start date~~ - **10 February 2026**
+- [x] ~~IR35 status determination~~ - CEST result: unable to determine (4 Feb 2026); proceeding as **inside IR35 via PayStream umbrella company**
+- [x] ~~Engagement structure (direct vs umbrella)~~ - **Via PayStream umbrella** (Mo's choice, PayStream contract received)
 
-### Contract Terms
-- [ ] Exact notice period (2 weeks or 4 weeks?)
-- [ ] Contract start date
-- [ ] Working days (specific days of week, or flexible?)
+## Open: PayStream / Commercial
 
-### IR35 Considerations
-- [ ] Conduct IR35 status determination
-- [ ] If inside IR35, consider implications for engagement structure
-- [ ] Document the determination and rationale
+- [ ] **Total Fee to PayStream** - Sanctura's hourly cost (Mo's £49 + employer NI, pension, holiday pay, PayStream margin) - needs to be confirmed and entered on Assignment Schedule
+- [ ] **Lauren review of PayStream Master Agreement** - Standard terms of business, 14 pages. Need Lauren to review and confirm acceptable
+- [ ] **Employment claim reimbursement clause** - PayStream contract likely includes a clause requiring the Hirer to reimburse costs if Mo brings an employment claim against Sanctura. Lauren should comment on this
+- [ ] **Correct contact email on PayStream contract** - Check what email/contact details PayStream has for Sanctura and ensure they're correct
+- [ ] **Decision on supplementary engagement letter with Mo** - Whether Sanctura should have a separate direct letter with Mo covering scope, deliverables, and ways of working (the PayStream contract only covers the commercial/employment wrapper)
 
-### Insurance and Liability
-- [ ] Professional indemnity insurance requirements
-- [ ] Public liability insurance requirements
-- [ ] Who provides these - Mohammed or Sanctura covers?
-
-## Operational Setup
+## Open: Operational Setup
 
 ### Access and Equipment
 - [ ] Email address provision (sanctura.com domain?)
@@ -37,7 +31,7 @@
 - [ ] Which meetings should Mohammed attend?
 - [ ] Communication channels (Slack, Teams, email?)
 
-## Role and Scope
+## Open: Role and Scope
 
 ### Priority Focus
 - [ ] Which of the four domains is highest priority for Month 1?
@@ -56,7 +50,7 @@
 - [ ] What requires approval/escalation?
 - [ ] Budget authority (if any)?
 
-## Transition Planning
+## Open: Transition Planning
 
 ### NHS Transition
 - [ ] What happens when Mohammed's NHS contract is up for renewal?
@@ -67,13 +61,3 @@
 - [ ] How will Mohammed's knowledge be captured?
 - [ ] Documentation expectations?
 - [ ] Handover requirements if engagement ends?
-
-## Tuesday Meeting Agenda Items
-
-Based on the above, the Tuesday 12:00 meeting should cover:
-
-1. **Confirm rate and payment terms**
-2. **Confirm start date and initial days/schedule**
-3. **Align on priority focus area for Month 1**
-4. **Discuss IR35 status**
-5. **Agree next steps for contract drafting**

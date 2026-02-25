@@ -16,11 +16,11 @@ This folder contains the structured background information and planning document
 
 ## Current Status
 
-**Stage:** Contract approved - awaiting HR guidance on IR35
+**Stage:** PayStream umbrella contract received - awaiting Lauren's review
 
-**Latest Update:** Mo has confirmed he is happy with v4 of the contract and is ready to sign. CEST assessment completed 4 Feb 2026 - result: "Unable to make a determination" (finely balanced).
+**Latest Update:** Mo is engaging via PayStream My Max 3 Limited (umbrella company), confirming inside IR35 as expected. PayStream has sent Sanctura a Master Agreement (Terms of Business) and an Assignment Schedule template to complete. These need Lauren's review before signing.
 
-**Next Action:** Await Lauren's guidance on IR35 approach, then execute contract
+**Next Action:** Send PayStream documents to Lauren for review and guidance
 
 ## Key Facts Summary
 
@@ -28,11 +28,11 @@ This folder contains the structured background information and planning document
 |------|--------|
 | Candidate | Mohammed (Mo) Desai |
 | Role Type | Part-time consulting engagement |
-| Engagement Type | TBC - likely via umbrella (inside IR35) |
-| Rate | £49/hour |
+| Engagement Type | Via PayStream umbrella company (inside IR35) |
+| Rate | £49/hour (Mo's rate); total Fee to PayStream TBC |
 | Term | 10 February 2026 to 10 May 2026 (3-month fixed term) |
 | Hours | Up to 15 hours/week (with flexibility clause) |
-| Contract Version | v4 (approved by Mo) |
+| Contract Version | v4 direct contract now superseded by umbrella arrangement |
 | CEST Result | Unable to determine (4 Feb 2026) |
 
 ## Source Documents
@@ -42,6 +42,11 @@ This folder contains the structured background information and planning document
 - `/background/proposed bank contract.md` - Reference contract template (bank staff)
 - `/background/CEST Results.pdf` - HMRC CEST assessment (4 Feb 2026) - result: unable to determine
 
+### PayStream Documents
+
+- `/new-information/My Max 3 Client Contract - Sanctura Limited.pdf` - PayStream Master Agreement (Terms of Business for Supply of Workers to Hirers), 14 pages
+- `/new-information/Client Assignment schedule template - Sanctura Limited.docx.md` - Assignment Schedule template to be completed with Mo's engagement details
+
 ## Contract Documents
 
 | Version | File | Status |
@@ -49,7 +54,7 @@ This folder contains the structured background information and planning document
 | v1 | `/contract/consultancy-agreement-draft-v1.md` | Superseded - initial draft sent to HR |
 | v2 | `/contract/consultancy-agreement-draft-v1-feedback-doc.md` | Superseded - HR feedback (Lauren's tracked changes) |
 | v3 | `/contract/consultancy-agreement-draft-v3.md` | Superseded - incorporated HR feedback |
-| v4 | `/contract/consultancy-agreement-draft-v4.md` | **Current - approved by Mo, ready for signing** |
+| v4 | `/contract/consultancy-agreement-draft-v4.md` | Superseded - was approved by Mo, now replaced by umbrella arrangement |
 
 Supporting documents:
 - `/contract/hr-review-notes.md` - Cover notes for HR consultant

@@ -1,52 +1,61 @@
 # Engagement Structure
 
-## Agreed Commercial Terms
+## Current Arrangement
+
+Mo is engaging with Sanctura via **PayStream My Max 3 Limited**, an umbrella company. This confirms the engagement is **inside IR35**, as Mo expected when he set his rate.
+
+PayStream has sent Sanctura two documents to execute:
+1. **Master Agreement** - Terms of Business for the Supply of Workers to Hirers (14-page standard contract)
+2. **Assignment Schedule** - Template to be completed with Mo's specific engagement details
+
+These documents are with Lauren for review before signing.
+
+## Commercial Terms
 
 | Element | Detail |
 |---------|--------|
-| Engagement Type | Direct engagement with Sanctura (not via umbrella company) |
-| Commercial Structure | Month-to-month consulting arrangement |
-| Payment Cadence | Monthly |
-| Rate | **£46 per hour (confirmed)** |
-| Notice Period | 2 weeks |
-| Start Date | **10 February 2025** |
-| Weekly Hours | **15 hours (2 days)** |
+| Engagement Type | Via PayStream umbrella company (inside IR35) |
+| Umbrella Company | PayStream My Max 3 Limited |
+| Mo's Rate | £49/hour |
+| Total Fee (Sanctura to PayStream) | TBC - will include Mo's rate + employer NI, pension, holiday pay, and PayStream margin |
+| Notice Period | 2 weeks (to be confirmed on Assignment Schedule) |
+| Start Date | 10 February 2026 |
+| End Date | 10 May 2026 (3-month fixed term) |
+| Weekly Hours | Up to 15 hours (with flexibility) |
+| Invoice Frequency | Monthly (to be confirmed) |
+| Expenses | To be confirmed on Assignment Schedule |
 
-## Rationale for Direct Engagement
+## How This Works
 
-- Allows a lower effective rate than umbrella company arrangements
-- Simpler administration
-- More direct relationship
+Under the umbrella arrangement:
+- **Sanctura** is the "Hirer" and contracts with PayStream
+- **PayStream** employs Mo and handles PAYE, NI, pension, and holiday pay
+- **Sanctura** pays PayStream a single Fee per hour which covers everything
+- **Mo** receives his net pay from PayStream after deductions
 
-## Time Commitment Plan
+## History: Direct Contract (Now Superseded)
 
-### February (Initial Phase)
-- **2 days per week (15 hours)**
-- **Start date: 10 February 2025**
-- Days: Tuesday and Friday (flexible, not contractually fixed)
-- Mohammed will use annual leave from NHS role to accommodate
+The engagement was originally planned as a direct consultancy agreement between Mo and Sanctura. Four versions of a direct contract were drafted, with v4 approved by Mo. However, following the CEST assessment (4 Feb 2026, result: unable to determine) and Mo's expectation that the engagement falls inside IR35, the arrangement has moved to an umbrella company model.
 
-### March Onwards
-- **Increase to 3 days per week**
-- Subject to mutual agreement and value demonstrated
+The v4 direct contract is now superseded, but its terms informed the engagement details (rate, hours, term, scope) that carry forward into the Assignment Schedule.
 
-### Review Cadence
-- Engagement to be reviewed monthly
-- Flexibility built in for both parties given Mohammed's NHS commitments
+## Key Implications of Umbrella Arrangement
+
+- **Cost to Sanctura will be higher** than the direct £49/hour rate, as the Fee must cover employment overheads and PayStream's margin
+- **Sanctura's contract is with PayStream**, not directly with Mo
+- **Employment risk sits with PayStream**, not Sanctura
+- **IR35 compliance is addressed** - Mo is employed by PayStream and taxed via PAYE
+
+## Time Commitment
+
+### February - May 2026
+- Up to 15 hours per week
+- Days flexible (not contractually fixed)
+- Mo will use annual leave from NHS role to accommodate
 
 ## Engagement Philosophy
 
-The engagement is intentionally framed as:
+The engagement is framed as:
 - **Senior, embedded consulting** - not ad-hoc or transactional
 - Designed to deliver leadership leverage, operational clarity, and regulatory confidence
 - Trial-first approach with genuine potential to evolve into a longer-term or permanent role
-
-## Key Contract Considerations (To Be Determined)
-
-- [ ] Specific day rate or hourly rate to be confirmed
-- [ ] Exact notice period
-- [ ] IP and confidentiality provisions
-- [ ] Expenses policy
-- [ ] Equipment/tools provision
-- [ ] Insurance requirements (professional indemnity, public liability)
-- [ ] IR35 status assessment

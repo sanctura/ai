@@ -57,12 +57,18 @@ Each person's folder contains:
 | `one-on-ones/` | 1:1 meeting notes (`YYYY-MM-DD.md`, meeting date) |
 | `updates/` | Generated summaries, review docs, quarterly reports |
 
+**Extended Team** (`/people/extended-team/`):
+Employees the MD interacts with who don't report directly to them (skip-level reports, key employees in other teams):
+- `_TEMPLATE/` - Template folder with `profile.md` + `info-base.md`
+- `lexee-duval/` - Lexee Duval (Receptionist, London, reports to Amanda)
+- Each person's folder contains: `profile.md`, `info-base.md`, `meetings/`, `updates/`
+
 **Stakeholders** (`/people/stakeholders/`):
-Anyone the MD works with who isn't a direct report (CEO, CFO, CMO, extended team, external partners):
+External stakeholders and senior leaders the MD works with (CEO, CFO, CMO, board members, external partners):
 - `_TEMPLATE/` - Template folder with lighter `profile.md`
 - Each stakeholder folder contains: `profile.md`, `meetings/`, `updates/`
 
-**When discussing people topics, always reference the specific person's folder. For direct reports, read `info-base.md` (structured current-state database) for quick context, `profile.md` (static role context), and `performance.md` (chronological source of truth). Medical officers are UK-based (timezone considerations).**
+**When discussing people topics, always reference the specific person's folder. For direct reports, read `info-base.md` (structured current-state database) for quick context, `profile.md` (static role context), and `performance.md` (chronological source of truth). For extended team members, read `info-base.md` and `profile.md`. Medical officers are UK-based (timezone considerations).**
 
 ### 3. Project Tracking (`/projects/`)
 Initiative management and execution status:
