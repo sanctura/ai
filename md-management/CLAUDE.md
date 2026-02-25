@@ -28,7 +28,7 @@ Foundational strategic information that informs all decision-making:
 
 ### 2. People Management (`/people/`)
 Team oversight, performance tracking, and stakeholder management:
-- `team-roster.md` - All direct reports (6), extended team (18 indirect reports), 1:1 schedule, and team health indicators
+- `team-roster.md` - All direct reports (4), extended team, 1:1 schedule, and team health indicators
 - `hiring.md` - Open positions (Founders Associate), recruiting pipeline, and future hiring needs
 - `google-drive-structure.md` - Reference for MD Google Drive folder structure with sharing permissions
 - `direct-report-expectations.md` - General expectations for all direct reports: Attitude, Communication, Accountability, Continuous Improvement, Strategic Alignment
@@ -41,10 +41,9 @@ Each direct report has their own folder with a consistent structure:
 - `_TEMPLATE/` - Template folder to copy when adding a new direct report (`profile.md` + `performance.md` + `info-base.md`)
 - `amanda-ross/` - Amanda Ross (London)
 - `kyle-bennett/` - Kyle Bennett (Practice Manager)
-- `alida-wiese/` - Alida Wiese (Finance Manager)
 - `yaseen-harneker/` - Yaseen Harneker (CPO)
-- `elena-hilton/` - Dr Elena Hilton (Medical Officer, London)
 - `ismaeel-ebrahim/` - Dr Ismaeel Ebrahim (Medical Officer, Cape Town)
+- `ronald-mashonga/` - Ronald Mashonga
 
 Each person's folder contains:
 | File/Folder | Purpose |
@@ -68,7 +67,12 @@ External stakeholders and senior leaders the MD works with (CEO, CFO, CMO, board
 - `_TEMPLATE/` - Template folder with lighter `profile.md`
 - Each stakeholder folder contains: `profile.md`, `meetings/`, `updates/`
 
-**When discussing people topics, always reference the specific person's folder. For direct reports, read `info-base.md` (structured current-state database) for quick context, `profile.md` (static role context), and `performance.md` (chronological source of truth). For extended team members, read `info-base.md` and `profile.md`. Medical officers are UK-based (timezone considerations).**
+**Ex-Employees** (`/people/ex-employees/`):
+Former employees whose records are retained for reference:
+- `alida-wiese/` - Alida Wiese (former Finance Manager)
+- `elena-hilton/` - Dr Elena Hilton (former Medical Officer, Cape Town)
+
+**When discussing people topics, always reference the specific person's folder. For direct reports, read `info-base.md` (structured current-state database) for quick context, `profile.md` (static role context), and `performance.md` (chronological source of truth). For extended team members, read `info-base.md` and `profile.md`.**
 
 ### 3. Project Tracking (`/projects/`)
 Initiative management and execution status:
@@ -146,14 +150,14 @@ Executive dashboard structure:
 **Weekly**:
 - **Monday**: Copy `weekly-template.md` → `current-week.md`, set top 3 priorities, prep meeting agendas
 - **Friday**: Complete week-end review section in `current-week.md`, archive to `planning/archive/week-YYYY-MM-DD.md`, create MD progress log in `tracking/md-progress/weekly-logs/`, review flash reports from direct reports (due 4pm)
-**Bi-Weekly**: Update `direct-reports/[name]/performance.md` before Medical Officer 1:1s (Elena W1,3 / Ismaeel W2,4)
+**Bi-Weekly**: Update `direct-reports/[name]/performance.md` before Medical Officer 1:1s (Ismaeel W2,4)
 **Monthly**: Update metrics, refresh all profile and performance files before scheduled 1:1s, review risks/opportunities
 **Quarterly**: Update strategic sections in `business/overview.md`, conduct formal performance reviews, adjust org structure if needed
 **Ad Hoc**: CEO feedback → `ceo-directives.md`, project changes → `active.md`, new risks → `risks.md`, decisions → `decisions.md`, post-1:1 → `direct-reports/[name]/performance.md` and `one-on-ones/`, raw notes → `people/_inbox/`
 
 ### Meeting Rhythm (4-Week Cycle)
-**Every Week**: Kyle (Mon), Alida (Mon), Yaseen (Tue), Amanda (Wed)
-**Week 1 & 3**: Elena (Wed), Project Meeting (Thu), Ricardo if 1st/3rd Thu
+**Every Week**: Kyle (Mon), Yaseen (Tue), Amanda (Wed)
+**Week 1 & 3**: Project Meeting (Thu), Ricardo if 1st/3rd Thu
 **Week 2 & 4**: Ismaeel (Wed), Exco (Thu), CEO James (Thu), CFO if 2nd Thu, CMO if 4th Thu
 **Monthly**: CFO (2nd Thu), CMO (4th Thu)
 **Bi-Monthly**: Ricardo (1st & 3rd Thu)
@@ -182,7 +186,7 @@ Executive dashboard structure:
 4. Wednesday = Medical Officers (bi-weekly alternating) + Innovation time (9-11am, no calendar)
 5. Thursday = Project/Exco (alternating) + CEO (bi-weekly on Exco weeks) + Strategic partners (rotating)
 6. Friday = Review & flex (no external meetings)
-7. UK-based staff (Amanda, Ismaeel) meet at 11am+ SA time for timezone compatibility
+7. UK-based staff (Amanda, Ismaeel) meet at 11am+ SAST for timezone compatibility
 
 **Decision Support**
 1. Read relevant context files (`business/overview.md`, `ceo-directives.md`, `organization.md`)
@@ -304,7 +308,7 @@ When user asks about:
 
 **Organization**: Healthcare/medical practice with operations in Cape Town (South Africa) and London (UK)
 **Team Size**: 28 staff + CEO + fractional CFO/CMO
-**Direct Reports**: 6 (2 Medical Officers, 2 Practice Managers, 1 COO, 1 Finance Manager)
+**Direct Reports**: 4 (1 Medical Officer, 1 Practice Manager, 1 CPO, 1 Practice Manager London)
 **Vacant Position**: Founders Associate (4 staff currently without proper management)
 **Timezone**: South Africa (SAST) base; UK staff meet at 11am+ SAST (9am+ UK)
 **Role Split**: Grant Merwitz as MD/CTO targeting 60% MD / 30% CTO / 10% Innovation

@@ -2,16 +2,6 @@
 
 ## Direct Reports
 
-### Dr Elena Hilton
-- **Role**: Medical Officer
-- **Reports To**: Grant Merwitz (MD)
-- **Start Date**: [Date]
-- **Location**: Cape Town
-- **Key Responsibilities**: Clinical oversight for Cape Town operations, managing medical staff and clinical quality
-- **Performance Status**: [To be assessed]
-- **Current Focus**: [To be determined]
-- **Notes**: Manages a team of 7 including Head Nurse and nursing staff
-
 ### Founders Associate (VACANT)
 - **Role**: Founders Associate
 - **Reports To**: Grant Merwitz (MD)
@@ -52,26 +42,7 @@
 - **Current Focus**: [To be determined]
 - **Notes**: Senior leadership role - owns complex, multi-stakeholder strategic projects
 
-### Alida Wiese
-- **Role**: Finance Manager
-- **Reports To**: Grant Merwitz (MD)
-- **Start Date**: [Date]
-- **Location**: [Location]
-- **Key Responsibilities**: Financial management, budgeting, reporting
-- **Performance Status**: [To be assessed]
-- **Current Focus**: [To be determined]
-- **Notes**: Works alongside Fractional CFO
-
 ## Extended Team (Indirect Reports)
-
-### Under Dr Elena Hilton (Cape Town Medical)
-1. **Maria Tam** - Head Nurse - [To be assessed]
-2. **Jasmin Pulanco** - Registered Nurse - [To be assessed]
-3. **Alicia Reihill** - Registered Nurse - [To be assessed]
-4. **Maria Vega** - Registered Nurse - [To be assessed]
-5. **Cecille Raran** - Perm Locum - [To be assessed]
-6. **Michelle Ynceriterto** - Assistant Locum - [To be assessed]
-7. **Mel Ducao** - Assistant Locum - [To be assessed]
 
 ### Under Founders Associate (VACANT - Interim Management Required)
 1. **Wendy Denning** - Consultant - [To be assessed]
@@ -105,11 +76,9 @@
 
 | Person | Frequency | Last Meeting | Next Meeting | Priority Topics |
 |--------|-----------|--------------|--------------|-----------------|
-| Dr Elena Hilton | [To set] | | | Cape Town operations, team performance |
 | Dr Ismaeel Ebrahim | [To set] | | | London operations, team performance |
 | Kyle Bennett | [To set] | | | Practice operations, facilities |
 | Yaseen Harneker | [To set] | | | Operational strategy, process improvement |
-| Alida Wiese | [To set] | | | Financial performance, budgets |
 
 ## Team Health Indicators
 
@@ -120,4 +89,4 @@
 
 ---
 
-*Last Updated: 2026-01-23*
+*Last Updated: 2026-02-25*
