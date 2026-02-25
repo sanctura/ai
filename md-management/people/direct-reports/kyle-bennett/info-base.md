@@ -1,7 +1,7 @@
 # Kyle Bennett - Information Base
 
-**Last Updated**: 2026-02-15
-**Quick Status**: Promising early performer — strong operational output in first two flash reports, proactive on systems and training. Recurring concern around nursing team unity needs attention.
+**Last Updated**: 2026-02-25
+**Quick Status**: Solid operational performer — three weeks of consistent output. Nursing team leadership concern now flagged three consecutive weeks with escalating language — requires formal 1:1 discussion urgently.
 
 ---
 
@@ -13,8 +13,9 @@
 **Next Review Due**: TBC
 
 **Current Concerns**:
-- Nursing team defragmentation / lack of unity — flagged in both flash reports (2026-02-06 and 2026-02-13), escalating language (added "leadership, control & communication" in week 2)
-- Lack of clarity on inventory, supplier and stock processes — flagged 2026-02-13
+- Nursing team defragmentation / lack of unity — flagged in THREE consecutive flash reports (2026-02-06, 2026-02-13, 2026-02-20), language escalating each week (now accompanied by patient complaints and nursing roster expectations) — NEEDS 1:1 DISCUSSION
+- Lack of clarity on inventory, supplier and stock processes — flagged 2026-02-13; stock count on Xero is a stated focus for next week
+- Patient complaints flagged for first time in 2026-02-20 flash report
 
 **Recent Wins** (last 30 days):
 - Implemented bi-weekly SA Ward Rounds for greater efficiency (2026-02-06)
@@ -23,6 +24,8 @@
 - Defibrillator serviced, emergency trolley recon, assembled new endolaser trolley (2026-02-06)
 - Generated new protocol quotes, learned Xero product/pricing setup (2026-02-13)
 - Resolved multiple operational challenges relating to stock/suppliers (2026-02-13)
+- Corrected Xero invoicing errors (2026-02-20)
+- Dealt with urgent operational matters (2026-02-20)
 
 ---
 
@@ -31,12 +34,12 @@
 | Type | Last Date | Summary |
 |------|-----------|---------|
 | 1:1 | — | No 1:1 notes on file yet |
-| Flash Report | 2026-02-13 | Protocol quotes, Xero learning, stock/supplier challenges. Nursing team issues recurring. |
+| Flash Report | 2026-02-20 | Urgent operational matters, Xero invoicing errors corrected. Nursing concern third consecutive week — now includes patient complaints and roster expectations. |
 | Informal Check-in | — | — |
 
 **Frequency**:
 - 1:1 cadence: Weekly (Monday)
-- Flash report submission rate: 2 of 2 weeks (100%)
+- Flash report submission rate: 3 of 3 weeks (100%)
 - Unplanned escalations (last 30 days): 0
 
 ---
@@ -63,10 +66,12 @@
 ## 4. Task & Assignment Tracking
 
 **Open Assignments**:
-- [ ] Lead Conversion Management and CRM integration — flagged in both flash reports as next focus
+- [ ] Lead Conversion Management and CRM integration — flagged in three flash reports (not yet started)
 - [ ] Pharmacy order and cleanliness — ongoing
-- [ ] Understanding new financial structure and processes — flagged 2026-02-13
+- [ ] Understanding new financial structure and processes — flagged 2026-02-13, still focus for next week
 - [ ] Pricing of Products and Services (Medprax) — flagged 2026-02-06
+- [ ] Stock count on Xero — flagged 2026-02-20 as next week focus
+- [ ] Address nursing team leadership / patient complaints — requires Grant-led 1:1 discussion
 
 **Recently Completed** (last 30 days):
 - [x] Bi-weekly SA Ward Rounds implementation (2026-02-06)
@@ -109,26 +114,26 @@
 
 ## 6. Flash Report Trends
 
-**Submission Rate**: 2 of 2 weeks (100%)
-**Reports on file**: 2 (2026-02-06, 2026-02-13)
+**Submission Rate**: 3 of 3 weeks (100%)
+**Reports on file**: 3 (2026-02-06, 2026-02-13, 2026-02-20)
 
 **Recurring Themes**:
-- Accomplishments: Systems implementation, training rollout, equipment maintenance, financial tool adoption
-- Blockers: Nursing team defragmentation (flagged 2 consecutive weeks, escalating), process clarity gaps
-- Asks: "Nothing urgent for now" (both weeks) — low-maintenance but may not be surfacing needs
+- Accomplishments: Systems implementation, training rollout, equipment maintenance, financial tool adoption, Xero corrections
+- Blockers: Nursing team leadership/unity (flagged 3 consecutive weeks, escalating each report — now includes patient complaints), process clarity gaps, stock availability
+- Asks: "Nothing urgent for now" (all three weeks) — low-maintenance but may not be surfacing needs
 
-**Sentiment Trend**: Positive and productive. No urgent asks. Consistent pattern of getting things done. Blocker language escalating around nursing team (from "defragmentation" to adding "leadership, control & communication").
+**Sentiment Trend**: Positive and productive. No urgent asks. Consistent pattern of getting things done. Nursing team blocker language has escalated progressively across three reports — from "defragmentation" to "leadership, control & communication" to now including patient complaints and roster expectations. This is a pattern requiring direct intervention.
 
 ---
 
 ## 7. Concerns & Patterns
 
 **Active Concerns**:
-1. **Nursing team defragmentation / unity**
+1. **Nursing team defragmentation / unity / patient complaints**
    - First observed: 2026-02-06
-   - Occurrences: 2 consecutive flash reports — language escalating (added leadership/communication in week 2)
+   - Occurrences: 3 consecutive flash reports — language escalating each week (week 1: "defragmentation"; week 2: added "leadership, control & communication"; week 3: added patient complaints, nursing roster expectations)
    - Addressed: Not yet discussed in 1:1 (no 1:1 notes on file)
-   - Status: Needs attention — discuss in next Monday 1:1
+   - Status: ESCALATING — must be addressed in next Monday 1:1. Three-week pattern without intervention is a risk.
 
 2. **Unsigned contract for new responsibilities**
    - First observed: 2026-02-15 (from Yaseen background notes)
@@ -185,7 +190,7 @@
 | Profile | `profile.md` |
 | Performance Log | `performance.md` |
 | 1:1 Notes | `one-on-ones/` (none yet) |
-| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-13.md` |
+| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-13.md`, `flash-reports/2026-02-20.md` |
 | Documents | `documents/practice-manager-job-spec-cpt.md` |
 
 ---

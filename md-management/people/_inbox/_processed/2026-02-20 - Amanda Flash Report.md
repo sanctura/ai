@@ -1,3 +1,9 @@
+<!-- PROCESSED: 2026-02-25
+Routed to: people/direct-reports/amanda-ross/flash-reports/2026-02-20.md
+             people/direct-reports/amanda-ross/performance.md (3 entries: [achievement], [concern], [observation])
+Info-base updated: Section 1 (Recent Wins, Current Concerns), Section 2 (Last Flash Report, submission rate), Section 4 (Open Assignments), Section 6 (Flash Report Trends), Section 10 (Source Files)
+-->
+
 **What I accomplished this week:**
 
 -   Learned stock and supplier bill management on Xero, stock updated
@@ -5,7 +11,7 @@
 -   Quotes being issued promptly to new patients once protocols are received.
 -   Scheduled BLS training.
 -   Secured exhibition stand for IPM Conference.
--   Resolved urgent Burg stock issue with Maria’s support - look forward to Mo assisting with improving processes
+-   Resolved urgent Burg stock issue with Maria's support - look forward to Mo assisting with improving processes
 
 **Challenges or blockers:**
 
@@ -23,4 +29,4 @@
 **Anything I need from you**
 
 -   not too urgent - Help progressing patient leaflets with marketing when time allows.
--   Guidance on curved screen selection ahead of James’ return.
+-   Guidance on curved screen selection ahead of James' return.

@@ -10,6 +10,14 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+### 2026-02-20 `[achievement]`
+Flash report (week ending 2026-02-20): Concluded Hydrovitality handover with Mohammed including email introductions. Substantial chemo application progress — pharmaceutical company meeting, PAIA payment made, building plans received, DoH engagement, architect engagement, regulations gathered. London project costs finalised with Ricardo. Hyperthermia medical funding application: coding requirements investigated, additional research articles reviewed, meeting secured with More Core and Dr Minnaar, HTA requirements obtained from Discovery and Medscheme. No blockers reported. Strong and broad project output.
+*(Source: flash report)*
+
+### 2026-02-20 `[observation]`
+Dr Hari referral fee agreement close to completion for second consecutive week — follow-up email sent, awaiting response from Dr Hari's room. London project payment still to be finalised. Both items approaching closure but dependent on third-party response.
+*(Source: flash report)*
+
 ### 2026-02-15 `[concern]`
 Grant documenting historical concerns about Yaseen's operational tenure as COO. Multiple employees hired without signed contracts: unit manager (hired ~2 months ago, contract still unsigned), Dr Ismaeel Ebrahim (contract incomplete), Kyle Bennett (new responsibilities, contract incomplete). When Kyle was promoted to Practice Manager, Yaseen was supposed to create 3-month expectations to track performance — this was never done, and the 3 months have now passed with no documented assessment. *(Source: Grant observation)*
 
@@ -52,4 +60,4 @@ Challenge flagged: quantifying chemo patients and referrals for chemo applicatio
 
 ---
 
-*Last Updated: 2026-02-15*
+*Last Updated: 2026-02-25*

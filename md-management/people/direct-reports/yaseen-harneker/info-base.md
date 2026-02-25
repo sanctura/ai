@@ -1,7 +1,7 @@
 # Yaseen Harneker - Information Base
 
-**Last Updated**: 2026-02-15
-**Quick Status**: Under close scrutiny — serious historical concerns from COO tenure (unsigned contracts, poor handover, inefficient processes). Showing early signs of stepping up in CPO role. Board denied inflation increase. Performance conversation pending.
+**Last Updated**: 2026-02-25
+**Quick Status**: Delivering well in CPO role — third strong flash report, broadening project scope (Hydrovitality handover complete, chemo application progressing, hyperthermia funding application gaining momentum). Historical concerns from COO tenure remain unaddressed. Performance/no-increase conversation still pending.
 
 ---
 
@@ -20,6 +20,10 @@
 - Invoicing inefficiency under his watch (UK and SA) — potentially significant lost revenue — first noted 2026-02-15
 
 **Recent Wins** (last 30 days):
+- Hydrovitality handover to Mohammed concluded — email introductions complete (2026-02-20)
+- Chemo application: pharmaceutical company meeting, PAIA payment made, building plans received, DoH and architect engagement, regulations gathered (2026-02-20)
+- Hyperthermia medical funding application: NAPPI/NHRPL coding investigated, research articles reviewed, meeting secured with More Core and Dr Minnaar, HTA requirements obtained from Discovery and Medscheme (2026-02-20)
+- London project costs finalised with Ricardo (2026-02-20)
 - Chemo application making solid progress — architect meeting, DoH engagement, PAIA request, pharmaceutical company appointment secured (2026-02-13)
 - Grant handover completed (2026-02-06)
 - MDT and Medical board handover to Elena completed (2026-02-06)
@@ -27,7 +31,6 @@
 - HBOT gas query resolved (2026-02-06)
 - Dr Hari referral fee agreement close to completion (2026-02-13)
 - mEHT motivation templates shared with Dr Ismaeel (2026-02-13)
-- London project costs reviewed for Ricardo (2026-02-13)
 - Accommodated feedback on flash report format (challenges/blockers section) (2026-02-13)
 
 ---
@@ -37,12 +40,12 @@
 | Type | Last Date | Summary |
 |------|-----------|---------|
 | 1:1 | — | No formal 1:1 notes on file yet |
-| Flash Report | 2026-02-13 | Chemo application progress, mEHT templates, Dr Hari agreement, London costs review. No blockers reported. |
+| Flash Report | 2026-02-20 | Hydrovitality handover complete. Chemo application progress (pharma meeting, PAIA payment, building plans). Hyperthermia funding application gaining momentum (More Core meeting secured). No blockers reported. |
 | Informal Check-in | 2026-02-15 | Grant documenting background context and historical concerns |
 
 **Frequency**:
 - 1:1 cadence: Weekly (Tuesday)
-- Flash report submission rate: 2 of 2 weeks (100%)
+- Flash report submission rate: 3 of 3 weeks (100%)
 - Unplanned escalations (last 30 days): 0
 
 ---
@@ -70,10 +73,11 @@
 ## 4. Task & Assignment Tracking
 
 **Open Assignments**:
-- [ ] Chemo application — major project: writing, pharmaceutical company meeting, PAIA follow-up, plan availability
-- [ ] Dr Hari referral fee agreement — close to completion, awaiting Dr Hari's response
-- [ ] Hydrovitality handover to Mohammed — check availability to finalise
-- [ ] Performance conversation re: no inflation increase — Grant to schedule
+- [ ] Chemo application — ongoing: metrics gathering, continued writing, outstanding information tracking (2026-02-20)
+- [ ] Hyperthermia medical funding application — meeting with More Core and Dr Minnaar next week; assessment writing; costing calculations (2026-02-20)
+- [ ] Dr Hari referral fee agreement — follow-up email sent, awaiting response; target: complete (2026-02-20)
+- [ ] London project payment — costs finalised with Ricardo, payment to be finalised (2026-02-20)
+- [ ] Performance conversation re: no inflation increase — Grant to schedule (pending)
 
 **Recently Completed** (last 30 days):
 - [x] Handover to Grant completed (2026-02-06)
@@ -83,6 +87,8 @@
 - [x] Chemo application pre-work: architect appointment, DoH engagement, regulations review, PAIA request (2026-02-06 to 2026-02-13)
 - [x] mEHT motivation templates shared with Dr Ismaeel (2026-02-13)
 - [x] London project costs reviewed for Ricardo (2026-02-13)
+- [x] Hydrovitality handover to Mohammed concluded — email introductions complete (2026-02-20)
+- [x] HTA requirements obtained from Discovery and Medscheme for hyperthermia application (2026-02-20)
 
 **Patterns**:
 - On-time completion: Good on current project work — delivering consistently on chemo application milestones
@@ -117,15 +123,15 @@
 
 ## 6. Flash Report Trends
 
-**Submission Rate**: 2 of 2 weeks (100%)
-**Reports on file**: 2 (2026-02-06, 2026-02-13)
+**Submission Rate**: 3 of 3 weeks (100%)
+**Reports on file**: 3 (2026-02-06, 2026-02-13, 2026-02-20)
 
 **Recurring Themes**:
-- Accomplishments: Chemo application progress (dominant theme), handovers, regulatory engagement, stakeholder coordination
-- Blockers: Chemo patient quantification (week 1), none (week 2) — low blocker reporting
-- Asks: Automated chemo patient data (week 1), none (week 2)
+- Accomplishments: Chemo application progress (dominant theme, every report), handovers and closures, regulatory engagement, hyperthermia funding application now emerging as second major thread
+- Blockers: Chemo patient quantification (week 1), none (weeks 2 and 3) — consistently low blocker reporting
+- Asks: Automated chemo patient data (week 1), none (weeks 2 and 3)
 
-**Sentiment Trend**: Professional and focused. Week 2 note about accommodating feedback on flash report format shows responsiveness. Content is project-heavy and structured. No signs of disengagement in written reports.
+**Sentiment Trend**: Professional, focused, and broadening scope. Three consecutive reports with no blockers and no asks — positive engagement signal. Hyperthermia funding application appearing as a significant second project stream alongside chemo application. Hydrovitality handover now complete.
 
 ---
 
@@ -223,7 +229,7 @@
 | Profile | `profile.md` |
 | Performance Log | `performance.md` |
 | 1:1 Notes | `one-on-ones/` (none yet) |
-| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-13.md` |
+| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-13.md`, `flash-reports/2026-02-20.md` |
 | Documents | `documents/` |
 
 ---

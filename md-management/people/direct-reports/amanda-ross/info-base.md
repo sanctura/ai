@@ -1,7 +1,7 @@
 # Amanda Ross - Information Base
 
-**Last Updated**: 2026-02-15
-**Quick Status**: Needs Improvement — pattern of missed tasks and poor communication on blockers continues despite expectations session. Flash report missed week of 2026-02-13. CEO remains frustrated.
+**Last Updated**: 2026-02-25
+**Quick Status**: Mixed — flash report submitted this week showing strong operational output (Xero, BLS, IPM Conference, Burg stock). Second receptionist vacancy remains critical blocker. Reception interviews are priority next week. Asks outstanding: curved screen guidance and patient leaflets.
 
 ---
 
@@ -20,6 +20,7 @@
 - Sits at reception instead of working the floor — expectation set 2026-02-11, currently complying
 
 **Recent Wins** (last 30 days):
+- Flash report submitted week of 2026-02-20: strong output (Xero stock/supplier learning, invoicing errors minimal, BLS training scheduled, IPM Conference exhibition stand secured, Burg stock resolved)
 - Flash report submitted week of 2026-02-06: strong content (Saba onboarding, invoicing rollout, heating fix)
 - Complying with floor presence directive — not sitting at reception as requested (2026-02-13)
 - Nursing roster supplied on time (2026-02-11)
@@ -35,12 +36,12 @@
 | Type | Last Date | Summary |
 |------|-----------|---------|
 | 1:1 | 2026-02-11 | Expectations-setting session — positives acknowledged, floor presence, snag list, Asana work board introduced |
-| Flash Report | 2026-02-06 | Submitted: Saba onboarding, invoicing rollout, CQC delays. Missed 2026-02-13 (off Friday). |
+| Flash Report | 2026-02-20 | Submitted: Xero stock/supplier learning, invoicing minimal errors, BLS training, IPM Conference stand, Burg stock resolved. Vacancy blocker ongoing. |
 | Informal Check-in | 2026-02-13 | Grant observation notes — positive and concerning items |
 
 **Frequency**:
 - 1:1 cadence: Weekly (Wednesday)
-- Flash report submission rate: 1 of 2 weeks (50%) — missed week 2 due to Friday absence
+- Flash report submission rate: 2 of 3 weeks (67%) — missed week of 2026-02-13 (off Friday)
 - Unplanned escalations (last 30 days): 0
 
 ---
@@ -90,8 +91,12 @@
 - [ ] Invoicing system go-live — continue supporting team confidence
 - [ ] Clinical Governance meeting prep — agenda, information collation
 - [ ] Saba ongoing training — working with Lexee
-- [ ] **Second receptionist replacement** — hire urgently, previous resigned within 2 weeks (assigned 2026-02-18, URGENT)
+- [ ] **Second receptionist replacement** — reception interviews flagged as top priority for week of 2026-02-24 (assigned 2026-02-18, URGENT — still open)
 - [ ] **Lexee role clarification** — assist in defining Lexee's role (receptionist/PA/liaison clarity) (assigned 2026-02-18, URGENT)
+- [ ] Snag list — create and action items (stated focus for week of 2026-02-24 — track for accountability)
+- [ ] Work with Maria V on patient management processes (stated focus for week of 2026-02-24)
+- [ ] Patient leaflets — awaiting Grant/marketing input (ask from Amanda, not urgent)
+- [ ] Curved screen selection — guidance needed ahead of James' return (ask from Amanda)
 
 **Recently Completed** (last 30 days):
 - [x] Flash report submission process — first report submitted 2026-02-06
@@ -134,15 +139,15 @@
 
 ## 6. Flash Report Trends
 
-**Submission Rate**: 1 of 2 weeks (50%) — missed 2026-02-13 due to Friday absence
-**Reports on file**: 1 (2026-02-06)
+**Submission Rate**: 2 of 3 weeks (67%) — missed 2026-02-13 due to Friday absence
+**Reports on file**: 2 (2026-02-06, 2026-02-20)
 
 **Recurring Themes**:
-- Accomplishments: Onboarding, invoicing system, facilities fixes
-- Blockers: Busy weeks causing delays to planned work (CQC policies)
-- Asks: Contract decisions (Maria Vega)
+- Accomplishments: Onboarding, invoicing system, facilities fixes, Xero learning, training/events, stock resolution
+- Blockers: Ongoing second receptionist vacancy reducing management time; nursing team time awareness affecting hyperthermia/HBOT session flow
+- Asks: Contract decisions (Maria Vega); patient leaflets; curved screen guidance
 
-**Sentiment Trend**: Positive and engaged in submitted report. Closing line "Looking forward to welcoming you to the London Clinic" shows warmth.
+**Sentiment Trend**: Positive and constructive in submitted reports. Content in 2026-02-20 report shows good breadth and initiative (BLS, IPM Conference, Xero). Ongoing vacancy is a legitimate structural blocker she cannot resolve alone.
 
 ---
 
@@ -230,7 +235,7 @@
 | Profile | `profile.md` |
 | Performance Log | `performance.md` |
 | 1:1 Notes | `one-on-ones/2026-02-11.md` |
-| Flash Reports | `flash-reports/2026-02-06.md` |
+| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-20.md` |
 | Documents | `documents/` |
 | Updates | `updates/2026-02-11-*.md` (5 files: role expectations, work board tasks, post-meeting email, walkthrough checklist, role expectations attachment) |
 

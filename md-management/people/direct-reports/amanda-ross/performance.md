@@ -10,6 +10,18 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+### 2026-02-20 `[achievement]`
+Flash report (week ending 2026-02-20): Learned stock and supplier bill management on Xero with stock now updated; invoicing errors now minimal; quotes being issued promptly to new patients; scheduled BLS training; secured exhibition stand for IPM Conference; resolved urgent Burg stock issue with Maria's support. Strong operational output across multiple workstreams.
+*(Source: flash report)*
+
+### 2026-02-20 `[concern]`
+Ongoing second reception vacancy continues to reduce Amanda's available time for management priorities — she is covering front desk as needed. Also reinforcing time awareness with nursing team to reduce delays to hyperthermia/HBOT sessions. Reception interviews are a top priority for next week.
+*(Source: flash report)*
+
+### 2026-02-20 `[observation]`
+Asks from Amanda: guidance on curved screen selection ahead of James' return, and help progressing patient leaflets with marketing. Snag list creation and actioning is a stated focus for next week — useful to track for accountability.
+*(Source: flash report)*
+
 ### 2026-02-18 `[observation]`
 Grant held a skip-level check-in with Lexee Duval (London receptionist, reports to Amanda). Lexee disclosed significant emotional stress, burnout risk, and role confusion — her role has expanded informally (receptionist/PA/client liaison) without clarity. Second receptionist resigned within two weeks. Grant tasked Amanda with: (1) urgently driving a replacement second receptionist hire, and (2) assisting in clarifying Lexee's role. These are priority items. *(Source: Grant check-in with Lexee)*
 
@@ -61,4 +73,4 @@ Handover from Yaseen (batch 2) — facilities items: lift shaft cleaning (done, 
 
 ---
 
-*Last Updated: 2026-02-15*
+*Last Updated: 2026-02-25*
