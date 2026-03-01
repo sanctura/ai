@@ -10,6 +10,21 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+<<<<<<< HEAD
+=======
+### 2026-02-27 `[achievement]`
+Flash report (week ending 2026-02-27): Secured a fixed-term receptionist and interviewed five candidates for the full-time role. Resolved hyperthermia issue, updated Xero stock records with Mo, completed living wall installation, and cleared out storage cupboards ahead of large-item waste collection. Solid operational progress across multiple workstreams.
+*(Source: flash report)*
+
+### 2026-02-27 `[concern]`
+Credit card payment limits continue to restrict purchasing of clinic improvement items (shelving, curved screen for James' room) — forces prioritisation of core supplies over improvements and creates delays. Blocker is structural; Amanda is escalating via the correct channel (ask to resolve Revolut account or find alternative).
+*(Source: flash report)*
+
+### 2026-02-27 `[observation]`
+Next week focus includes onboarding the new receptionist, HILOTHERM installation and pricing plan (with Maria V), governance meeting agenda prep, and Xero pricing updates. Asks: support with Revolut account setup via Ricardo or alternative spending limit solution.
+*(Source: flash report)*
+
+>>>>>>> 8816e56 (ai)
 ### 2026-02-20 `[achievement]`
 Flash report (week ending 2026-02-20): Learned stock and supplier bill management on Xero with stock now updated; invoicing errors now minimal; quotes being issued promptly to new patients; scheduled BLS training; secured exhibition stand for IPM Conference; resolved urgent Burg stock issue with Maria's support. Strong operational output across multiple workstreams.
 *(Source: flash report)*
@@ -73,4 +88,8 @@ Handover from Yaseen (batch 2) — facilities items: lift shaft cleaning (done, 
 
 ---
 
+<<<<<<< HEAD
 *Last Updated: 2026-02-25*
+=======
+*Last Updated: 2026-02-28*
+>>>>>>> 8816e56 (ai)

@@ -8,7 +8,9 @@ PayStream has sent Sanctura two documents to execute:
 1. **Master Agreement** - Terms of Business for the Supply of Workers to Hirers (14-page standard contract)
 2. **Assignment Schedule** - Template to be completed with Mo's specific engagement details
 
-These documents are with Lauren for review before signing.
+Lauren reviewed the Master Agreement on 27 February 2026 and confirmed it is standard with no concerns. The agreement is ready for Sanctura to sign.
+
+**Note:** Lauren confirmed that no separate agreement between Sanctura and Mo is required, as Mo is employed via the umbrella company. However, Mo must still be onboarded, receive appropriate training, and comply with the same policies and procedures as other Sanctura workers.
 
 ## Commercial Terms
 
@@ -17,13 +19,14 @@ These documents are with Lauren for review before signing.
 | Engagement Type | Via PayStream umbrella company (inside IR35) |
 | Umbrella Company | PayStream My Max 3 Limited |
 | Mo's Rate | £49/hour |
-| Total Fee (Sanctura to PayStream) | TBC - will include Mo's rate + employer NI, pension, holiday pay, and PayStream margin |
+| Total Fee (Sanctura to PayStream) | £49/hour + VAT (20%) — confirmed by first invoice (27 Feb 2026) |
 | Notice Period | 2 weeks (to be confirmed on Assignment Schedule) |
 | Start Date | 10 February 2026 |
 | End Date | 10 May 2026 (3-month fixed term) |
 | Weekly Hours | Up to 15 hours (with flexibility) |
-| Invoice Frequency | Monthly (to be confirmed) |
-| Expenses | To be confirmed on Assignment Schedule |
+| Invoice Frequency | Monthly |
+| Expenses | No |
+| Place of Work | 23-24 Newman Street, Fitzrovia, London, W1T 1PJ |
 
 ## How This Works
 
@@ -41,7 +44,7 @@ The v4 direct contract is now superseded, but its terms informed the engagement 
 
 ## Key Implications of Umbrella Arrangement
 
-- **Cost to Sanctura will be higher** than the direct £49/hour rate, as the Fee must cover employment overheads and PayStream's margin
+- **Cost to Sanctura is £49/hour + VAT** (£58.80/hour gross) — the umbrella rate is the same as Mo's rate, with VAT on top
 - **Sanctura's contract is with PayStream**, not directly with Mo
 - **Employment risk sits with PayStream**, not Sanctura
 - **IR35 compliance is addressed** - Mo is employed by PayStream and taxed via PAYE
@@ -55,6 +58,7 @@ The v4 direct contract is now superseded, but its terms informed the engagement 
 
 ## Engagement Philosophy
 
+The engagement is framed as:
 The engagement is framed as:
 - **Senior, embedded consulting** - not ad-hoc or transactional
 - Designed to deliver leadership leverage, operational clarity, and regulatory confidence

@@ -31,8 +31,10 @@ Working documents and updated data files. CSVs are versioned exports from the Go
 | File | Contents |
 |------|----------|
 | `Proposal To Be Sent to Directors - V5.csv` | Approved master spreadsheet (V5) with all staff, recommendations, and calculations |
+| `Proposal To Be Sent to Directors - V5.csv` | Approved master spreadsheet (V5) with all staff, recommendations, and calculations |
 | `2026-02-06_JamesFirstFeedback.txt` | CEO feedback on initial proposal |
 
+Earlier CSV versions (V1-V4) are retained for history.
 Earlier CSV versions (V1-V4) are retained for history.
 
 ### `/outputs/`
@@ -50,15 +52,18 @@ Final deliverables for distribution. Date-prefixed (`yyyy-mm-dd`) for version hi
 
 - **Review deadline**: End of February 2026
 - **Effective date**: March 2026 (financial year start)
-- **Status**: Approved by Directors on 12 February 2026
-- **Standard rates**: South Africa **7%**, United Kingdom **4%**
-- **Exceptions**: Lexee Duval at **17%** (align with new receptionist, ~£33k pa); Sweetness Twalo at **28%** (CEO discretion, low salary + long tenure)
+- **Status**: UK increases proceeding March 2026; SA increases deferred (revenue below forecast)
+- **Standard rates**: South Africa **7%** (deferred), United Kingdom **4%**
+- **UK exceptions**: Maria Tam at **18%** (role responsibility uplift); Lexee Duval at **17%** (align with new receptionist, ~£33k pa)
 - **Pro-rata 2%**: London nurses <6 months (Alicia Reihill, Jasmin Pulanco)
-- **Special cases at 0%**: Yaseen Harneker (KPI-based), Dr Ismaeel Ebrahim, Kyle Bennett, Nuhaa Peterson
+- **SA exception proceeding**: Kyle Bennett at **5%** (taking on CPT nursing line management)
+- **SA deferred**: Candice Henri, Ferdinand Cho Muluh, Carel Louw, Janine Nathan, Jesse Sass (all 7%), Sweetness Twalo (28%)
+- **Special cases at 0%**: Yaseen Harneker (KPI-based), Dr Ismaeel Ebrahim, Nuhaa Peterson
 - **Removed**: Rasa Elvis Soki (James's personal gardener, not a company employee)
 - **Eligibility**: Staff with >6 months service, not on probation
-- **Total annual cost**: £11,213 + R177,678
-- **Source of truth**: [Google Sheet](https://docs.google.com/spreadsheets/d/14CTOWKv_aNJ3FnmhDuXGdSfvkXo8tjG3EENFmEk1Lno/edit?gid=0#gid=0)
+- **Total annual cost proceeding**: £18,913 + R34,587 (Kyle only)
+- **Total annual cost deferred (SA)**: R177,678
+- **Source of truth**: [Google Sheet V6](https://docs.google.com/spreadsheets/d/14CTOWKv_aNJ3FnmhDuXGdSfvkXo8tjG3EENFmEk1Lno/edit?gid=0#gid=0)
 - **Deferred to March**: KPI/incentive framework, James's own remuneration, consulting fees on Xero
 
 ## Working with This Repository

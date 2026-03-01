@@ -10,11 +10,13 @@
 
 ## Open: PayStream / Commercial
 
-- [ ] **Total Fee to PayStream** - Sanctura's hourly cost (Mo's £49 + employer NI, pension, holiday pay, PayStream margin) - needs to be confirmed and entered on Assignment Schedule
-- [ ] **Lauren review of PayStream Master Agreement** - Standard terms of business, 14 pages. Need Lauren to review and confirm acceptable
-- [ ] **Employment claim reimbursement clause** - PayStream contract likely includes a clause requiring the Hirer to reimburse costs if Mo brings an employment claim against Sanctura. Lauren should comment on this
+- [x] ~~**Total Fee to PayStream**~~ - **£49/hour + VAT (20%).** Confirmed by first invoice (985107, 27 Feb 2026): 45 hrs x £49 = £2,205 net + £441 VAT = £2,646 gross. The umbrella rate to Sanctura is the same as Mo's rate
+- [x] ~~**Lauren review of PayStream Master Agreement**~~ - **Reviewed 27 Feb 2026.** Lauren confirmed the agreement is "very standard" with no concerns
+- [x] ~~**Employment claim reimbursement clause**~~ - **Standard clause** commonly included in umbrella company agreements per Lauren (27 Feb 2026)
 - [ ] **Correct contact email on PayStream contract** - Check what email/contact details PayStream has for Sanctura and ensure they're correct
-- [ ] **Decision on supplementary engagement letter with Mo** - Whether Sanctura should have a separate direct letter with Mo covering scope, deliverables, and ways of working (the PayStream contract only covers the commercial/employment wrapper)
+- [x] ~~**Decision on supplementary engagement letter with Mo**~~ - **Not required.** Lauren confirmed no separate agreement is needed as Mo is employed via the umbrella company (27 Feb 2026)
+- [ ] **Sign PayStream Master Agreement** - Lauren review complete, ready to sign. Kinari asked to proceed (27 Feb 2026)
+- [ ] **Onboard Mo per Sanctura policies** - Lauren advises Mo must be onboarded, receive appropriate training, and comply with the same policies and procedures as other workers (despite being employed via PayStream)
 
 ## Open: Operational Setup
 

@@ -16,11 +16,14 @@ This folder contains the structured background information and planning document
 
 ## Current Status
 
-**Stage:** PayStream umbrella contract received - awaiting Lauren's review
+**Stage:** PayStream onboarding in progress — Kinari completing forms
 
-**Latest Update:** Mo is engaging via PayStream My Max 3 Limited (umbrella company), confirming inside IR35 as expected. PayStream has sent Sanctura a Master Agreement (Terms of Business) and an Assignment Schedule template to complete. These need Lauren's review before signing.
+**Latest Update (27 Feb 2026):** Lauren reviewed and approved the PayStream Master Agreement. First invoice received (£2,205 + VAT for 45 hours in February). Kinari asked to sign the Master Agreement, complete the Assignment Schedule, and update PayStream's records. Scope of work provided.
 
-**Next Action:** Send PayStream documents to Lauren for review and guidance
+**Next Actions:**
+1. Kinari to sign Master Agreement and complete Assignment Schedule
+2. Update PayStream records (End Client and Client VAT Number currently missing)
+3. Ensure Mo receives formal onboarding, training, and is compliant with Sanctura policies
 
 ## Key Facts Summary
 
@@ -29,9 +32,10 @@ This folder contains the structured background information and planning document
 | Candidate | Mohammed (Mo) Desai |
 | Role Type | Part-time consulting engagement |
 | Engagement Type | Via PayStream umbrella company (inside IR35) |
-| Rate | £49/hour (Mo's rate); total Fee to PayStream TBC |
+| Rate | £49/hour + VAT (confirmed by first invoice, 27 Feb 2026) |
 | Term | 10 February 2026 to 10 May 2026 (3-month fixed term) |
 | Hours | Up to 15 hours/week (with flexibility clause) |
+| Contract Version | v4 direct contract now superseded by umbrella arrangement |
 | Contract Version | v4 direct contract now superseded by umbrella arrangement |
 | CEST Result | Unable to determine (4 Feb 2026) |
 
@@ -46,6 +50,8 @@ This folder contains the structured background information and planning document
 
 - `/new-information/My Max 3 Client Contract - Sanctura Limited.pdf` - PayStream Master Agreement (Terms of Business for Supply of Workers to Hirers), 14 pages
 - `/new-information/Client Assignment schedule template - Sanctura Limited.docx.md` - Assignment Schedule template to be completed with Mo's engagement details
+- `/new-information/2026-02-27-lauren-paystream-review-response.md` - Lauren's review confirming Master Agreement is standard and acceptable
+- `/new-information/Invoice_4094596_16836283_20260227.pdf` - First PayStream invoice (45 hrs x £49 = £2,205 + VAT, period ending 27 Feb 2026)
 
 ## Contract Documents
 
@@ -54,6 +60,7 @@ This folder contains the structured background information and planning document
 | v1 | `/contract/consultancy-agreement-draft-v1.md` | Superseded - initial draft sent to HR |
 | v2 | `/contract/consultancy-agreement-draft-v1-feedback-doc.md` | Superseded - HR feedback (Lauren's tracked changes) |
 | v3 | `/contract/consultancy-agreement-draft-v3.md` | Superseded - incorporated HR feedback |
+| v4 | `/contract/consultancy-agreement-draft-v4.md` | Superseded - was approved by Mo, now replaced by umbrella arrangement |
 | v4 | `/contract/consultancy-agreement-draft-v4.md` | Superseded - was approved by Mo, now replaced by umbrella arrangement |
 
 Supporting documents:
