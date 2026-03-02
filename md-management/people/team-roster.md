@@ -42,6 +42,26 @@
 - **Current Focus**: [To be determined]
 - **Notes**: Senior leadership role - owns complex, multi-stakeholder strategic projects
 
+### Maria Vega
+- **Role**: [Title]
+- **Reports To**: Grant Merwitz (MD)
+- **Start Date**: [Date]
+- **Location**: [Location]
+- **Key Responsibilities**: [To be defined]
+- **Performance Status**: [To be assessed]
+- **Current Focus**: [To be determined]
+- **Notes**: [To be added]
+
+### Maria Tam
+- **Role**: [Title]
+- **Reports To**: Grant Merwitz (MD)
+- **Start Date**: [Date]
+- **Location**: [Location]
+- **Key Responsibilities**: [To be defined]
+- **Performance Status**: [To be assessed]
+- **Current Focus**: [To be determined]
+- **Notes**: [To be added]
+
 ## Extended Team (Indirect Reports)
 
 ### Under Founders Associate (VACANT - Interim Management Required)
@@ -79,6 +99,8 @@
 | Dr Ismaeel Ebrahim | [To set] | | | London operations, team performance |
 | Kyle Bennett | [To set] | | | Practice operations, facilities |
 | Yaseen Harneker | [To set] | | | Operational strategy, process improvement |
+| Maria Vega | [To set] | | | [To be determined] |
+| Maria Tam | [To set] | | | [To be determined] |
 
 ## Team Health Indicators
 
@@ -89,4 +111,4 @@
 
 ---
 
-*Last Updated: 2026-02-25*
+*Last Updated: 2026-03-01*

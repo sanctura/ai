@@ -10,8 +10,10 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
-<<<<<<< HEAD
-=======
+### 2026-03-01 `[observation]`
+Sanctura support structure formalised: Maria Tam and Maria Vega now formally report to Amanda for all line management and HR/administrative matters including leave requests and HR documentation. Amanda is responsible for ensuring clinical coverage when leave is requested, liaising with Maria Tam accordingly. Maria Tam retains functional/clinical direction of nursing staff independently of Amanda's administrative line management role.
+*(Source: inbox — Sanctura support structure document)*
+
 ### 2026-02-27 `[achievement]`
 Flash report (week ending 2026-02-27): Secured a fixed-term receptionist and interviewed five candidates for the full-time role. Resolved hyperthermia issue, updated Xero stock records with Mo, completed living wall installation, and cleared out storage cupboards ahead of large-item waste collection. Solid operational progress across multiple workstreams.
 *(Source: flash report)*
@@ -24,7 +26,6 @@ Credit card payment limits continue to restrict purchasing of clinic improvement
 Next week focus includes onboarding the new receptionist, HILOTHERM installation and pricing plan (with Maria V), governance meeting agenda prep, and Xero pricing updates. Asks: support with Revolut account setup via Ricardo or alternative spending limit solution.
 *(Source: flash report)*
 
->>>>>>> 8816e56 (ai)
 ### 2026-02-20 `[achievement]`
 Flash report (week ending 2026-02-20): Learned stock and supplier bill management on Xero with stock now updated; invoicing errors now minimal; quotes being issued promptly to new patients; scheduled BLS training; secured exhibition stand for IPM Conference; resolved urgent Burg stock issue with Maria's support. Strong operational output across multiple workstreams.
 *(Source: flash report)*
@@ -88,8 +89,4 @@ Handover from Yaseen (batch 2) — facilities items: lift shaft cleaning (done, 
 
 ---
 
-<<<<<<< HEAD
-*Last Updated: 2026-02-25*
-=======
-*Last Updated: 2026-02-28*
->>>>>>> 8816e56 (ai)
+*Last Updated: 2026-03-01*

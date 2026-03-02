@@ -1,12 +1,7 @@
 # Amanda Ross - Information Base
 
-<<<<<<< HEAD
-**Last Updated**: 2026-02-25
-**Quick Status**: Mixed — flash report submitted this week showing strong operational output (Xero, BLS, IPM Conference, Burg stock). Second receptionist vacancy remains critical blocker. Reception interviews are priority next week. Asks outstanding: curved screen guidance and patient leaflets.
-=======
-**Last Updated**: 2026-02-28
-**Quick Status**: Positive week — flash report submitted, fixed-term receptionist secured, five full-time candidates interviewed, living wall installed, hyperthermia issue resolved. Credit card spending limits are an ongoing structural blocker. Asks: Revolut account setup via Ricardo or alternative limit solution.
->>>>>>> 8816e56 (ai)
+**Last Updated**: 2026-03-01
+**Quick Status**: Structural update — Sanctura support framework formalised. Maria Tam and Maria Vega now formally report to Amanda for all line management and HR matters. Hiring progress continues; credit card spending limits remain a structural blocker.
 
 ---
 
@@ -25,10 +20,7 @@
 - Sits at reception instead of working the floor — expectation set 2026-02-11, currently complying
 
 **Recent Wins** (last 30 days):
-<<<<<<< HEAD
-=======
-- Flash report submitted week of 2026-02-27: fixed-term receptionist secured, five full-time candidates interviewed, living wall installed, hyperthermia issue resolved, Xero stock updated with Mo
->>>>>>> 8816e56 (ai)
+- Flash report submitted week of 2026-02-27: fixed-term receptionist secured, 5 full-time candidates interviewed, living wall installed, hyperthermia issue resolved, Xero stock updated
 - Flash report submitted week of 2026-02-20: strong output (Xero stock/supplier learning, invoicing errors minimal, BLS training scheduled, IPM Conference exhibition stand secured, Burg stock resolved)
 - Flash report submitted week of 2026-02-06: strong content (Saba onboarding, invoicing rollout, heating fix)
 - Complying with floor presence directive — not sitting at reception as requested (2026-02-13)
@@ -45,20 +37,12 @@
 | Type | Last Date | Summary |
 |------|-----------|---------|
 | 1:1 | 2026-02-11 | Expectations-setting session — positives acknowledged, floor presence, snag list, Asana work board introduced |
-<<<<<<< HEAD
-| Flash Report | 2026-02-20 | Submitted: Xero stock/supplier learning, invoicing minimal errors, BLS training, IPM Conference stand, Burg stock resolved. Vacancy blocker ongoing. |
-=======
 | Flash Report | 2026-02-27 | Submitted: Fixed-term receptionist secured, 5 full-time candidates interviewed, living wall installed, hyperthermia resolved, Xero stock updated. Blocker: credit card limits restricting clinic improvements. Ask: Revolut account / spending limit solution. |
->>>>>>> 8816e56 (ai)
 | Informal Check-in | 2026-02-13 | Grant observation notes — positive and concerning items |
 
 **Frequency**:
 - 1:1 cadence: Weekly (Wednesday)
-<<<<<<< HEAD
-- Flash report submission rate: 2 of 3 weeks (67%) — missed week of 2026-02-13 (off Friday)
-=======
 - Flash report submission rate: 3 of 4 weeks (75%) — missed week of 2026-02-13 (off Friday); submitted all other weeks
->>>>>>> 8816e56 (ai)
 - Unplanned escalations (last 30 days): 0
 
 ---
@@ -72,6 +56,7 @@
 | 2026-02-11 | Asana work board adoption | Developmental | Yes | Set up pending |
 | 2026-02-13 | Exam bed not actioned, failure to communicate blocker | Corrective | Yes — apologised | Monitor |
 | 2026-02-13 | Missed flash report (off Friday, didn't send before leaving) | Corrective | Pending — needs to be addressed |
+| 2026-03-01 | Sanctura support structure formalised — Maria Tam and Maria Vega now formally report to Amanda for line management | Contextual | — | — |
 
 ### Feedback Received (from this person)
 | Date | Topic | Context | Action Taken |
@@ -108,24 +93,17 @@
 - [ ] Invoicing system go-live — continue supporting team confidence
 - [ ] Clinical Governance meeting prep — agenda, information collation
 - [ ] Saba ongoing training — working with Lexee
-<<<<<<< HEAD
-- [ ] **Second receptionist replacement** — reception interviews flagged as top priority for week of 2026-02-24 (assigned 2026-02-18, URGENT — still open)
-=======
 - [ ] **Second receptionist replacement (full-time)** — fixed-term secured (2026-02-27); five full-time candidates interviewed week of 2026-02-27; decision/offer pending
->>>>>>> 8816e56 (ai)
 - [ ] **Lexee role clarification** — assist in defining Lexee's role (receptionist/PA/liaison clarity) (assigned 2026-02-18, URGENT)
 - [ ] Snag list — create and action items (stated focus for week of 2026-02-24 — track for accountability)
 - [ ] Work with Maria V on patient management processes (stated focus for week of 2026-02-24)
 - [ ] Patient leaflets — awaiting Grant/marketing input (ask from Amanda, not urgent)
-<<<<<<< HEAD
-- [ ] Curved screen selection — guidance needed ahead of James' return (ask from Amanda)
-=======
 - [ ] Curved screen selection — to be purchased ahead of James' visit (stated focus week of 2026-03-02)
 - [ ] **Revolut account / spending limit solution** — credit card limits blocking clinic improvements; Amanda asking for support via Ricardo or alternative (ask from 2026-02-27 flash report)
 - [ ] HILOTHERM installation and pricing plan — oversee installation and training, propose pricing with Maria V (stated focus week of 2026-03-02)
 - [ ] Governance meeting agenda — prepare for upcoming meeting (date TBC, stated focus week of 2026-03-02)
 - [ ] Onboard and train new (fixed-term) receptionist — stated focus week of 2026-03-02
->>>>>>> 8816e56 (ai)
+- [ ] **Line management of Maria Tam and Maria Vega** — formalised 2026-03-01; handle all leave requests, HR documentation, and administrative matters for both nurses
 
 **Recently Completed** (last 30 days):
 - [x] Flash report submission process — first report submitted 2026-02-06
@@ -157,10 +135,12 @@
 - **Communication on blockers**: Escalating when stuck rather than going silent — progress: exam bed incident 2026-02-13
 - **Prioritisation**: Working the floor vs sitting at reception — progress: complying as of 2026-02-13
 - **Forward thinking**: Handover planning for days off, anticipating needs — progress: not yet demonstrated
+- **People management**: Now formally responsible for line management of Maria Tam and Maria Vega — new growth area as of 2026-03-01
 
 **Skill Development Timeline**:
 | Date | Milestone |
 |------|-----------|
+| 2026-03-01 | Formal line management of Maria Tam and Maria Vega formalised — new management responsibility |
 | 2026-02-11 | Expectations-setting session held — floor presence, snag list, work board |
 | 2026-02-06 | First flash report submitted — good quality content |
 
@@ -168,17 +148,6 @@
 
 ## 6. Flash Report Trends
 
-<<<<<<< HEAD
-**Submission Rate**: 2 of 3 weeks (67%) — missed 2026-02-13 due to Friday absence
-**Reports on file**: 2 (2026-02-06, 2026-02-20)
-
-**Recurring Themes**:
-- Accomplishments: Onboarding, invoicing system, facilities fixes, Xero learning, training/events, stock resolution
-- Blockers: Ongoing second receptionist vacancy reducing management time; nursing team time awareness affecting hyperthermia/HBOT session flow
-- Asks: Contract decisions (Maria Vega); patient leaflets; curved screen guidance
-
-**Sentiment Trend**: Positive and constructive in submitted reports. Content in 2026-02-20 report shows good breadth and initiative (BLS, IPM Conference, Xero). Ongoing vacancy is a legitimate structural blocker she cannot resolve alone.
-=======
 **Submission Rate**: 3 of 4 weeks (75%) — missed 2026-02-13 due to Friday absence; submitted all other weeks
 **Reports on file**: 3 (2026-02-06, 2026-02-20, 2026-02-27)
 
@@ -188,7 +157,6 @@
 - Asks: Contract decisions (Maria Vega); patient leaflets; curved screen guidance; Revolut account / spending limit solution
 
 **Sentiment Trend**: Positive and constructive in submitted reports. Week of 2026-02-27 report is strong — concrete hiring progress (fixed-term secured, 5 candidates interviewed), operational wins (living wall, hyperthermia, Xero). Blocker is structural (credit card limits) and escalated appropriately. Pattern of good flash report quality when submitted.
->>>>>>> 8816e56 (ai)
 
 ---
 
@@ -226,6 +194,7 @@
 - CEO satisfaction during London visits
 - Communication quality when blocked on tasks
 - Delivery logging and notification
+- Management of Maria Tam and Maria Vega — effectiveness of line management responsibility
 
 ---
 
@@ -234,6 +203,7 @@
 ### Decisions Involving This Person
 | Date | Decision | Rationale | Outcome |
 |------|----------|-----------|---------|
+| 2026-03-01 | Maria Tam and Maria Vega formally report to Amanda for all line management / HR / administrative matters | Sanctura support structure formalised — tight, cohesive unit framework | In effect |
 | 2026-02-13 | Grant considering documented conversation if another incident occurs (strike 3) | Pattern of missed tasks despite expectations session | Pending — monitoring |
 | 2026-02-11 | Set explicit floor walk and reception expectations | CEO feedback + forgetfulness pattern | Complying |
 | 2026-02-11 | Introduce Asana work board | Need structured task tracking | Not started |
@@ -249,13 +219,14 @@
 - Receptionists (Saba + TBC) should man reception independently; Amanda as backup only
 - Grant is frustrated by need to address issues daily — concerned about negative trajectory
 - Maria Vega contract change (fixed to permanent) pending Grant's confirmation
+- **Sanctura Support Structure (2026-03-01)**: Amanda is the line manager for Maria Tam (Head Nurse) and Maria Vega (CPS Nurse) for all personnel and administrative matters including leave and HR documentation. Leave requests from either nurse go directly to Amanda, who then liaises with Maria Tam to ensure clinical coverage. Maria Tam provides functional/clinical direction to administrative and IV nurses — this is separate from Amanda's line management role.
 
 ---
 
 ## 9. Relationship Network
 
 **Reports To**: Grant Merwitz (MD)
-**Direct Reports**: Saba (Receptionist), second receptionist TBC
+**Direct Reports**: Saba (Receptionist), second receptionist TBC, Maria Tam (line management), Maria Vega (line management)
 **Key Stakeholders**:
 - James (CEO) — relationship: strained — frustrated by forgetfulness but acknowledges effort
 - Yaseen (former operational oversight) — handover completed
@@ -264,7 +235,7 @@
 
 **Collaboration Quality**:
 - With CEO: Strained — ongoing frustration despite acknowledged effort
-- With clinical staff: Manages nursing roster, coordinates with Elena's team, invoicing rollout going well
+- With clinical staff: Manages nursing roster, coordinates with Elena's team, invoicing rollout going well; now formally line managing Maria Tam and Maria Vega
 - Cross-location: London-based, limited cross-location interaction
 
 ---
@@ -276,11 +247,7 @@
 | Profile | `profile.md` |
 | Performance Log | `performance.md` |
 | 1:1 Notes | `one-on-ones/2026-02-11.md` |
-<<<<<<< HEAD
-| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-20.md` |
-=======
 | Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-20.md`, `flash-reports/2026-02-27.md` |
->>>>>>> 8816e56 (ai)
 | Documents | `documents/` |
 | Updates | `updates/2026-02-11-*.md` (5 files: role expectations, work board tasks, post-meeting email, walkthrough checklist, role expectations attachment) |
 
