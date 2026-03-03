@@ -1,4 +1,4 @@
-# Maria Vega | CPS Nurse (Cancer Care Specialist) — Role Expectations
+# Maria Vega | Lead Cancer Nurse — Role Expectations
 
 **Purpose:** To manage patient cases through expert coordination and compassionate guidance, acting as the primary clinical link between physicians, the nursing team, and the patients.
 
@@ -7,7 +7,7 @@
 - **Case Management:** Maintain and track patient treatment plans and progress records as designed by the clinic's doctors.
 - **Patient Advocacy:** Explain treatments and symptoms to patients, ensuring they feel settled, informed, and comfortable during their care.
 - **Ward Round Coordination:** Prepare patient cases ahead of weekly ward rounds and coordinate the flow of these clinical reviews.
-- **Treatment Plan Support:** Assist in modifying treatment plans based on physician instructions and proactively clarify any ambiguous clinical directions.
+- **Treatment Plan Support:** Assist in modifying treatment plans only under the instruction or guidance of a GMC-registered Doctor or NMC-registered Nurse (Head Nurse). Proactively clarify any ambiguous clinical directions — do not independently prescribe or alter treatment plans.
 - **Collaborative Liaison:** Maintain constant communication with Maria Tam to align case management with clinical delivery and report to Amanda Ross for administrative matters.
 
 ---

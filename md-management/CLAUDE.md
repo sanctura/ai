@@ -51,10 +51,10 @@ Each person's folder contains:
 | `profile.md` | Role, responsibilities, team managed, retention, development, goals |
 | `performance.md` | Running log of date-stamped observations with category tags |
 | `info-base.md` | Structured information base — compiled database of performance status, feedback register, task tracking, concerns/patterns, decisions, and context. Auto-maintained by inbox-processor agent. |
-| `documents/` | Contracts, JDs, policies, role definitions |
+| `documents/` | Contracts, policies, legal/HR documents |
 | `flash-reports/` | Weekly flash reports (`YYYY-MM-DD.md`, Friday date) |
 | `one-on-ones/` | 1:1 meeting notes (`YYYY-MM-DD.md`, meeting date) |
-| `updates/` | Generated summaries, review docs, quarterly reports |
+| `updates/` | Generated summaries, review docs, job specs, role profiles, quarterly reports (`YYYY-MM-DD-description.md`) |
 
 **Extended Team** (`/people/extended-team/`):
 Employees the MD interacts with who don't report directly to them (skip-level reports, key employees in other teams):
