@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "Write"
+    ],
+    "deny": [
+      "Edit(.env)",
+      "Edit(.git/**)",
+      "Edit(.claude/**)"
+    ]
+  }
+}

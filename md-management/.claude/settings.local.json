@@ -5,7 +5,15 @@
       "Bash(do touch \"$dir/.gitkeep\")",
       "Bash(done)",
       "Bash(copy:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Read",
+      "Edit",
+      "Write"
+    ],
+    "deny": [
+      "Edit(.env)",
+      "Edit(.git/**)",
+      "Edit(.claude/**)"
     ]
   }
 }
