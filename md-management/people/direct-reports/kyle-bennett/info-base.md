@@ -1,6 +1,6 @@
 # Kyle Bennett - Information Base
 
-**Last Updated**: 2026-03-04
+**Last Updated**: 2026-03-05
 **Quick Status**: Strong operational performer in early role. Contract unsigned — must be returned. Yaseen handover surfaces multiple open items now with Kyle. Unit Manager leadership concern remains unaddressed after FOUR consecutive flash reports. Nuhaa salary increase outcome still owed.
 
 ---
@@ -71,6 +71,7 @@
 |------|--------|-------|----------|-------------|
 | 2026-02-15 | Grant (Yaseen background notes) | Kyle's contract for new responsibilities not completed under Yaseen's watch; 3-month expectations never documented | Medium | Grant aware — needs to address retroactively |
 | 2026-03-03 | Yaseen (handover email) | Nuhaa discussed her salary increase request with both Yaseen and Kyle — Yaseen does not detect additional workload. Outcome still owed to Nuhaa. | Medium | Grant to give Nuhaa an outcome |
+| 2026-03-05 | James (CEO) / Grant (post-Yaseen discussion) | Kyle gets defensive/irritable when challenged. Sends operational emails to James directly (e.g., detailed protocol change email) rather than routing through Grant or nurses. Slow to respond (email sent 1pm yesterday, no reply by morning). Needs to be led and directed — effective as an assistant but not independently driven. | Medium | James will redirect operational emails back to Grant/nursing team. Grant's approach: coaching ("what's the problem, how have you handled it?") rather than directive. James will not walk on eggshells — will be direct but understanding. |
 
 ---
 
@@ -198,6 +199,7 @@
 - No 1:1 meeting notes on file yet — need to start documenting
 - Nursing team structure unclear (from Yaseen's tenure — no formal comms or reporting lines for nurses)
 - Nuhaa Peterson: title changed to Medical Practice Administrator (effective 13 Oct 2025), 10% increase negotiated, annual increase still due, employment contract not yet returned, salary increase outcome still owed. Patient Conversion Incentive communicated to Nuhaa via WhatsApp (2026-03-03): R2,000/patient (no cap) + R10,000 mEHT bonus for 5 qualifying patients in 14-day window. Follow-up discussion (2026-03-03): Nuhaa understood process but disappointed — feels 5 mEHT patients/month is near-impossible; sensitive about meeting targets. Grant clarified incentives are upside-only, not expectations. March experiment expanded: Jan & Feb consults brought into March pool. March is trial only, reviewed in April. Kyle should be briefed on full incentive structure and March experiment terms as Nuhaa's line manager.
+- **Director approach alignment (2026-03-05)**: James will not walk on eggshells with Kyle — direct but understanding. Will redirect operational emails (sent directly to James) back to Grant/nurses rather than engaging. Grant's approach: coaching rather than directive — "what's the problem, how have you handled it?" rather than "you shouldn't be doing this." Stocktake note: Kyle hadn't spoken to Lebel (bookkeeper) before initiating — Grant expects coordination with relevant colleagues before escalating.
 - Ideas Cartel contact: Kyle is now the primary contact (Nicolette introduced via Yaseen handover email)
 - Manco communication platform: Kyle initiated with Dr Ismaeel and nursing team — positive signal for cross-team communication
 - A/C compressor (Sygnia): leaking onto Sygnia's electrical box due to drainage tray blockage — tray cleaned, being monitored
