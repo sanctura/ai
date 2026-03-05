@@ -1,6 +1,6 @@
 # Kyle Bennett - Information Base
 
-**Last Updated**: 2026-03-03
+**Last Updated**: 2026-03-04
 **Quick Status**: Strong operational performer in early role. Contract unsigned — must be returned. Yaseen handover surfaces multiple open items now with Kyle. Unit Manager leadership concern remains unaddressed after FOUR consecutive flash reports. Nuhaa salary increase outcome still owed.
 
 ---
@@ -78,7 +78,7 @@
 
 **Open Assignments**:
 - [ ] SIGN AND RETURN employment contract — contract received, changes agreed, still outstanding (Yaseen handover)
-- [ ] Give Nuhaa outcome on salary increase request — Yaseen and Kyle both involved in discussions; outcome owed (Yaseen handover)
+- [ ] Give Nuhaa outcome on salary increase request — Yaseen and Kyle both involved in discussions; outcome owed (Yaseen handover). NOTE: Incentive program communicated to Nuhaa via WhatsApp on 2026-03-03 — confirm whether this satisfies/replaces the salary increase request outcome.
 - [ ] FIX TRANSCRIPT RECORDING ISSUES — urgent, 5 new patients Monday (2026-02-27 ask)
 - [ ] Address Unit Manager leadership/control/communication — FOUR weeks unaddressed, requires 1:1
 - [ ] Monitor A/C unit compressor / Sygnia drainage tray — being observed to confirm if tray cleaning stopped the leak (Yaseen handover)
@@ -197,7 +197,7 @@
 - Contract situation needs to be resolved — unsigned for new responsibilities
 - No 1:1 meeting notes on file yet — need to start documenting
 - Nursing team structure unclear (from Yaseen's tenure — no formal comms or reporting lines for nurses)
-- Nuhaa Peterson: title changed to Medical Practice Administrator (effective 13 Oct 2025), 10% increase negotiated, annual increase still due, employment contract not yet returned, salary increase outcome still owed
+- Nuhaa Peterson: title changed to Medical Practice Administrator (effective 13 Oct 2025), 10% increase negotiated, annual increase still due, employment contract not yet returned, salary increase outcome still owed. Patient Conversion Incentive communicated to Nuhaa via WhatsApp (2026-03-03): R2,000/patient (no cap) + R10,000 mEHT bonus for 5 qualifying patients in 14-day window. Follow-up discussion (2026-03-03): Nuhaa understood process but disappointed — feels 5 mEHT patients/month is near-impossible; sensitive about meeting targets. Grant clarified incentives are upside-only, not expectations. March experiment expanded: Jan & Feb consults brought into March pool. March is trial only, reviewed in April. Kyle should be briefed on full incentive structure and March experiment terms as Nuhaa's line manager.
 - Ideas Cartel contact: Kyle is now the primary contact (Nicolette introduced via Yaseen handover email)
 - Manco communication platform: Kyle initiated with Dr Ismaeel and nursing team — positive signal for cross-team communication
 - A/C compressor (Sygnia): leaking onto Sygnia's electrical box due to drainage tray blockage — tray cleaned, being monitored
