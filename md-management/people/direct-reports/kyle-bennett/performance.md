@@ -10,6 +10,13 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+### 2026-03-06 `[achievement]` `[concern]`
+Flash report (week ending 2026-03-06): Finalised Xero stock count. Continuing to correct stock items/invoicing on Xero. Approved Gary's +R2m insurance claim. Next week focus: Stock Management on Xero, understanding new financial structure and processes, lead conversion and CRM integration, pharmacy order and cleanliness. Asks: nothing urgent.
+- Unit Manager leadership, control & communication — raised for the FIFTH consecutive week. Language unchanged. No documented 1:1 intervention on file.
+- Missing transcripts flagged: Manuela Steyn & Dean Otto specifically named (NB).
+- Dr availability in March / new patient pipeline — second consecutive week.
+*(Source: flash report)*
+
 ### 2026-03-03 `[observation]`
 Role expansion approved: Kyle to take on administrative line management of the Cape Town nursing unit. Abongile (Lead Nurse) will report to Kyle for all administrative and people matters. Dr Ismaeel Ebrahim continues to provide clinical guidance to Abongile and the nursing team. Kyle will oversee and sign off stock/pharmacy orders in collaboration with Abongile. Compensation increase approved to reflect expanded responsibilities. Role expectations document updated and to be shared with Kyle.
 *(Source: Grant decision)*

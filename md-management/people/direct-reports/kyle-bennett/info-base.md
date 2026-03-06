@@ -1,7 +1,7 @@
 # Kyle Bennett - Information Base
 
-**Last Updated**: 2026-03-05
-**Quick Status**: Strong operational performer in early role. Contract unsigned — must be returned. Yaseen handover surfaces multiple open items now with Kyle. Unit Manager leadership concern remains unaddressed after FOUR consecutive flash reports. Nuhaa salary increase outcome still owed.
+**Last Updated**: 2026-03-06
+**Quick Status**: Strong operational performer. Xero stock count finalised. Unit Manager leadership concern now FIVE consecutive flash reports — unaddressed in 1:1. Missing transcript issue persists (Manuela Steyn & Dean Otto named). Contract still unsigned.
 
 ---
 
@@ -13,7 +13,7 @@
 **Next Review Due**: TBC
 
 **Current Concerns**:
-- Unit Manager leadership, control and communication — flagged in FOUR consecutive flash reports (2026-02-06, 2026-02-13, 2026-02-20, 2026-02-27) — MUST be addressed in next 1:1
+- Unit Manager leadership, control and communication — flagged in FIVE consecutive flash reports (2026-02-06, 2026-02-13, 2026-02-20, 2026-02-27, 2026-03-06) — MUST be addressed in 1:1
 - Contract unsigned — Kyle received his Practice Manager contract, changes agreed, but has not yet signed and returned it
 - Nuhaa salary increase outcome — Kyle and Yaseen discussed; outcome still owed to Nuhaa (per Yaseen handover)
 - Transcript recording issues — urgent: 5 new patients on Monday, transcripts must be fixed before then (flagged 2026-02-27)
@@ -22,6 +22,8 @@
 - Patient complaints flagged (first noted 2026-02-20)
 
 **Recent Wins** (last 30 days):
+- Xero stock count finalised (2026-03-06)
+- Approved Gary's +R2m insurance claim (2026-03-06)
 - First Xero stock count initiated ahead of Year End (2026-02-27)
 - Uploaded missing stock items to Xero (2026-02-27)
 - Corrected Xero invoicing errors (2026-02-20, 2026-02-27)
@@ -41,7 +43,7 @@
 | Type | Last Date | Summary |
 |------|-----------|---------|
 | 1:1 | — | No 1:1 notes on file yet |
-| Flash Report | 2026-02-27 | First Xero stock count, invoicing errors corrected, patient quotations. Unit Manager leadership concern fourth consecutive week. Urgent ask: transcript recording fix before Monday's 5 new patients. New concern: Dr availability in March. |
+| Flash Report | 2026-03-06 | Xero stock count finalised, Gary insurance claim approved (+R2m). Unit Manager leadership concern FIFTH consecutive week. Missing transcripts: Manuela Steyn & Dean Otto (NB). Dr availability in March continues. No asks. |
 | Informal Check-in | — | — |
 
 **Frequency**:
@@ -137,15 +139,15 @@
 
 ## 6. Flash Report Trends
 
-**Submission Rate**: 4 of 4 weeks (100%)
-**Reports on file**: 4 (2026-02-06, 2026-02-13, 2026-02-20, 2026-02-27)
+**Submission Rate**: 5 of 5 weeks (100%)
+**Reports on file**: 5 (2026-02-06, 2026-02-13, 2026-02-20, 2026-02-27, 2026-03-06)
 
 **Recurring Themes**:
-- Accomplishments: Systems implementation (Xero dominant), financial tool adoption, patient quotations, stock management
-- Blockers: Unit Manager leadership/unity (FOUR consecutive weeks — language escalating); transcript recording issue (urgent, new); Dr availability concern (new); process clarity gaps
-- Asks: First meaningful urgent ask week 4 — transcript recording fix before Monday's new patients. Prior weeks were "nothing urgent."
+- Accomplishments: Systems implementation (Xero dominant), financial tool adoption, stock management, insurance approvals
+- Blockers: Unit Manager leadership/unity (FIVE consecutive weeks); missing transcripts (Manuela Steyn & Dean Otto named specifically); Dr availability concern (second week); process clarity gaps
+- Asks: Nothing urgent this week (first time since week 4 transcript escalation — transcript issue may still be unresolved)
 
-**Sentiment Trend**: Consistent operational output but blocker language escalating week over week. First urgent ask this week (transcript recording) signals increasing operational pressure. Unit Manager concern now four weeks without documented 1:1 response — intervention required.
+**Sentiment Trend**: Operational output continues. Unit Manager concern now five weeks without documented 1:1 response — critical intervention point. Transcript issue escalated week 4 as urgent; week 5 still flagged but as blocker rather than urgent ask — status unknown.
 
 ---
 
@@ -154,9 +156,9 @@
 **Active Concerns**:
 1. **Unit Manager leadership, control and communication**
    - First observed: 2026-02-06
-   - Occurrences: 4 consecutive flash reports — language escalating each week (week 1: "defragmentation"; week 2: added "leadership, control & communication"; week 3: added patient complaints, nursing roster expectations; week 4: unchanged — "Unit Manager leadership, control & communication")
+   - Occurrences: 5 consecutive flash reports — language stabilised at "Unit Manager leadership, control & communication" (weeks 4 and 5 identical)
    - Addressed: Not yet discussed in 1:1 (no 1:1 notes on file)
-   - Status: ESCALATING — FOUR weeks without documented intervention. Must be addressed in Monday 1:1.
+   - Status: CRITICAL — FIVE weeks without documented intervention. Must be addressed in 1:1.
 
 2. **Unsigned employment contract**
    - First observed: 2026-03-03 (Yaseen handover email)
@@ -231,7 +233,7 @@
 | Profile | `profile.md` |
 | Performance Log | `performance.md` |
 | 1:1 Notes | `one-on-ones/` (none yet) |
-| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-13.md`, `flash-reports/2026-02-20.md`, `flash-reports/2026-02-27.md` |
+| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-13.md`, `flash-reports/2026-02-20.md`, `flash-reports/2026-02-27.md`, `flash-reports/2026-03-06.md` |
 | Documents | `documents/practice-manager-job-spec-cpt.md`, `documents/2025-Q4-kyle-3-month-roadmap.md` |
 | Contract (PDF) | `documents/` — Kyle Bennett Contract of Employment for Practice Manager (PDF, original in inbox) |
 

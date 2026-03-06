@@ -10,8 +10,10 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
-<<<<<<< HEAD
-=======
+### 2026-03-06 `[achievement]`
+Flash report (week ending 2026-03-06): Chemo application — PAIA information mostly received, mixing cabinet contractor walk-through completed with updated quote, AI now being used to assist with application writing. Referral fee agreement — signed copy received from Dr Kuhan, distributed, operationalisation meeting set for next week. HBOT — appointment with SAUHMA leadership scheduled for afternoon of 06 March re training, director options, accreditation; met with hyperbaric dr to explore synergies. AI document drafting now being adopted across work areas. Asana dates all added as required. No blockers. No asks.
+*(Source: flash report — note: submitted during departure settlement discussions)*
+
 ### 2026-02-26 `[concern]`
 In a three-way meeting with James (CEO) and Grant, Yaseen spoke for 15 minutes without a presentation, no timelines, and no milestones — the opposite of what Grant had explicitly asked for in the days prior. Grant intervened at 15 minutes and asked for a project-style view with committed timelines; Yaseen then attempted to provide dates verbally off the top of his head rather than from a prepared plan.
 *(Source: Grant observation — 2026-02-26 CPO meeting with James)*
@@ -44,7 +46,6 @@ Flash report (week ending 2026-02-27): PAIA follow-up on chemo application progr
 More Core / Dr Minnaar meeting did not happen this week due to a misunderstanding — rescheduled for next week. Dr Hari referral fee agreement still awaiting final signature (third consecutive week tracking this item). Dates not yet loaded to Asana — flagged as next week focus.
 *(Source: flash report)*
 
->>>>>>> 8816e56 (ai)
 ### 2026-02-20 `[achievement]`
 Flash report (week ending 2026-02-20): Concluded Hydrovitality handover with Mohammed including email introductions. Substantial chemo application progress — pharmaceutical company meeting, PAIA payment made, building plans received, DoH engagement, architect engagement, regulations gathered. London project costs finalised with Ricardo. Hyperthermia medical funding application: coding requirements investigated, additional research articles reviewed, meeting secured with More Core and Dr Minnaar, HTA requirements obtained from Discovery and Medscheme. No blockers reported. Strong and broad project output.
 *(Source: flash report)*

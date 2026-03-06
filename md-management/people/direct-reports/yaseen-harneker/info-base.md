@@ -1,7 +1,7 @@
 # Yaseen Harneker - Information Base
 
-**Last Updated**: 2026-03-05
-**Quick Status**: DEPARTURE IN PROGRESS — Directors (Grant + James) agreed mutual separation package on 2026-03-05. R400,000 total, effective 14 March, paid end of March on completion of deliverables. Grant requesting Siraaj (attorney) to draft formal agreement today (2026-03-05). Signing deadline: COB 2026-03-06. If Yaseen declines: formal performance review initiated immediately. Package NOT yet communicated to Yaseen.
+**Last Updated**: 2026-03-06
+**Quick Status**: REVISED OFFER PENDING — Yaseen countered R600k at R650k–R700k. Grant approved R650k. Siraaj presenting COB 2026-03-06. Yaseen stated willingness to sign today. Flash report submitted as normal — active on all 4 project streams including SAUHMA meeting today, AI adoption confirmed, Asana dates finally added.
 
 ---
 
@@ -24,8 +24,12 @@
 - Invoicing inefficiency under his watch (UK and SA) — potentially significant lost revenue — first noted 2026-02-15
 
 **Recent Wins** (last 30 days):
-- Chemo application: PAIA follow-up progressed, architect costing negotiated for feasibility consulting, AI use started for application writing (2026-02-27)
-- Referral fee agreement with Dr Hari finalised and sent for signature; finance sensitised to act on receipt (2026-02-27)
+- Chemo application: PAIA information mostly received, cabinet contractor walk-through done with updated quote, AI drafting underway (2026-03-06)
+- Referral fee agreement (Dr Kuhan): signed copy received, distributed, operationalisation meeting set for next week (2026-03-06)
+- HBOT: SAUHMA leadership meeting scheduled for 2026-03-06 afternoon re training/director options/accreditation; hyperbaric dr engaged re synergies (2026-03-06)
+- AI document drafting adopted across work areas (2026-03-06)
+- Asana dates all added (2026-03-06 — finally resolved after multi-week outstanding)
+- Chemo application: PAIA follow-up progressed, architect costing negotiated for feasibility consulting, AI use started (2026-02-27)
 - Hyperthermia funding application: HTA requirements from top 3 administrators received and reviewed, additional research secured (2026-02-27)
 - HBOT: SAUHMA leadership engaged on training/director options/accreditation; compressor costing confirmed with finance; hyperbaric dr contacted re synergy (2026-02-27)
 - Hydrovitality handover to Mohammed concluded — email introductions complete (2026-02-20)
@@ -41,7 +45,7 @@
 | Type | Last Date | Summary |
 |------|-----------|---------|
 | CPO Review (with CEO) | 2026-02-26 | Three-way meeting: Grant, James, Yaseen. Yaseen presented without slides, timelines, or milestones — Grant intervened at 15 min. James raised outstanding documents and produced AI drafts in minutes. Concluded: follow-up meeting w/c 2026-03-02, email of expectations to be sent. See `one-on-ones/2026-02-26.md`. |
-| Flash Report | 2026-02-27 | Four project streams active: chemo (PAIA, AI writing started), referral fee (sent for signature), hyperthermia (HTA requirements in), HBOT (SAUHMA engaged, compressor costing confirmed). No blockers. More Core/Dr Minnaar meeting missed — rescheduled. Asana dates still outstanding. |
+| Flash Report | 2026-03-06 | Submitted as normal during departure settlement. Chemo: PAIA mostly received, cabinet contractor walk-through done, AI drafting underway. Referral fee (Dr Kuhan): signed, operationalisation meeting next week. HBOT: SAUHMA meeting this afternoon. AI adoption confirmed across work areas. Asana dates all added. No blockers, no asks. |
 | Informal Check-in | 2026-02-15 | Grant documenting background context and historical concerns |
 
 **Frequency**:
@@ -86,10 +90,14 @@
 *Deadline: end of March 2026. James expects these could realistically be completed within days. Payment issued via end-of-month salary run on completion.*
 
 **Grant's Open Actions (related to Yaseen departure)**:
-- [ ] **[TODAY — 2026-03-05]** Send package brief to Siraaj (attorney) — R400k mutual separation, effective 14 March, 4 deliverables, paid end of March, signing deadline COB 2026-03-06
-- [ ] Present package to Yaseen — open Without Prejudice; present as non-negotiable
-- [ ] If Yaseen accepts: countersign agreement, confirm with Siraaj, set deliverable check-ins
-- [ ] If Yaseen declines by COB 2026-03-06: initiate formal performance review process immediately
+- [x] Send package brief to Siraaj — 2026-03-05
+- [x] R600k presented to Yaseen by Siraaj — 2026-03-06 AM
+- [x] Yaseen countered R650k–R700k — Grant approved R650k
+- [ ] **[URGENT — TODAY]** Siraaj to present R650k revised offer to Yaseen — COB 2026-03-06
+- [ ] If signed: countersign, brief payroll (R167k March + R483k April via tax directive), agree deliverable check-ins with Yaseen
+- [ ] If not signed by COB: initiate formal redundancy
+- [ ] Clarify HBOT deliverable with Yaseen/Ronald — Yaseen says costings already complete and with CFO
+- [ ] Clarify architectural design deliverable — James told Yaseen in project meeting not to use architect; confirm what is actually required
 
 **Recently Completed** (last 30 days):
 - [x] Handover to Grant completed (2026-02-06)
@@ -135,15 +143,15 @@
 
 ## 6. Flash Report Trends
 
-**Submission Rate**: 4 of 4 weeks (100%)
-**Reports on file**: 4 (2026-02-06, 2026-02-13, 2026-02-20, 2026-02-27)
+**Submission Rate**: 5 of 5 weeks (100%)
+**Reports on file**: 5 (2026-02-06, 2026-02-13, 2026-02-20, 2026-02-27, 2026-03-06)
 
 **Recurring Themes**:
 - Accomplishments: Chemo application (every report — dominant and deepening), hyperthermia funding application (growing), HBOT now a significant third thread, referral fee agreement nearing close
 - Blockers: None for three consecutive weeks (weeks 2, 3, 4) — consistently clean
 - Asks: None for three consecutive weeks — self-sufficient and proactive
 
-**Sentiment Trend**: Four consecutive productive reports. Four project streams now active simultaneously (chemo, hyperthermia, HBOT, referral fee). Asana dates still not populated — small but persistent gap. More Core meeting missed this week due to misunderstanding — rescheduled. Dr Hari agreement in third consecutive week of tracking — monitor for closure.
+**Sentiment Trend**: Five consecutive productive reports. All four project streams active. Asana dates now confirmed added (week 5 — after multiple weeks outstanding). AI adoption confirmed. Flash report submitted normally despite active departure negotiations — no change in behaviour or disclosure. Dr Kuhan referral fee agreement signed (previously Dr Hari — confirm same person). SAUHMA meeting this afternoon re HBOT.
 
 ---
 
@@ -212,7 +220,9 @@
 ### Decisions Involving This Person
 | Date | Decision | Rationale | Outcome |
 |------|----------|-----------|---------|
-| 2026-03-05 | Directors agreed mutual separation: R400k, effective 14 March, paid end of March on delivery of 4 deliverables. Signing deadline COB 2026-03-06. Fallback = formal performance review if declined. | CEO and Grant aligned after CPO review failure. Package considered fair; Yaseen expected to accept. | Grant to send to Siraaj (attorney) today. See `documents/2026-03-05-departure-scenarios.md` — CONFIDENTIAL |
+| 2026-03-06 | Grant approved R650k after Yaseen countered R600k offer at R650k–R700k. Siraaj to present revised offer COB 2026-03-06. Yaseen indicated willingness to sign today. | Yaseen's counter was well-researched — he calculated statutory redundancy minimum at ~R550k and used that as his floor. R650k is within his stated acceptable range. | See `documents/2026-03-05-departure-scenarios.md` — CONFIDENTIAL |
+| 2026-03-06 | R600,000 presented to Yaseen by Siraaj — Yaseen countered at R650k–R700k | Terms presented as non-negotiable; Yaseen has independent legal/tax advisors | Yaseen stated willingness to sign same day if agreement reached |
+| 2026-03-05 | Initial package agreed by Directors at R400,000 — subsequently revised upward to R600,000 after discussion with Siraaj | — | See `updates/2026-03-05-siraaj-package-request.md` |
 | 2026-03-05 | Departure scenario analysis prepared by Directors | Ongoing performance concerns and CEO disappointment; for Director discussion only — not communicated to Yaseen | See `documents/2026-03-05-departure-scenarios.md` — CONFIDENTIAL |
 | 2026-02-26 | Follow-up CEO meeting scheduled w/c 2026-03-02 | Yaseen's 2026-02-26 presentation was inadequate — another chance given | Pending — Yaseen must present milestone plan and workboard |
 | 2026-02-26 | AI-first document drafting mandated | James demonstrated ChatGPT could produce first drafts in minutes — in-control items cannot be blocked on slow manual drafting | Communicated in meeting; email follow-up from Grant to confirm |
@@ -264,7 +274,7 @@
 | Profile | `profile.md` |
 | Performance Log | `performance.md` |
 | 1:1 Notes | `one-on-ones/2026-02-26.md` (CPO Review with CEO) |
-| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-13.md`, `flash-reports/2026-02-20.md`, `flash-reports/2026-02-27.md` |
+| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-13.md`, `flash-reports/2026-02-20.md`, `flash-reports/2026-02-27.md`, `flash-reports/2026-03-06.md` |
 | Documents | `documents/` |
 | Departure Scenarios | `documents/2026-03-05-departure-scenarios.md` (CONFIDENTIAL — Directors only) |
 

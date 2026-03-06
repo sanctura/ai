@@ -10,6 +10,15 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+### 2026-03-06 `[achievement]` `[concern]`
+First flash report submitted (week ending 2026-03-06): Comprehensive first report. Completed Weekly KPIs for SA/UK operations. Kicked off payroll migration from Inaura to Optimax. Commenced FY2026 review for Saint Raphael (Pty) Ltd, JL Inc, and Sanctura Ltd. Cleaned up Income Statements for JL Inc and SR (Pty) Ltd, shared with EXCO. Finalised James' loan accounts and 2025-2026 remuneration structure reconciliation. Resolved Questmed supplier issue and completed reconciliation. Continued Lebo onboarding and cleanup of historic invoice/creditor backlogs.
+- **CRITICAL concern raised**: SA cash flow under pressure — low Feb sales, anticipated weak March (James travelling), unanticipated creditors. May require month-end support for salaries and a few large creditors.
+- Stock take (26-27 Feb) requires rework — Abongile and Kyle to finalise; Kyle to implement formal purchase order system.
+- UK liquidity position unclear — needs investigation.
+- Historic finance backlog from Alida departure transition period ongoing.
+Next week focus: payroll migration continuation, FY2027 budget draft, PTY↔INC Xero cleanup, SA OPEX overview with Top 5 cost-tightening, Break-Even Model v2, intercompany recons, invoice/backlog cleanup. Asks: nothing required.
+*(Source: flash report)*
+
 ### 2026-02-25 `[achievement]`
 Bookkeeper/processor hired: Lebogang Nkopodi started 2026-02-24 as a permanent employee reporting to Ronald. This was a key deliverable mandated by Ricardo Delgado within the first 2 weeks of engagement. Completed 1 day late against the target but within acceptable range.
 

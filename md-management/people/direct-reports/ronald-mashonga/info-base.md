@@ -1,7 +1,7 @@
 # Ronald Mushonga - Information Base
 
-**Last Updated**: 2026-02-25
-**Quick Status**: New engagement — Interim CFO (fractional) started 9 Feb 2026. 4-month contract to 9 Jun 2026. Currently in Phase 1 (handover from Alida Wiese, ends 23 Feb). Key risks: tight handover window, bookkeeper not yet hired, travel/remote-work balance unresolved.
+**Last Updated**: 2026-03-06
+**Quick Status**: Phase 2 underway. Strong first flash report — payroll migration kicked off, FY2026 reviews commenced, Questmed resolved, Lebo onboarding progressing. CRITICAL: SA cash flow under pressure — may need month-end support for salaries. Month 1 review due 2026-03-10.
 
 ---
 
@@ -13,13 +13,22 @@
 **Next Review Due**: 2026-03-10 (Month 1 contract review)
 
 **Current Concerns**:
-- Alida Wiese handover window closes 23 Feb 2026 — only 2-week overlap; knowledge transfer quality is critical
-- Bookkeeper/processor not yet hired (Ricardo mandated hire within first 2 weeks — already at risk of slipping)
-- Travel arrangements (Johannesburg-based, working in Cape Town) not yet formally settled; remote schedule TBC
-- Total cost of engagement not fully confirmed — agency commission (~12% monthly on top of R115k) needs clarification
+- **[CRITICAL]** SA cash flow under pressure — low Feb sales, anticipated weak March (James travelling), unanticipated creditors. May require month-end support for salaries and a few large creditors.
+- Stock take (26-27 Feb) requires rework — Abongile and Kyle to finalise; Kyle to implement formal PO system for medical stock ordering.
+- UK liquidity position unclear — needs investigation.
+- Historic finance backlog from Alida transition period ongoing.
+- Travel arrangements (Johannesburg-based, working in Cape Town) not yet formally settled.
+- Total cost of engagement not fully confirmed — agency commission (~12% monthly on top of R115k) needs clarification.
 
 **Recent Wins** (last 30 days):
-- Successfully joined as preferred candidate over Keith following 4 Feb 2026 interview panel
+- Completed Weekly KPIs for SA/UK operations (2026-03-06)
+- Kicked off payroll migration Inaura → Optimax (2026-03-06)
+- Commenced FY2026 review for Saint Raphael (Pty) Ltd, JL Inc, Sanctura Ltd (2026-03-06)
+- Cleaned up Income Statements for JL Inc and SR (Pty) Ltd, shared with EXCO (2026-03-06)
+- Finalised James' loan accounts reconciliation and 2025-2026 remuneration structure (2026-03-06)
+- Resolved Questmed supplier issue (2026-03-06)
+- Lebo onboarding continued, historic invoice/creditor backlog cleanup progressing (2026-03-06)
+- Bookkeeper hired: Lebogang Nkopodi started 2026-02-24
 - Contract signed 9 Feb 2026; commenced engagement same day
 
 ---
@@ -29,12 +38,12 @@
 | Type | Last Date | Summary |
 |------|-----------|---------|
 | 1:1 | — | Not yet established |
-| Flash Report | — | Not yet established |
+| Flash Report | 2026-03-06 | First flash report. Strong output: KPIs, payroll migration, FY2026 reviews, Questmed resolved, Lebo onboarding. Critical: SA cash flow under pressure, may need month-end support for salaries. Stock take needs rework. UK liquidity unclear. No asks. |
 | Informal Check-in | — | — |
 
 **Frequency**:
 - 1:1 cadence: Weekly (Friday check-ins per contract review schedule)
-- Flash report submission rate: Not yet started
+- Flash report submission rate: 1 of 1 (first week submitted)
 - Unplanned escalations (last 30 days): 0
 
 ---
@@ -60,17 +69,30 @@
 ## 4. Task & Assignment Tracking
 
 **Open Assignments**:
-- Complete knowledge transfer from Alida Wiese — **Due: 2026-02-23** (overlap period closes)
-- Support Xero invoicing transformation rollout — **Due: End of Feb 2026**
-- ~~Hire bookkeeper/processor~~ — **COMPLETED 2026-02-24**: Lebogang Nkopodi hired (permanent employee, reports to Ronald)
-- Design and implement 13-week rolling cash flow forecast — **Due: End of March 2026**
+- ~~Complete knowledge transfer from Alida Wiese~~ — Phase 1 closed 2026-02-23
+- ~~Support Xero invoicing transformation rollout~~ — Phase 1 item; status to confirm
+- ~~Hire bookkeeper/processor~~ — **COMPLETED 2026-02-24**: Lebogang Nkopodi hired
+- Design and implement 13-week rolling cash flow forecast — **Due: End of March 2026** — urgent given cash flow pressure
 - Establish compliance calendar — **Due: End of March 2026**
-- Review all external service provider documentation (Inaura, Kinari/Capricorn, Imperium, Intersure, Atlantic Trust) — **Due: End of Phase 1 (Feb 2026)** [Must present written summary + proposed engagement plan to Grant before any contact]
 - Monthly management accounts for March — **Due: 2026-04-07 at latest**
+- Payroll migration Inaura → Optimax — in progress (2026-03-06)
+- FY2027 trading budget and forecast draft — next week priority (2026-03-06)
+- PTY ↔ INC Xero cleanup (group/non-clinical cost reallocation, intercompany) — next week priority; Ricardo meeting scheduled
+- SA OPEX overview with Top 5 cost-tightening — next week priority
+- Break-Even Model v2 — next week priority
+- Intercompany recons (director loan, remuneration, Trust charges, TTC) — next week priority
+- Invoice/backlog cleanup with Lebo — ongoing
 - Initiate service provider transition (Inaura → Bokelman or equivalent) — **Due: Phase 2 (Mar–Apr 2026)**
 - Produce long-term finance function recommendation report — **Due: Phase 3 (May–Jun 2026)**
+- **[URGENT — CASH]** Monitor SA cash position; prepare corrective actions if month-end support needed for salaries
 
 **Recently Completed** (last 30 days):
+- Weekly KPIs for SA/UK operations (week ending 27 Feb) — 2026-03-06
+- FY2026 review commenced for 3 entities — 2026-03-06
+- Income Statements cleaned up and shared with EXCO — 2026-03-06
+- James loan accounts reconciliation finalised — 2026-03-06
+- Questmed supplier issue resolved — 2026-03-06
+- Bookkeeper Lebogang Nkopodi hired — 2026-02-24
 - Commenced engagement: 2026-02-09
 
 **Patterns**:
@@ -102,24 +124,29 @@
 
 ## 6. Flash Report Trends
 
-**Submission Rate**: Not yet started
+**Submission Rate**: 1 of 1 weeks (first submission)
+**Reports on file**: 1 (2026-03-06)
 
 **Recurring Themes**:
-- Accomplishments: —
-- Blockers: —
-- Asks: —
+- Accomplishments: Multi-entity financial review, payroll migration, reconciliations, bookkeeper onboarding
+- Blockers: SA cash flow (critical), stock take rework needed, UK liquidity visibility, historic backlog
+- Asks: None — self-managing, escalates when needed
 
-**Sentiment Trend**: —
+**Sentiment Trend**: First report — comprehensive and proactive. Strong operational output in week 1 of Phase 2. Cash flow concern clearly escalated without prompting — good communication discipline. No asks signals confidence or possible over-self-reliance — monitor.
 
 ---
 
 ## 7. Concerns & Patterns
 
 **Active Concerns**:
-- ~~Bookkeeper hire urgency~~: **RESOLVED** — Lebogang Nkopodi hired as permanent bookkeeper/processor, started 2026-02-24. Reports to Ronald.
-- **Handover completeness**: Alida Wiese overlap closes 23 Feb. If handover is incomplete, gaps in knowledge of systems, processes, and supplier relationships will create operational risk.
-- **Travel and remote-work terms**: Grant was not comfortable with the proposed 2-weeks-remote/2-weeks-in-office arrangement. This has not been formally resolved per available documentation.
-- **External contact control**: Ronald requires Grant's written approval before contacting any external service provider. This is a firm rule that needs to be actively enforced in the early weeks.
+- ~~Bookkeeper hire urgency~~: **RESOLVED** — Lebogang Nkopodi hired, started 2026-02-24.
+- ~~Handover completeness~~: Phase 1 closed 2026-02-23. Handover complete — ongoing backlog being worked.
+- **[CRITICAL — NEW] SA cash flow pressure**: Low Feb sales, weak March anticipated (James travelling), unanticipated creditors. May need month-end support for salaries and large creditors. Ronald flagged proactively. Grant needs to assess and confirm response.
+- **Stock take rework**: 26-27 Feb stock take requires rework. Abongile and Kyle to finalise. Kyle to implement formal PO system for medical stock ordering (Ronald flagged this with CFO support needed).
+- **UK liquidity position**: Not clearly visible. Ronald flagged need for clearer understanding.
+- **Historic finance backlog**: Legacy from Alida transition — invoice/creditor cleanup ongoing with Lebo.
+- **Travel and remote-work terms**: Not formally resolved — monitor.
+- **External contact control**: Firm rule (Clause 15) — Ronald must not contact external providers without Grant's written approval. Actively enforce.
 
 **Historical Patterns**:
 - No data yet — engagement just commenced
@@ -185,7 +212,7 @@
 | Profile | `profile.md` |
 | Performance Log | `performance.md` |
 | 1:1 Notes | `one-on-ones/` |
-| Flash Reports | `flash-reports/` |
+| Flash Reports | `flash-reports/2026-03-06.md` |
 | Documents | `documents/` |
 | Contract | `documents/Ronald.Mashonga-Contract-2026-02-08.md` |
 | Scope of Work | `documents/Ronald.Mashonga-scope-of-work.md` |

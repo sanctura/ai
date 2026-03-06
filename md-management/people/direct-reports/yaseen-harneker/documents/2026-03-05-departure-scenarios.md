@@ -92,39 +92,56 @@
 
 ---
 
-## Directors' Agreed Position (2026-03-05)
+## Directors' Agreed Position (updated 2026-03-06)
 
-Directors (Grant and James) agreed to proceed with a **custom mutual separation** — closest to Scenario 04 with a negotiated flat package.
+Following discussion between Directors and Siraaj, terms were revised upward and presented to Yaseen by Siraaj on 2026-03-06. **Yaseen is currently considering the offer.**
 
-### Agreed Package
+### Package History
+
+| Date | Offer | Status |
+|------|-------|--------|
+| 2026-03-05 | R400,000 (initial Directors' position) | Revised upward after Siraaj discussion |
+| 2026-03-06 AM | R600,000 (presented by Siraaj to Yaseen) | Yaseen countered at R650k–R700k |
+| 2026-03-06 | **R650,000 (revised offer — Grant approved, to be presented COB 2026-03-06)** | **Pending Yaseen signature** |
+
+### Current Offer (R650,000)
 
 | Item | Detail |
 |------|--------|
 | Scenario | Mutual Separation (Without Prejudice) |
-| Effective separation date | 14 March 2026 |
-| Total package (all-in) | **R400,000** (gross, paid via end-of-March salary run) |
-| Leave component | ~R185,944 (24.19 days × R7,691/day) — included in R400,000 |
-| Notice/ex gratia component | ~R214,056 — included in R400,000 |
-| Payment condition | Completion of all required deliverables (see below) |
-| Payment timing | End of March (regardless of when deliverables completed, but not before) |
-| Signing deadline | COB 2026-03-06 |
-| If declined | Formal performance review initiated immediately |
+| Last working day | 14 March 2026 |
+| Total package (all-in, incl. leave) | **R650,000** |
+| March payment | R167,000 (normal monthly salary) |
+| April payment | R483,000 (remaining balance, via tax directive) |
+| Leave component | ~R185,944 (24.19 days × R7,691/day) — included in total |
+| Signing deadline | COB 6 March 2026 |
+| Default if not signed | Company proceeds with formal redundancy |
 
-### Required Deliverables (before payment)
+### Required Deliverables (condition of April payment release)
 
-1. **Medical aid application** — written roadmap + representation of work done to date
-2. **Chemotherapy license** — Phase 1 application (completed/polished) + simple Phase 2 roadmap
-3. **HBOT feasibility study** — full study with new compressor details + plans for how to action it
-4. **Architectural design upgrade** — with requested quote (quote not mandatory)
+1. **Medical aid application** — written roadmap + representation of work done to date (Yaseen confirmed he can do this; notes funders have their own timelines post-submission which he cannot attend to after leaving)
+2. **Chemotherapy license** — polished Phase 1 application + Phase 2 roadmap (Yaseen confirmed submission by end of March, barring unforeseen issues)
+3. **HBOT feasibility study** — Yaseen states costings are already complete and with Ronald (CFO). Clarity needed on whether additional work is required beyond what is already done.
+4. **Architectural design upgrade** — Yaseen unclear on this deliverable; notes James said in project meeting NOT to use the architect and to use estimates. Conceptual drawings available at R75k and building costings at R40k (discounted). Needs director approval to proceed and architect availability to be confirmed.
 
-*Deliverables expected ASAP; deadline is end of March. James estimates these could realistically be completed within a few days.*
+### Key Flags (from Yaseen's response — review with Siraaj)
 
-### Next Steps
+1. **Framing risk**: Yaseen states the separation was presented to him as "purely due to the company's current performance and not linked to my performance." This language (used by James in the projects meeting) creates a retrenchment/redundancy framing rather than mutual separation — strengthening Yaseen's legal position if this ends up at the CCMA. Confirm with Siraaj how to handle this in the agreement wording.
+2. **Timeline discrepancy**: Yaseen references James agreeing he would "have the weekend to consider and respond by Monday" — this conflicts with the COB same-day deadline. Siraaj is managing this.
+3. **Yaseen has independent legal/tax advisors**: His advisor apparently knows Siraaj. He has been counselled on the statutory minimum (R550k redundancy) and used that as his negotiating baseline.
+4. **HBOT deliverable may be substantially complete**: Yaseen says the feasibility costings are already done and with Ronald. Directors to clarify what additional output, if any, is required.
+5. **Architectural deliverable needs clarification**: James told Yaseen in a project meeting not to use the architect and to use estimates — yet this is listed as a deliverable. Directors to agree internally on what is actually required here before signing.
 
-- [x] Grant to send package brief to Siraaj (attorney) — 2026-03-05 (see `updates/2026-03-05-siraaj-package-request.md`)
-- [ ] Siraaj to draft formal separation agreement
-- [ ] Present to Yaseen Without Prejudice — package is non-negotiable
+### Status & Next Steps
+
+- [x] Grant sent package brief to Siraaj — 2026-03-05
+- [x] Terms revised with Siraaj — R600,000 presented to Yaseen — 2026-03-06 AM
+- [x] Yaseen responded in writing — countered at R650k–R700k, willing to sign today — 2026-03-06
+- [x] Grant approved R650,000 — Siraaj to present revised offer COB 2026-03-06
+- [ ] **Siraaj to present R650k offer to Yaseen — COB 2026-03-06**
 - [ ] Yaseen to sign by COB 2026-03-06
+- [ ] If signed: brief payroll on split payment, confirm deliverable check-in process with Yaseen
+- [ ] If not signed: initiate formal redundancy
 
 ---
 
