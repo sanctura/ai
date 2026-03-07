@@ -1,6 +1,6 @@
 # Nursing Roster — Info Base
 
-> **Quick Status**: 🟡 In Progress | Owner: Grant (MD) | Last Updated: 2026-03-07
+> **Quick Status**: 🟡 In Progress | Owner: Amanda Ross (UK rollout) / Grant (oversight + CT) | Last Updated: 2026-03-07
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Field | Value |
 |-------|-------|
-| Phase | 🟡 In Progress — CEO proposals received, pending review and rollout |
-| Health | 🟡 Attention Required — CEO has been waiting; rollout deferred by Grant |
-| Owner | Grant (MD) — to involve Amanda Ross (London) and Kyle Bennett (Cape Town) |
-| Blockers | Rollout held pending Grant's London visit (week of 2026-03-09) |
+| Phase | 🟡 In Progress — UK handover brief delivered to Amanda; rollout in progress |
+| Health | 🟢 On Track — Amanda briefed as UK execution owner; London visit week is go-live window |
+| Owner | Amanda Ross (UK execution owner) / Grant (oversight, CT rollout, CQC sign-off) |
+| Blockers | None — handover complete; Amanda to draft 3-week rotation during London visit |
 
-**Context**: CEO James has been waiting for the nursing roster rollout. Grant has deliberately held back due to other organisational changes. Target is to bed this down during his London visit in the second week of March 2026. James has provided three proposal documents covering: a 4-week rotating nursing roster, a reception weekly roster, and a CQC-aligned SOP for reception and on-call phone management.
+**Context**: CEO James authored three roster/SOP proposals at the start of Grant's MD tenure. Grant formally handed over UK execution ownership to Amanda on 2026-03-07 with a detailed adaptation brief (`supporting/uk-roster-amanda-brief.md`). The brief adapts James's 4-nurse Cape Town model to London's 3-nurse + locum reality. Target: roster agreed during London visit (w/c 2026-03-09), staff briefed mid-March, live end-March.
 
 ---
 
@@ -56,14 +56,15 @@
 | Milestone | Target Date | Status | Notes |
 |-----------|-------------|--------|-------|
 | CEO proposals received | 2026-03-07 | Done | 3 documents routed to supporting/ |
-| Grant reviews proposals | 2026-03-09 (London visit week) | Pending | Pre-read supporting docs before visit |
+| Amanda brief delivered | 2026-03-07 | ✅ Done | `supporting/uk-roster-amanda-brief.md` — 3-nurse adaptation documented |
+| Grant reviews proposals | 2026-03-09 (London visit week) | ✅ Done | Reviewed; adaptation brief created |
 | Cape Town roster confirmed with Kyle | March 2026 | Pending | 4-nurse model — adapt Nurse A/B/C/D to real names |
-| London roster confirmed with Amanda | 2026-03-09 to 2026-03-13 | Pending | In-person during London visit; adapt to 3-nurse + locum |
+| London roster confirmed with Amanda | 2026-03-09 to 2026-03-13 | In Progress | Amanda to draft 3-week rotation; Grant to review and sign off |
 | Saturday on-call model activated (both clinics) | Mid-March 2026 | Pending | Phone diversion setup required |
 | SOP adopted and staff briefed | Mid-March 2026 | Pending | CQC compliance for London |
 | Roster live (both clinics) | End-March 2026 | Pending | Target date |
 
-**Next Milestone**: Grant reviews James's proposals before London visit (week of 2026-03-09)
+**Next Milestone**: Grant + Amanda agree roster structure during London visit (2026-03-09 to 2026-03-13)
 
 ---
 
@@ -73,7 +74,7 @@
 |-------------|------|-----------------|
 | James (CEO) | Sponsor; authored proposals; awaiting rollout | Waiting — has been patient |
 | Grant (MD) | Owner; responsible for rollout decision and coordination | Actively progressing |
-| Amanda Ross | London Practice Manager — owns UK roster implementation | To be briefed during London visit |
+| Amanda Ross | London Practice Manager — **UK execution owner** | Briefed 2026-03-07 — handover brief delivered |
 | Kyle Bennett | Cape Town Practice Manager — owns CT roster implementation | To be briefed |
 | London nursing staff (3 nurses + locum) | End users | Not yet briefed |
 | Cape Town nursing staff (4 nurses) | End users | Not yet briefed |
@@ -89,7 +90,15 @@
 ## 6. Open Items & Actions
 
 **Open**:
-- [ ] Grant: Review all three James proposals before London visit (due 2026-03-09)
+- [x] Grant: Review all three James proposals — done 2026-03-07; adaptation brief created
+- [x] Grant: Deliver handover brief to Amanda — done 2026-03-07 (`supporting/uk-roster-amanda-brief.md`)
+- [ ] Amanda: Read brief and James's 3 proposal documents (by 2026-03-09)
+- [ ] Amanda: Draft 3-week rotation cycle with Jasmin, Maria, Ali assigned to slots (by 2026-03-13)
+- [ ] Amanda: Confirm Maria's current Saturday compensation status
+- [ ] Amanda: Assess staff appetite for rotation and late-shift redistribution
+- [ ] Amanda: Confirm Cecil's locum days still work under new rotation
+- [ ] Amanda: Confirm Maria V schedule (unchanged or adjusted)
+- [ ] Amanda: Confirm reception roster go-live timing (depends on Lexee/Zeenat)
 - [ ] Grant + Amanda: Agree London nursing roster (3-nurse adaptation) during London visit week
 - [ ] Grant + Amanda: Formally adopt CQC-aligned SOP for London reception and on-call
 - [ ] Grant + Kyle: Agree Cape Town nursing roster (map Nurse A/B/C/D to real names)
@@ -99,6 +108,8 @@
 - [ ] Confirm locum integration approach for UK roster
 
 **Recently Completed** (last 30 days):
+- 2026-03-07: Amanda handover brief created and delivered (`supporting/uk-roster-amanda-brief.md`)
+- 2026-03-07: Amanda assigned as UK execution owner; Grant retains oversight + CT rollout
 - 2026-03-07: CEO James's three roster/SOP proposals received and routed to supporting/
 
 ---
@@ -134,3 +145,4 @@
 - `supporting/nursing-master-roster-4week-cycle-james-proposal.md`
 - `supporting/reception-weekly-roster-james-proposal.md`
 - `supporting/reception-SOP-on-call-CQC-aligned-james-proposal.md`
+- `supporting/uk-roster-amanda-brief.md`

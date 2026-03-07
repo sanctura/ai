@@ -103,7 +103,7 @@
 - [ ] **Revolut account / spending limit solution** — credit card limits blocking clinic improvements; Amanda asking for support via Ricardo or alternative (ask from 2026-02-27 flash report)
 - [x] HILOTHERM installation and training — completed week of 2026-03-06 (pricing plan with Maria V still open)
 - [ ] Governance meeting agenda — prepare for upcoming meeting (date TBC, stated focus week of 2026-03-02)
-- [ ] **Nursing rota / roster** — CEO-assigned item from start of Grant's tenure; to be resolved during London visit w/c 2026-03-10 with rollout plan. PRIORITY.
+- [ ] **Nursing rota / roster — UK EXECUTION OWNER** — Formally assigned 2026-03-07 with detailed handover brief (`planning/nursing-roster/supporting/uk-roster-amanda-brief.md`). Amanda owns UK rollout: draft 3-week rotation (Jasmin/Maria/Ali), confirm locum scheduling, assess staff appetite, confirm Maria's Saturday compensation status. Target: roster agreed by 2026-03-13, staff briefed mid-March, live end-March. Grant retains CQC sign-off and compensation model. PRIORITY.
 - [x] Onboard Zeenat (fixed-term receptionist) — onboarded week of 2026-03-06; training ongoing with support from Lexee
 - [ ] **Line management of Maria Tam and Maria Vega** — formalised 2026-03-01; handle all leave requests, HR documentation, and administrative matters for both nurses
 
@@ -206,6 +206,7 @@
 ### Decisions Involving This Person
 | Date | Decision | Rationale | Outcome |
 |------|----------|-----------|---------|
+| 2026-03-07 | Amanda assigned as UK execution owner for nursing roster rollout | CEO proposals need London adaptation (3 nurses vs 4); Amanda is Practice Manager and closest to the team | Handover brief delivered; in progress |
 | 2026-03-01 | Maria Tam and Maria Vega formally report to Amanda for all line management / HR / administrative matters | Sanctura support structure formalised — tight, cohesive unit framework | In effect |
 | 2026-02-13 | Grant considering documented conversation if another incident occurs (strike 3) | Pattern of missed tasks despite expectations session | Pending — monitoring |
 | 2026-02-11 | Set explicit floor walk and reception expectations | CEO feedback + forgetfulness pattern | Complying |
