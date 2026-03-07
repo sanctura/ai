@@ -290,7 +290,7 @@ Use the `planning-processor` agent (`.claude/agents/planning-processor.md`) whic
 ### Data Integrity
 - Keep information current and accurate
 - Archive historical data (weekly plans → `planning/archive/`, completed projects → `projects/archive/`)
-- Use git commits to track evolution
+- Use git history to track evolution
 - Maintain consistency across related files (e.g., project owner must exist in `team-roster.md`)
 
 ### Proactive Support
@@ -365,10 +365,17 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 
 ## Git Usage
 
-This repository tracks changes over time. Use git history to:
+**Claude Code does not run git write commands.** The user handles all git operations (commit, push, rebase, merge, etc.) directly.
+
+When you have made changes:
+- Summarise what was changed and why
+- Suggest a commit message
+- Do not run git commit, push, or any write operations
+
+Read-only git commands (status, log, diff) may be used for context when needed.
+
+This repository tracks changes over time. Use git history (read-only) to:
 - Show how priorities have evolved
 - Track decision outcomes vs. expectations
 - Identify recurring patterns in risks or team issues
 - Demonstrate progress on strategic initiatives
-
-Commit messages should clearly describe what changed and why (e.g., "Update CEO directives with Q2 priorities" not "Update file").
