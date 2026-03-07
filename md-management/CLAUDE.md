@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Maintenance Commands
 - **"Reflect"**: When I use the word "Reflect" or "Update Docs", perform the following actions:
-  1. Scan the `@business`, `@people`, `@planning`, `@projects`, `@resources` and `@tracking` directories to identify new folders or templates.
+  1. Scan the `@business`, `@people`, `@planning` (including initiative folders), `@projects`, `@resources` and `@tracking` directories to identify new folders or templates.
   2. Compare what you find with the current descriptions in this file (`CLAUDE.md`).
   3. Update this file to include the new structures and suggest workflows based on the templates found.
 
@@ -89,34 +89,36 @@ Reference materials and organizational artifacts:
 **Use this to understand reporting structure and team composition visually.**
 
 ### 4. Planning (`/planning/`)
-Weekly execution, meeting structure, and decision tracking:
+Initiative-based planning system. Each initiative gets its own folder with an `info-base.md` tracker, supporting documents, ideas, and updates.
 
-**Meeting Structure:**
-- `meeting-structure.md` - Complete meeting framework with rationale, 60/30/10 MD/CTO/Innovation split, timezone considerations
-- `MEETING-SCHEDULE-SUMMARY.md` - One-page quick reference of weekly schedule, 4-week cycle pattern, meeting roster
-
-**Weekly Planning System:**
+**Root Files:**
+- `current-week.md` - Active weekly plan (copied from `weekly-planning/weekly-template.md` each Monday)
 - `EXAMPLE-current-week.md` - Filled example showing how to write priorities, track meetings, and complete reviews
 - `archive/` - Historical weekly plans (moved every Monday)
 
-**Concepts & Templates** (`/planning/concepts/`):
-*Ideas and templates that may or may not be adopted:*
-- `weekly-template.md` - Blank template to copy each Monday for the week ahead
-- `current-week.md` - Draft/template for this week's plan: top 3 priorities, meetings, focus blocks, decisions needed, end-of-week review
-- `WEEKLY-USAGE-GUIDE.md` - Complete instructions for using the weekly planning system, meeting prep checklists, cycle week reference
-- `decisions.md` - Template for tracking active decisions (pending), recent decisions (last 30 days), and major historical decisions with outcomes
-- `work-board-strategy.md` - Asana work board strategy for each direct report: shared workspaces, section structures by role, operating principles, and 1:1 integration
-- `asana-setup-guide.md` - Step-by-step Asana setup instructions: project creation, section configuration, custom fields by role, board views, and rollout schedule
-- `asana-workboard-reference.md` - Quick reference for Asana work board configurations per direct report
-- `flash-report-template.md` - Weekly flash report system: direct reports submit brief Friday updates (accomplishments, challenges, next week's focus, asks)
-- `flash-report-rollout-email.md` - Email template for introducing flash reports to team (delete after sending)
+**Templates & Inbox:**
+- `_TEMPLATE/` - Copy to create a new initiative folder (`info-base.md` + `supporting/` + `ideas/` + `updates/`)
+- `_inbox/` - Drop zone for raw planning information, processed by planning-processor agent
+  - `README.md` - Inbox workflow instructions
+  - `_processed/` - Archived processed files
 
-**Setup & Utilities:**
-- `meeting-setup-checklist.md` - Checklist for tracking calendar meeting setup progress (can be deleted once complete)
-- `meeting-template.md` - Generic meeting notes template (date, attendees, agenda, actions) for Google Drive use
+**Initiative Folders** (each contains `info-base.md` + `supporting/` + `ideas/` + `updates/`):
 
-**Decision Tracking:**
-- `concepts/decisions.md` - Active decisions (pending), recent decisions (last 30 days), and major historical decisions with outcomes
+| Folder | Description | Key Files |
+|--------|-------------|-----------|
+| `meeting-structure/` | Meeting rhythm, calendar, 4-week cycle | `meeting-structure.md`, `MEETING-SCHEDULE-SUMMARY.md`, `meeting-setup-checklist.md`, `meeting-template.md` |
+| `weekly-planning/` | Weekly planning system & templates | `weekly-template.md`, `WEEKLY-USAGE-GUIDE.md` |
+| `work-boards/` | Asana work board system for direct reports | `work-board-strategy.md`, `asana-setup-guide.md`, `asana-workboard-reference.md` |
+| `flash-reports/` | Weekly flash report system | `flash-report-template.md`, `updates/flash-report-rollout-email.md` |
+| `decisions/` | Decision tracking & log | `decisions.md` |
+| `presidents-list/` | CEO question management system | `presidents-list.md` |
+| `nursing-roster/` | Nursing roster proposal | *(new initiative)* |
+| `lead-management/` | Lead management & conversion | *(new initiative)* |
+| `incentive-program/` | Employee incentive trial (March) | *(new initiative)* |
+
+**Each initiative's `info-base.md` has 8 sections**: Status & Health, Purpose & Success Criteria, Key Decisions, Timeline & Milestones, Stakeholders & Adoption, Open Items & Actions, Feedback & Ideas, Patterns & Lessons Learned.
+
+**When discussing planning initiatives, read the initiative's `info-base.md` for quick current-state context.**
 
 **Weekly planning must align with CEO directives and strategic priorities. Meeting structure follows 4-week cycle with alternating bi-weekly patterns.**
 
@@ -153,7 +155,7 @@ Executive dashboard structure:
 **Bi-Weekly**: Update `direct-reports/[name]/performance.md` before Medical Officer 1:1s (Ismaeel W2,4)
 **Monthly**: Update metrics, refresh all profile and performance files before scheduled 1:1s, review risks/opportunities
 **Quarterly**: Update strategic sections in `business/overview.md`, conduct formal performance reviews, adjust org structure if needed
-**Ad Hoc**: CEO feedback → `ceo-directives.md`, project changes → `active.md`, new risks → `risks.md`, decisions → `decisions.md`, post-1:1 → `direct-reports/[name]/performance.md` and `one-on-ones/`, raw notes → `people/_inbox/`
+**Ad Hoc**: CEO feedback → `ceo-directives.md`, project changes → `active.md`, new risks → `risks.md`, decisions → `planning/decisions/decisions.md`, post-1:1 → `direct-reports/[name]/performance.md` and `one-on-ones/`, raw people notes → `people/_inbox/`, raw planning notes → `planning/_inbox/`
 
 ### Meeting Rhythm (4-Week Cycle)
 **Every Week**: Kyle (Mon), Yaseen (Tue), Amanda (Wed)
@@ -165,7 +167,7 @@ Executive dashboard structure:
 ### Key Workflows
 
 **Weekly Planning (Every Monday, 10-15 minutes)**
-1. Copy `planning/concepts/weekly-template.md` to `planning/current-week.md`
+1. Copy `planning/weekly-planning/weekly-template.md` to `planning/current-week.md`
 2. Fill in week dates and cycle week number (1, 2, 3, or 4) - determines which meetings occur
 3. Read `business/ceo-directives.md` for current CEO priorities
 4. Review `projects/active.md` for project health and blockers
@@ -175,12 +177,10 @@ Executive dashboard structure:
 8. Prep meeting agendas for the week (direct reports send theirs 24h before)
 9. Plan deep work blocks with specific focus areas
 
-**Refer to `planning/concepts/WEEKLY-USAGE-GUIDE.md` for complete workflow and `planning/EXAMPLE-current-week.md` for reference.**
-
-*Note: Templates live in `concepts/` folder. Active weekly plans should be `planning/current-week.md` (root).*
+**Refer to `planning/weekly-planning/WEEKLY-USAGE-GUIDE.md` for complete workflow and `planning/EXAMPLE-current-week.md` for reference.**
 
 **Meeting Structure Understanding**
-1. Refer to `planning/MEETING-SCHEDULE-SUMMARY.md` for quick weekly schedule reference
+1. Refer to `planning/meeting-structure/MEETING-SCHEDULE-SUMMARY.md` for quick weekly schedule reference
 2. Understand 4-week cycle: Week 1 (light), Week 2 (heavy with CEO), Week 3 (light), Week 4 (heavy with CEO)
 3. Monday = MD Day (6h deep work), Tuesday = CTO Day (7h deep work)
 4. Wednesday = Medical Officers (bi-weekly alternating) + Innovation time (9-11am, no calendar)
@@ -191,9 +191,9 @@ Executive dashboard structure:
 **Decision Support**
 1. Read relevant context files (`business/overview.md`, `ceo-directives.md`, `organization.md`)
 2. Review related projects, risks, and metrics
-3. Check `planning/concepts/decisions.md` for precedent decisions
+3. Check `planning/decisions/decisions.md` for precedent decisions
 4. Provide recommendation with clear rationale referencing business context
-5. Document decision in `planning/concepts/decisions.md` once made
+5. Document decision in `planning/decisions/decisions.md` once made
 
 **People Management**
 1. Read `people/team-roster.md` for team overview
@@ -219,6 +219,19 @@ Use the `inbox-processor` agent (`.claude/agents/inbox-processor.md`) which hand
 5. Move processed files to `people/_inbox/_processed/` with routing comment
 6. Output structured summary to user (files processed, destinations, urgent flags, questions)
 
+**Process Planning Inbox** (Route raw planning information — uses `planning-processor` sub-agent)
+Use the `planning-processor` agent (`.claude/agents/planning-processor.md`) which handles two modes:
+1. **Inbox scan**: Scan `planning/_inbox/` for unprocessed files, identify which initiative each relates to, route content to correct initiative folder (info-base updates, supporting docs, ideas, updates), move processed files to `_inbox/_processed/`, output summary
+2. **Conversational**: User tells the agent what happened, agent identifies the initiative, classifies content, updates the correct `info-base.md` sections, and confirms
+- New initiatives → create folder from `planning/_TEMPLATE/`
+- Status/blocker changes → info-base Section 1
+- Decisions → info-base Section 3
+- Timeline changes → info-base Section 4
+- Action items → info-base Section 6
+- Feedback/ideas → info-base Section 7
+- Formal communications → `updates/YYYY-MM-DD-description.md`
+- Reference material → `supporting/`
+
 **Project Oversight**
 1. Read all `projects/active.md` to assess portfolio health
 2. Cross-reference with `business/overview.md` strategic priorities
@@ -234,8 +247,8 @@ Use the `inbox-processor` agent (`.claude/agents/inbox-processor.md`) which hand
 5. Assess mitigation plan progress
 
 **Work Board Management** (Asana-based direct report tracking)
-1. Refer to `planning/concepts/work-board-strategy.md` for overall approach and per-person section structure
-2. Use `planning/concepts/asana-setup-guide.md` for setup and configuration instructions
+1. Refer to `planning/work-boards/work-board-strategy.md` for overall approach and per-person section structure
+2. Use `planning/work-boards/asana-setup-guide.md` for setup and configuration instructions
 3. Each direct report has their own work board with role-specific sections
 4. Yaseen (CPO) uses "Project as Custom Field" model: 4 sections (Spotlight, Backlog, Waiting On, Done) with Project dropdown for filtering
 5. Other reports use domain-specific sections (e.g., Alida: Monthly Cycle, CFO Coordination; Kyle: Facilities, Reception)
@@ -256,7 +269,7 @@ Use the `inbox-processor` agent (`.claude/agents/inbox-processor.md`) which hand
 4. Reference specific items in 1:1s to reinforce value
 5. Look for patterns across reports (common blockers, resource conflicts)
 6. Respond immediately if urgent blockers flagged
-7. Template and guidance in `planning/concepts/flash-report-template.md`
+7. Template and guidance in `planning/flash-reports/flash-report-template.md`
 
 ## Assistant Behavior Guidelines
 
@@ -297,6 +310,8 @@ When user asks about:
 - Flash reports: `people/direct-reports/[name]/flash-reports/YYYY-MM-DD.md` (Friday date)
 - Stakeholder folders: `people/stakeholders/[firstname-lastname]/`
 - People inbox files: `people/_inbox/YYYY-MM-DD-description.md`
+- Planning inbox files: `planning/_inbox/YYYY-MM-DD-description.md`
+- Planning initiative folders: `planning/[initiative-name]/` (lowercase, hyphenated)
 - Weekly plans: `planning/current-week.md` (active week)
 - Weekly archives: `planning/archive/week-YYYY-MM-DD.md` (Monday date of that week)
 - Project archives: `projects/archive/[project-name]-YYYY-MM-DD.md` (completion date)
@@ -326,8 +341,8 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 
 ## Common Requests
 
-**"Help me plan this week"** → Check cycle week number → Read ceo-directives.md, active.md, risks.md, team-roster.md → Copy `concepts/weekly-template.md` to `current-week.md` with appropriate meetings for that cycle week
-**"What meetings do I have this week?"** → Check cycle week (1-4) → Refer to MEETING-SCHEDULE-SUMMARY.md → List specific meetings for that cycle
+**"Help me plan this week"** → Check cycle week number → Read ceo-directives.md, active.md, risks.md, team-roster.md → Copy `weekly-planning/weekly-template.md` to `current-week.md` with appropriate meetings for that cycle week
+**"What meetings do I have this week?"** → Check cycle week (1-4) → Refer to `meeting-structure/MEETING-SCHEDULE-SUMMARY.md` → List specific meetings for that cycle
 **"Prep me for 1:1 with [Name]"** → Read `direct-reports/[name]/info-base.md` (quick current-state view) + `profile.md` + `performance.md` → check latest `one-on-ones/` and `flash-reports/` → summarize status, review last meeting actions, suggest discussion topics
 **"Process inbox"** → Use inbox-processor agent → classify, route content, update info-bases, archive processed files, output summary
 **"Should we pursue [opportunity]?"** → Read overview.md, organization.md, active.md, risks.md, opportunities.md → assess fit and provide recommendation
@@ -335,14 +350,18 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 **"Are we aligned with strategy?"** → Read overview.md, ceo-directives.md, active.md → identify drift or misalignment
 **"Show me my meeting schedule"** → Display MEETING-SCHEDULE-SUMMARY.md in readable format
 **"Who reports to whom?"** → Reference organization.md or resources/Org Chart image
-**"Help me set up work boards"** → Read `planning/concepts/work-board-strategy.md` and `planning/concepts/asana-setup-guide.md` → Guide through Asana project setup per direct report
-**"How should Yaseen's board work?"** → Reference work-board-strategy.md → Explain Project as Custom Field model with Spotlight/Backlog/Waiting On/Done sections
+**"Help me set up work boards"** → Read `planning/work-boards/work-board-strategy.md` and `planning/work-boards/asana-setup-guide.md` → Guide through Asana project setup per direct report
+**"How should Yaseen's board work?"** → Reference `planning/work-boards/work-board-strategy.md` → Explain Project as Custom Field model with Spotlight/Backlog/Waiting On/Done sections
 **"Log my progress this week"** → Use md-progress-tracker agent → Create weekly log in `tracking/md-progress/weekly-logs/`
 **"Draft a CEO update"** → Use md-progress-tracker agent → Create concise update in `tracking/md-progress/communications/`
 **"What are my expectations for reports?"** → Read `people/direct-report-expectations.md` → Review the 5 expectations: Attitude, Communication, Accountability, Continuous Improvement, Strategic Alignment
-**"Set up flash reports"** → Read `planning/concepts/flash-report-template.md` and `flash-report-rollout-email.md` → Guide through sending rollout email to direct reports
+**"Set up flash reports"** → Read `planning/flash-reports/flash-report-template.md` and `planning/flash-reports/updates/flash-report-rollout-email.md` → Guide through sending rollout email to direct reports
 **"What's the status on [Name]?"** → Read `direct-reports/[name]/info-base.md` → Scan performance status, active concerns, recent wins, open tasks, and feedback register
 **"Show me [Name]'s information base"** → Read and display `direct-reports/[name]/info-base.md` — structured current-state database
+**"Process planning inbox"** → Use planning-processor agent → scan `planning/_inbox/`, route to initiatives, update info-bases, archive, output summary
+**"What's the status of [initiative]?"** → Read `planning/[initiative]/info-base.md` → Scan status, blockers, next milestone, open items
+**"Show me all initiatives"** → List all folders in `planning/` with their info-base quick status lines
+**"Create a new initiative"** → Copy `planning/_TEMPLATE/` to `planning/[name]/` → Populate info-base.md with initial information
 
 ## Git Usage
 
