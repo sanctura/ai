@@ -16,11 +16,11 @@
 - **Role**: Medical Officer
 - **Reports To**: Grant Merwitz (MD)
 - **Start Date**: [Date]
-- **Location**: London
-- **Key Responsibilities**: Clinical oversight for London operations, managing medical staff and clinical quality
+- **Location**: Cape Town
+- **Key Responsibilities**: Clinical oversight for Cape Town operations, clinical direction for oncology/chemotherapy unit, managing medical staff and clinical quality
 - **Performance Status**: [To be assessed]
 - **Current Focus**: [To be determined]
-- **Notes**: Manages a team of 4 including Head Nurse and nursing staff
+- **Notes**: Provides clinical direction to nursing team including Abongile Ntulo (Unit Manager). Abongile's line management sits with Kyle Bennett.
 
 ### Kyle Bennett
 - **Role**: Practice Manager
@@ -30,7 +30,7 @@
 - **Key Responsibilities**: Practice operations, reception management, facilities
 - **Performance Status**: [To be assessed]
 - **Current Focus**: [To be determined]
-- **Notes**: Manages a team of 3 (2 Receptionists, 1 House Keeping)
+- **Notes**: Manages a team of 3 (2 Receptionists, 1 House Keeping) + Abongile Ntulo (Unit Manager, Oncology)
 
 ### Yaseen Harneker
 - **Role**: CPO (Chief Project Officer)
@@ -70,16 +70,16 @@
 3. **Lexee Duval** - Receptionist - [To be assessed]
 4. **Elly Moore** - Receptionist - [To be assessed]
 
-### Under Dr Ismaeel Ebrahim (London Medical)
-1. **Abongile** - Head Nurse - [To be assessed]
-2. **Ferdinand Cho Muluh** - Registered Nurse - [To be assessed]
-3. **Candice Henri** - Registered Nurse - [To be assessed]
-4. **Carel Louw** - Nurse - [To be assessed]
+### Under Dr Ismaeel Ebrahim (Clinical Direction, Cape Town)
+1. **Ferdinand Cho Muluh** - Registered Nurse - [To be assessed]
+2. **Candice Henri** - Registered Nurse - [To be assessed]
+3. **Carel Louw** - Nurse - [To be assessed]
 
 ### Under Kyle Bennett (Practice Operations)
-1. **Janine Nathan** - Receptionist - [To be assessed]
-2. **Nuhaa Peterson** - Receptionist - [To be assessed]
-3. **Sweetness Twalo** - House Keeping - [To be assessed]
+1. **Abongile Ntulo** - Unit Manager, Oncology/Chemotherapy - 🟡 At Risk (onboarding gaps, probation ends ~31 Mar 2026)
+2. **Janine Nathan** - Receptionist - [To be assessed]
+3. **Nuhaa Peterson** - Receptionist - [To be assessed]
+4. **Sweetness Twalo** - House Keeping - [To be assessed]
 
 ## Key Person Dependencies
 
