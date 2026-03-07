@@ -3,11 +3,11 @@
 ## Current Strategic Guidance
 
 ### Top Priorities from CEO
-1. **[Priority 1]**
-   - Context:
-   - Expected Outcome:
-   - Timeline:
-   - Status:
+1. **Nursing Rota / Roster**
+   - Context: James tasked Grant with resolving the nursing rota at the beginning of his MD tenure. Still outstanding.
+   - Expected Outcome: Structured nursing roster with clear coverage, rollout plan agreed with Amanda
+   - Timeline: Resolve during London visit w/c 2026-03-10
+   - Status: 🟡 To be discussed with Amanda in office this week
 
 2. **[Priority 2]**
    - Context:

@@ -10,6 +10,10 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+### 2026-03-07 `[concern]`
+Grant observations: Kyle still doing patient quoting himself rather than delegating to the team — when Kyle was off Monday, Grant had to step in to cover. This needs to become a team capability, not a single point of failure. Separately, when Grant asked Kyle about stock control process, Kyle had not spoken to Ronald (Interim CFO) or explored leveraging the bookkeeper despite being busy with stock tasks for weeks. Not proactively coordinating with available support — accountability concern. Felt like victim mentality rather than practice manager ownership. Nursing management role expansion under discussion — to be finalised Monday catch-up.
+*(Source: Grant observation)*
+
 ### 2026-03-06 `[achievement]` `[concern]`
 Flash report (week ending 2026-03-06): Finalised Xero stock count. Continuing to correct stock items/invoicing on Xero. Approved Gary's +R2m insurance claim. Next week focus: Stock Management on Xero, understanding new financial structure and processes, lead conversion and CRM integration, pharmacy order and cleanliness. Asks: nothing urgent.
 - Unit Manager leadership, control & communication — raised for the FIFTH consecutive week. Language unchanged. No documented 1:1 intervention on file.

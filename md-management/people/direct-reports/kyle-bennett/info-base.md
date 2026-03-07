@@ -1,7 +1,7 @@
 # Kyle Bennett - Information Base
 
-**Last Updated**: 2026-03-06
-**Quick Status**: Strong operational performer. Xero stock count finalised. Unit Manager leadership concern now FIVE consecutive flash reports — unaddressed in 1:1. Missing transcript issue persists (Manuela Steyn & Dean Otto named). Contract still unsigned.
+**Last Updated**: 2026-03-07
+**Quick Status**: Steady operational performer but not proactive. Xero stock count finalised. Unit Manager leadership concern now FIVE consecutive flash reports — unaddressed in 1:1. Quoting not yet delegated to team (single point of failure). Stock control process not coordinated with Ronald/bookkeeper despite being asked. Nursing management role expansion under discussion — Monday catch-up planned.
 
 ---
 
@@ -14,7 +14,9 @@
 
 **Current Concerns**:
 - Unit Manager leadership, control and communication — flagged in FIVE consecutive flash reports (2026-02-06, 2026-02-13, 2026-02-20, 2026-02-27, 2026-03-06) — MUST be addressed in 1:1
-- Contract unsigned — Kyle received his Practice Manager contract, changes agreed, but has not yet signed and returned it
+- **Quoting not delegated** — Kyle still doing quoting himself; when he was off Monday, Grant had to step in. Needs to embed this as a team capability (first noted 2026-03-07)
+- **Stock control — lack of proactive coordination** — when Grant asked about stock process, Kyle hadn't spoken to Ronald (Interim CFO) or explored leveraging the bookkeeper. Busy but not reaching out for support. Accountability concern (first noted 2026-03-07)
+- Contract unsigned — Kyle received his Practice Manager contract, changes agreed, but has not yet signed and returned it. Nursing management role expansion under discussion — to be finalised in Monday catch-up
 - Nuhaa salary increase outcome — Kyle and Yaseen discussed; outcome still owed to Nuhaa (per Yaseen handover)
 - Transcript recording issues — urgent: 5 new patients on Monday, transcripts must be fixed before then (flagged 2026-02-27)
 - Dr availability in March / new patient pipeline — first flagged 2026-02-27
@@ -108,7 +110,9 @@
 **Patterns**:
 - On-time completion: Strong — completing multiple items per week
 - Communication on blockers: Good — flags nursing team issues clearly in flash reports
-- Self-directed: Taking initiative on systems without being prompted
+- Self-directed: Mixed — takes initiative on systems (Xero, ward rounds) but does not proactively coordinate with other stakeholders (e.g., Ronald, bookkeeper on stock control). Tends to work in isolation rather than leveraging available support
+- Delegation: Weak — still doing quoting himself rather than building team capability. Single point of failure risk
+- Pace: Sequential — works through items one at a time, struggles with multiple changing priorities simultaneously
 
 ---
 
@@ -126,6 +130,9 @@
 - **Process documentation**: Inventory, supplier and stock processes unclear — needs to define and document these
 - **Financial systems**: Learning Xero and new financial structure — in progress
 - **Administrative follow-through**: Contract still unsigned; action items from handover period need follow-up
+- **Delegation and team capability building**: Still doing quoting himself instead of training the team — creates single point of failure (Grant had to cover when Kyle was off Monday)
+- **Proactive coordination**: Doesn't reach out to other stakeholders (Ronald, bookkeeper) without being prompted — tends toward victim mentality when busy rather than leveraging available support
+- **Multi-tasking**: Works sequentially, one item at a time — struggles when multiple things need to change at once
 
 **Skill Development Timeline**:
 | Date | Milestone |

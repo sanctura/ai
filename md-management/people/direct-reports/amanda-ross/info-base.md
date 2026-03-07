@@ -1,7 +1,7 @@
 # Amanda Ross - Information Base
 
-**Last Updated**: 2026-03-01
-**Quick Status**: Structural update — Sanctura support framework formalised. Maria Tam and Maria Vega now formally report to Amanda for all line management and HR matters. Hiring progress continues; credit card spending limits remain a structural blocker.
+**Last Updated**: 2026-03-07
+**Quick Status**: Operational progress — Hilotherm installed, Zeenat onboarded, quoting now embedded with Maria T and Lexee. Reception cover causing managerial task delays. Plant wall decision deferred to James meeting Mon 10 Mar; screen handled by Grant in person. Open ask: external training budget discussion.
 
 ---
 
@@ -20,6 +20,7 @@
 - Sits at reception instead of working the floor — expectation set 2026-02-11, currently complying
 
 **Recent Wins** (last 30 days):
+- Flash report submitted week of 2026-03-06: Zeenat onboarded, Hilotherm installed and training completed, excess waste removed, James' room crack repaired, all 5 new patient protocols quoted — Maria T and Lexee now comfortable with quoting process
 - Flash report submitted week of 2026-02-27: fixed-term receptionist secured, 5 full-time candidates interviewed, living wall installed, hyperthermia issue resolved, Xero stock updated
 - Flash report submitted week of 2026-02-20: strong output (Xero stock/supplier learning, invoicing errors minimal, BLS training scheduled, IPM Conference exhibition stand secured, Burg stock resolved)
 - Flash report submitted week of 2026-02-06: strong content (Saba onboarding, invoicing rollout, heating fix)
@@ -37,12 +38,12 @@
 | Type | Last Date | Summary |
 |------|-----------|---------|
 | 1:1 | 2026-02-11 | Expectations-setting session — positives acknowledged, floor presence, snag list, Asana work board introduced |
-| Flash Report | 2026-02-27 | Submitted: Fixed-term receptionist secured, 5 full-time candidates interviewed, living wall installed, hyperthermia resolved, Xero stock updated. Blocker: credit card limits restricting clinic improvements. Ask: Revolut account / spending limit solution. |
+| Flash Report | 2026-03-06 | Submitted: Zeenat onboarded, Hilotherm installed and trained, waste removed, James' room crack fixed, 5 new patient protocols quoted. Blocker: Lexee on sick leave + Zeenat not yet trained = Amanda covering reception, causing management task delays. Medical indemnity spreadsheet incomplete (weekend work). Asks: clinic visit input (plant wall/curved screen); external training budget discussion. |
 | Informal Check-in | 2026-02-13 | Grant observation notes — positive and concerning items |
 
 **Frequency**:
 - 1:1 cadence: Weekly (Wednesday)
-- Flash report submission rate: 3 of 4 weeks (75%) — missed week of 2026-02-13 (off Friday); submitted all other weeks
+- Flash report submission rate: 4 of 5 weeks (80%) — missed week of 2026-02-13 (off Friday); submitted all other weeks
 - Unplanned escalations (last 30 days): 0
 
 ---
@@ -81,7 +82,7 @@
 - [ ] Maria Vega room rental request — explore private consulting arrangement
 - [ ] Maria Tam periodic review — 6-monthly check on private practice arrangement
 - [ ] CQC policy annual review — in progress, delayed by busy week (2026-02-06)
-- [ ] Plant wall installation — closing off with Plant Care
+- [ ] Plant wall installation — closing off with Plant Care; **decision deferred to Monday 2026-03-10 discussion with James in London office**
 - [x] Lexee salary request — resolved 2026-02-18: 18% increase granted and communicated by Grant
 - [ ] HBOT signage — up but needs images/graphics
 - [ ] UK breathwork room -> immersive sensory room conversion — in progress, unclear instructions
@@ -93,16 +94,17 @@
 - [ ] Invoicing system go-live — continue supporting team confidence
 - [ ] Clinical Governance meeting prep — agenda, information collation
 - [ ] Saba ongoing training — working with Lexee
-- [ ] **Second receptionist replacement (full-time)** — fixed-term secured (2026-02-27); five full-time candidates interviewed week of 2026-02-27; decision/offer pending
+- [ ] **Second receptionist replacement (full-time)** — Zeenat secured as fixed-term (2026-02-27, now onboarding); two more full-time candidates scheduled for in-person interview next week (2026-03-09 week)
 - [ ] **Lexee role clarification** — assist in defining Lexee's role (receptionist/PA/liaison clarity) (assigned 2026-02-18, URGENT)
 - [ ] Snag list — create and action items (stated focus for week of 2026-02-24 — track for accountability)
 - [ ] Work with Maria V on patient management processes (stated focus for week of 2026-02-24)
 - [ ] Patient leaflets — awaiting Grant/marketing input (ask from Amanda, not urgent)
-- [ ] Curved screen selection — to be purchased ahead of James' visit (stated focus week of 2026-03-02)
+- [ ] Curved screen selection — Grant to handle personally during London visit (w/c 2026-03-10); needs to verify resolution and size in person
 - [ ] **Revolut account / spending limit solution** — credit card limits blocking clinic improvements; Amanda asking for support via Ricardo or alternative (ask from 2026-02-27 flash report)
-- [ ] HILOTHERM installation and pricing plan — oversee installation and training, propose pricing with Maria V (stated focus week of 2026-03-02)
+- [x] HILOTHERM installation and training — completed week of 2026-03-06 (pricing plan with Maria V still open)
 - [ ] Governance meeting agenda — prepare for upcoming meeting (date TBC, stated focus week of 2026-03-02)
-- [ ] Onboard and train new (fixed-term) receptionist — stated focus week of 2026-03-02
+- [ ] **Nursing rota / roster** — CEO-assigned item from start of Grant's tenure; to be resolved during London visit w/c 2026-03-10 with rollout plan. PRIORITY.
+- [x] Onboard Zeenat (fixed-term receptionist) — onboarded week of 2026-03-06; training ongoing with support from Lexee
 - [ ] **Line management of Maria Tam and Maria Vega** — formalised 2026-03-01; handle all leave requests, HR documentation, and administrative matters for both nurses
 
 **Recently Completed** (last 30 days):
@@ -148,15 +150,16 @@
 
 ## 6. Flash Report Trends
 
-**Submission Rate**: 3 of 4 weeks (75%) — missed 2026-02-13 due to Friday absence; submitted all other weeks
-**Reports on file**: 3 (2026-02-06, 2026-02-20, 2026-02-27)
+**Submission Rate**: 4 of 5 weeks (80%) — missed 2026-02-13 due to Friday absence; submitted all other weeks
+**Reports on file**: 4 (2026-02-06, 2026-02-20, 2026-02-27, 2026-03-06)
 
 **Recurring Themes**:
-- Accomplishments: Onboarding, invoicing system, facilities fixes, Xero learning, training/events, stock resolution, receptionist hiring progress
-- Blockers: Second receptionist vacancy (partially resolved — fixed-term secured, full-time interviews done); credit card/spending limits restricting clinic improvements
-- Asks: Contract decisions (Maria Vega); patient leaflets; curved screen guidance; Revolut account / spending limit solution
+- Accomplishments: Onboarding, invoicing system, facilities fixes, Xero learning, training/events, stock resolution, receptionist hiring progress, clinical equipment installation
+- Blockers: Second receptionist vacancy (fixed-term Zeenat onboarding, full-time interviews ongoing); Lexee sick leave creating coverage gap and management task delays
+- Asks: Contract decisions (Maria Vega); patient leaflets; Revolut account / spending limit solution; external training budget for nurses
+- Plant wall and curved screen asks resolved — plant wall to be discussed with James on Monday 2026-03-10 in London; screen to be handled by Grant in person during London visit
 
-**Sentiment Trend**: Positive and constructive in submitted reports. Week of 2026-02-27 report is strong — concrete hiring progress (fixed-term secured, 5 candidates interviewed), operational wins (living wall, hyperthermia, Xero). Blocker is structural (credit card limits) and escalated appropriately. Pattern of good flash report quality when submitted.
+**Sentiment Trend**: Positive and constructive in submitted reports. Week of 2026-03-06 report shows strong operational delivery (Hilotherm install, quoting embedded, facilities) but coverage gap (Lexee sick leave + Zeenat not trained) is pulling Amanda back into reception work — a recurring pattern. Quoting capability now embedded with Maria T and Lexee, which is a meaningful team capability gain.
 
 ---
 
@@ -247,7 +250,7 @@
 | Profile | `profile.md` |
 | Performance Log | `performance.md` |
 | 1:1 Notes | `one-on-ones/2026-02-11.md` |
-| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-20.md`, `flash-reports/2026-02-27.md` |
+| Flash Reports | `flash-reports/2026-02-06.md`, `flash-reports/2026-02-20.md`, `flash-reports/2026-02-27.md`, `flash-reports/2026-03-06.md` |
 | Documents | `documents/` |
 | Updates | `updates/2026-02-11-*.md` (5 files: role expectations, work board tasks, post-meeting email, walkthrough checklist, role expectations attachment) |
 

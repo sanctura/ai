@@ -10,6 +10,18 @@ Running log of performance observations, feedback, and achievements. Newest entr
 
 ## Log
 
+### 2026-03-06 `[achievement]`
+Flash report (week ending 2026-03-06): Zeenat onboarded and training underway; secured two more receptionist candidates for interview next week. Hilotherm devices installed and training completed. Excess waste removed and crack in James' room repaired. Made progress on policies and procedures with Wendy. All 5 new patient protocols quoted this week — Maria T and Lexee now comfortable with the quoting process.
+*(Source: flash report)*
+
+### 2026-03-06 `[concern]`
+Lexee on sick leave and Zeenat not fully trained left Amanda covering reception, causing delays to managerial tasks. Medical indemnity spreadsheet not yet completed — Amanda plans to finalise over the weekend, indicating work is bleeding into personal time to compensate for cover duties.
+*(Source: flash report)*
+
+### 2026-03-06 `[observation]`
+Next week focus: practitioner document follow-up, Xero pricing updates, snag list actioning (curved screen, plant wall), continued Zeenat training. Asks: Grant's input on clinic decisions during visit next week; discussion on external training budget for nurses (oncology/integrative focus — all nurses have expressed strong interest).
+*(Source: flash report)*
+
 ### 2026-03-01 `[observation]`
 Sanctura support structure formalised: Maria Tam and Maria Vega now formally report to Amanda for all line management and HR/administrative matters including leave requests and HR documentation. Amanda is responsible for ensuring clinical coverage when leave is requested, liaising with Maria Tam accordingly. Maria Tam retains functional/clinical direction of nursing staff independently of Amanda's administrative line management role.
 *(Source: inbox — Sanctura support structure document)*
@@ -89,4 +101,4 @@ Handover from Yaseen (batch 2) — facilities items: lift shaft cleaning (done, 
 
 ---
 
-*Last Updated: 2026-03-01*
+*Last Updated: 2026-03-07*
