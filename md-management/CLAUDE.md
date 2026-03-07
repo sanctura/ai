@@ -34,7 +34,7 @@ Team oversight, performance tracking, and stakeholder management:
 - `direct-report-expectations.md` - General expectations for all direct reports: Attitude, Communication, Accountability, Continuous Improvement, Strategic Alignment
 
 **Inbox** (`/people/_inbox/`):
-Drop zone for raw information about people. Files are named `YYYY-MM-DD-description.md` and processed into the correct location when user says "process inbox". See `_inbox/README.md` for full workflow.
+Drop zone for raw information about people. Files are named `YYYY-MM-DD-description.md` and processed into the correct location when user says "process people inbox". See `_inbox/README.md` for full workflow.
 
 **Direct Reports** (`/people/direct-reports/`):
 Each direct report has their own folder with a consistent structure:
@@ -50,7 +50,7 @@ Each person's folder contains:
 |---|---|
 | `profile.md` | Role, responsibilities, team managed, retention, development, goals |
 | `performance.md` | Running log of date-stamped observations with category tags |
-| `info-base.md` | Structured information base — compiled database of performance status, feedback register, task tracking, concerns/patterns, decisions, and context. Auto-maintained by inbox-processor agent. |
+| `info-base.md` | Structured information base — compiled database of performance status, feedback register, task tracking, concerns/patterns, decisions, and context. Auto-maintained by people-processor agent. |
 | `documents/` | Contracts, policies, legal/HR documents |
 | `flash-reports/` | Weekly flash reports (`YYYY-MM-DD.md`, Friday date) |
 | `one-on-ones/` | 1:1 meeting notes (`YYYY-MM-DD.md`, meeting date) |
@@ -155,7 +155,7 @@ Executive dashboard structure:
 **Bi-Weekly**: Update `direct-reports/[name]/performance.md` before Medical Officer 1:1s (Ismaeel W2,4)
 **Monthly**: Update metrics, refresh all profile and performance files before scheduled 1:1s, review risks/opportunities
 **Quarterly**: Update strategic sections in `business/overview.md`, conduct formal performance reviews, adjust org structure if needed
-**Ad Hoc**: CEO feedback → `ceo-directives.md`, project changes → `active.md`, new risks → `risks.md`, decisions → `planning/decisions/decisions.md`, post-1:1 → `direct-reports/[name]/performance.md` and `one-on-ones/`, raw people notes → `people/_inbox/`, raw planning notes → `planning/_inbox/`
+**Ad Hoc**: CEO feedback → `ceo-directives.md`, project changes → `active.md`, new risks → `risks.md`, decisions → `planning/decisions/decisions.md`, post-1:1 → `direct-reports/[name]/performance.md` and `one-on-ones/`, raw people notes → `people/_inbox/` (process with "process people inbox"), raw planning notes → `planning/_inbox/` (process with "process planning inbox")
 
 ### Meeting Rhythm (4-Week Cycle)
 **Every Week**: Kyle (Mon), Yaseen (Tue), Amanda (Wed)
@@ -204,8 +204,8 @@ Executive dashboard structure:
 6. Check latest flash reports in `people/direct-reports/[name]/flash-reports/`
 7. Provide guidance considering team health, organizational constraints, and strategic priorities
 
-**Process Inbox** (Route raw people information — uses `inbox-processor` sub-agent)
-Use the `inbox-processor` agent (`.claude/agents/inbox-processor.md`) which handles the full workflow:
+**Process People Inbox** (Route raw people information — uses `people-processor` sub-agent)
+Use the `people-processor` agent (`.claude/agents/people-processor.md`) which handles the full workflow:
 1. Scan `people/_inbox/` for unprocessed files (skip README.md and `_processed/`)
 2. Classify content by person and type (observation, achievement, concern, feedback, meeting notes, flash report, task, decision, etc.)
 3. Route content to correct destinations:
@@ -344,7 +344,7 @@ If files are empty/templated, guide user through `GETTING-STARTED.md` steps:
 **"Help me plan this week"** → Check cycle week number → Read ceo-directives.md, active.md, risks.md, team-roster.md → Copy `weekly-planning/weekly-template.md` to `current-week.md` with appropriate meetings for that cycle week
 **"What meetings do I have this week?"** → Check cycle week (1-4) → Refer to `meeting-structure/MEETING-SCHEDULE-SUMMARY.md` → List specific meetings for that cycle
 **"Prep me for 1:1 with [Name]"** → Read `direct-reports/[name]/info-base.md` (quick current-state view) + `profile.md` + `performance.md` → check latest `one-on-ones/` and `flash-reports/` → summarize status, review last meeting actions, suggest discussion topics
-**"Process inbox"** → Use inbox-processor agent → classify, route content, update info-bases, archive processed files, output summary
+**"Process people inbox"** → Use people-processor agent → classify, route content, update info-bases, archive processed files, output summary
 **"Should we pursue [opportunity]?"** → Read overview.md, organization.md, active.md, risks.md, opportunities.md → assess fit and provide recommendation
 **"What needs my attention?"** → Read active.md, risks.md, metrics.md → flag red/yellow status items
 **"Are we aligned with strategy?"** → Read overview.md, ceo-directives.md, active.md → identify drift or misalignment

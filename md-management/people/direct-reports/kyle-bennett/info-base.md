@@ -246,4 +246,4 @@
 
 ---
 
-*This information base is maintained by the inbox-processor agent. Manual edits are fine but may be overwritten during processing. For authoritative chronological records, see `performance.md`.*
+*This information base is maintained by the people-processor agent. Manual edits are fine but may be overwritten during processing. For authoritative chronological records, see `performance.md`.*

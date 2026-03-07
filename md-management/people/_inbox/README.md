@@ -1,17 +1,17 @@
 # People Inbox
 
-Drop zone for raw information about people. Files placed here will be processed and routed to the correct location by the **inbox-processor** agent.
+Drop zone for raw information about people. Files placed here will be processed and routed to the correct location by the **people-processor** agent.
 
 ## How to Use
 
 1. **Drop a file** in this folder with any raw information: meeting notes, observations, copy-pasted emails, feedback, flash report content, etc.
 2. **Name it**: `YYYY-MM-DD-description.md` (e.g., `2026-02-11-amanda-london-meeting.md`)
 3. **Content**: Freeform. No special format required. Just dump the information.
-4. **Say "process inbox"** to Claude to have all files processed.
+4. **Say "process people inbox"** to Claude to have all files processed.
 
 ## What Happens During Processing
 
-The **inbox-processor** agent (`.claude/agents/inbox-processor.md`) handles the full workflow:
+The **people-processor** agent (`.claude/agents/people-processor.md`) handles the full workflow:
 
 1. Scan all files in `_inbox/` (skips README.md and `_processed/`)
 2. Classify each file by person(s) and content type (observation, achievement, concern, feedback, meeting notes, flash report, task, decision, etc.)
