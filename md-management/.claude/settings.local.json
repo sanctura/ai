@@ -9,7 +9,6 @@
     "deny": [
       "Edit(.env)",
       "Edit(.git/**)",
-      "Edit(.claude/**)",
       "Bash(git commit *)",
       "Bash(git push *)",
       "Bash(git rebase *)",

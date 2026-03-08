@@ -1,6 +1,6 @@
 # Nursing Roster — Info Base
 
-> **Quick Status**: 🟡 In Progress | Owner: Amanda Ross (UK rollout) / Grant (oversight + CT) | Last Updated: 2026-03-07
+> **Quick Status**: 🟡 In Progress | Owner: Amanda Ross (UK rollout) / Grant (oversight + CT) | Last Updated: 2026-03-08
 
 ---
 
@@ -8,12 +8,12 @@
 
 | Field | Value |
 |-------|-------|
-| Phase | 🟡 In Progress — UK handover brief delivered to Amanda; rollout in progress |
-| Health | 🟢 On Track — Amanda briefed as UK execution owner; London visit week is go-live window |
+| Phase | 🟡 In Progress — V2 roster plan updated with CEO feedback; London visit finalisation next |
+| Health | 🟢 On Track — CEO feedback positive ("looks very good"); clinic hours, peaks, and backup model updated |
 | Owner | Amanda Ross (UK execution owner) / Grant (oversight, CT rollout, CQC sign-off) |
-| Blockers | None — handover complete; Amanda to draft 3-week rotation during London visit |
+| Blockers | None — V2 plan ready; Amanda to finalise nurse assignments during London visit |
 
-**Context**: CEO James authored three roster/SOP proposals at the start of Grant's MD tenure. Grant formally handed over UK execution ownership to Amanda on 2026-03-07 with a detailed adaptation brief (`supporting/uk-roster-amanda-brief.md`). The brief adapts James's 4-nurse Cape Town model to London's 3-nurse + locum reality. Target: roster agreed during London visit (w/c 2026-03-09), staff briefed mid-March, live end-March.
+**Context**: CEO James authored three roster/SOP proposals at the start of Grant's MD tenure. Grant formally handed over UK execution ownership to Amanda on 2026-03-07 with a detailed adaptation brief (`supporting/uk-roster-amanda-brief.md`). James reviewed V1 roster plan on 2026-03-08 and provided feedback: adjust clinic hours to 08:00–20:00, define peak hours (10:00–14:00, 18:00–20:00), and ensure emergency backup coverage. V2 plan incorporates all feedback. Target: roster finalised during London visit (w/c 2026-03-09), staff briefed mid-March, live end-March.
 
 ---
 
@@ -43,6 +43,11 @@
 | 2026-03-07 | Saturday on-call: clinic landline auto-forwards to primary nurse 08:00–12:00; failover to standby nurse; voicemail after 12:00 | James's proposal; avoids over-staffing while maintaining coverage | Pending adoption |
 | 2026-03-07 | CQC-aligned SOP to govern London reception duty and on-call | UK regulatory requirement | Pending adoption |
 
+| 2026-03-08 | Clinic hours: 08:00–20:00 (shifted from 07:00–19:00 per CEO feedback) | James specified "8 or 8:30 to 8" for UK clinic | Incorporated in V2 |
+| 2026-03-08 | Peak hours defined: 10:00–14:00 and 18:00–20:00 — shifts staggered for double coverage | CEO identified peak windows; roster restructured to maximise overlap | Incorporated in V2 |
+| 2026-03-08 | Maria Vega: emergency floor backup only, NOT fixed infusion schedule | Maria V has been clear this is not her intended role; Grant's position: available on occasion for genuine emergencies, not rostered hours | Incorporated in V2 |
+| 2026-03-08 | Cecil (locum): available for planned peak-evening cover in addition to gap-fill | Addresses evening peak (18:00–20:00) single-nurse gap | Incorporated in V2 |
+
 **Pending Decisions**:
 - On-call compensation model (defined and compensated separately per the SOP, but rates not yet set)
 - Confirm locum integration into the UK 3-nurse roster
@@ -58,6 +63,7 @@
 | CEO proposals received | 2026-03-07 | Done | 3 documents routed to supporting/ |
 | Amanda brief delivered | 2026-03-07 | ✅ Done | `supporting/uk-roster-amanda-brief.md` — 3-nurse adaptation documented |
 | Grant reviews proposals | 2026-03-09 (London visit week) | ✅ Done | Reviewed; adaptation brief created |
+| CEO feedback incorporated (V2) | 2026-03-08 | ✅ Done | Clinic hours, peaks, backup model updated; response drafted |
 | Cape Town roster confirmed with Kyle | March 2026 | Pending | 4-nurse model — adapt Nurse A/B/C/D to real names |
 | London roster confirmed with Amanda | 2026-03-09 to 2026-03-13 | In Progress | Amanda to draft 3-week rotation; Grant to review and sign off |
 | Saturday on-call model activated (both clinics) | Mid-March 2026 | Pending | Phone diversion setup required |
@@ -108,6 +114,8 @@
 - [ ] Confirm locum integration approach for UK roster
 
 **Recently Completed** (last 30 days):
+- 2026-03-08: CEO feedback incorporated into V2 roster plan (`updates/2026-03-08-uk-roster-plan-v2.md`)
+- 2026-03-08: Response to James drafted (`updates/2026-03-08-response-to-james-roster-feedback.md`)
 - 2026-03-07: Amanda handover brief created and delivered (`supporting/uk-roster-amanda-brief.md`)
 - 2026-03-07: Amanda assigned as UK execution owner; Grant retains oversight + CT rollout
 - 2026-03-07: CEO James's three roster/SOP proposals received and routed to supporting/
@@ -120,6 +128,7 @@
 | Date | Source | Feedback | Action Taken |
 |------|--------|----------|--------------|
 | 2026-03-07 | James (CEO) | Authored and submitted 3 detailed proposals: nursing master roster (4-week cycle), reception weekly roster, and CQC-aligned SOP | Routed to supporting/; info-base updated; awaiting Grant review |
+| 2026-03-08 | James (CEO) | Reviewed V1 roster: "looks very good". Feedback: (1) Clinic hours should be 08:00–20:00, (2) Peak hours 10:00–14:00 and 18:00–20:00, (3) Insert Maria Vega for some hours — need overlap/backup, emergency on floor needs double coverage | V2 plan created incorporating all points; Maria V positioned as emergency backup (not fixed schedule) per Grant's judgement; response email drafted |
 
 **Ideas Under Consideration**:
 - Anchor nurse model (1 nurse rotates Saturday cover weekly with compensatory half-day) — clean and equitable; avoids permanent Saturday staff
